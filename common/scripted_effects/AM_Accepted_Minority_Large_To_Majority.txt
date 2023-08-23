@@ -10,8 +10,20 @@ large_to_majority_accepted_culture_effect = {
             duration = -1
         }
     }
+if = {
+        limit = {
+            culture = pommeranian
+        }
+        remove_province_modifier = large_pommeranian_accepted
+        add_permanent_province_modifier = {
+            name = majority_pommeranian_accepted
+            desc = majority_pommeranian_accepted_desc
+            duration = -1
+        }
+    }
 
-    if = {
+
+	if = {
         limit = {
             culture = prussian
         }
@@ -23,7 +35,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = baltic_german
         }
@@ -35,7 +48,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = lower_saxon
         }
@@ -47,7 +61,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = hannoverian
         }
@@ -59,7 +74,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = hessian
         }
@@ -71,7 +87,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = saxon
         }
@@ -83,7 +100,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = franconian
         }
@@ -95,7 +113,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = swabian
         }
@@ -107,7 +126,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = swiss
         }
@@ -119,7 +139,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bavarian
         }
@@ -131,7 +152,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = austrian
         }
@@ -143,7 +165,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = dutch
         }
@@ -155,7 +178,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = flemish
         }
@@ -167,7 +191,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = frisian
         }
@@ -179,7 +204,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = swedish
         }
@@ -191,7 +217,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = danish
         }
@@ -203,7 +230,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = norwegian
         }
@@ -215,7 +243,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = finnish
         }
@@ -227,7 +256,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sapmi
         }
@@ -239,7 +269,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = karelian
         }
@@ -251,7 +282,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = icelandic
         }
@@ -263,7 +295,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = norse
         }
@@ -275,7 +308,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = english
         }
@@ -287,7 +321,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = american
         }
@@ -299,7 +334,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = welsh
         }
@@ -311,7 +347,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = cornish
         }
@@ -323,7 +360,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = scottish
         }
@@ -335,7 +373,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = irish
         }
@@ -347,7 +386,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = highland_scottish
         }
@@ -359,7 +399,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = lombard
         }
@@ -371,7 +412,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tuscan
         }
@@ -383,7 +425,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sardinian
         }
@@ -395,7 +438,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = romagnan
         }
@@ -407,7 +451,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = ligurian
         }
@@ -419,7 +464,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = venetian
         }
@@ -431,7 +477,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = dalmatian
         }
@@ -443,7 +490,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = neapolitan
         }
@@ -455,7 +503,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = piedmontese
         }
@@ -467,7 +516,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = umbrian
         }
@@ -479,7 +529,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sicilian
         }
@@ -491,7 +542,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = maltese
         }
@@ -503,7 +555,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = castillian
         }
@@ -515,7 +568,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mexican
         }
@@ -527,7 +581,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = platinean
         }
@@ -539,7 +594,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = leonese
         }
@@ -551,7 +607,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = aragonese
         }
@@ -563,7 +620,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = catalan
         }
@@ -575,7 +633,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = galician
         }
@@ -587,7 +646,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = andalucian
         }
@@ -599,7 +659,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = portugese
         }
@@ -611,7 +672,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = brazilian
         }
@@ -623,7 +685,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = basque
         }
@@ -635,7 +698,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = cosmopolitan_french
         }
@@ -647,7 +711,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = gascon
         }
@@ -659,7 +724,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = normand
         }
@@ -671,7 +737,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = aquitaine
         }
@@ -683,7 +750,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = burgundian
         }
@@ -695,7 +763,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = occitain
         }
@@ -707,7 +776,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = wallonian
         }
@@ -719,7 +789,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = louisianans
         }
@@ -731,7 +802,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = quebecois
         }
@@ -743,7 +815,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = anglois
         }
@@ -755,7 +828,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = breton
         }
@@ -767,7 +841,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = uralic
         }
@@ -779,7 +854,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = samoyed
         }
@@ -791,7 +867,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = ostyaki
         }
@@ -803,7 +880,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = ingrian
         }
@@ -815,7 +893,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = croatian
         }
@@ -827,7 +906,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = serbian
         }
@@ -839,7 +919,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = slovene
         }
@@ -851,7 +932,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bosnian
         }
@@ -863,7 +945,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bulgarian
         }
@@ -875,7 +958,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = albanian
         }
@@ -887,7 +971,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = czech
         }
@@ -899,7 +984,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = polish
         }
@@ -911,7 +997,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = schlesian
         }
@@ -923,7 +1010,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sorbian
         }
@@ -935,7 +1023,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = slovak
         }
@@ -947,7 +1036,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = transylvanian
         }
@@ -959,7 +1049,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = romanian
         }
@@ -971,7 +1062,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = hungarian
         }
@@ -983,7 +1075,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = russian
         }
@@ -995,7 +1088,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = novgorodian
         }
@@ -1007,7 +1101,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = ryzanian
         }
@@ -1019,7 +1114,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = byelorussian
         }
@@ -1031,7 +1127,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = ruthenian
         }
@@ -1043,7 +1140,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = russian_new
         }
@@ -1055,7 +1153,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = novgorodian_new
         }
@@ -1067,7 +1166,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = ryazanian_new
         }
@@ -1079,7 +1179,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = byelorussian_new
         }
@@ -1091,7 +1192,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = ruthenian_new
         }
@@ -1103,7 +1205,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = slovak_new
         }
@@ -1115,7 +1218,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = czech_new
         }
@@ -1127,7 +1231,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = polish_new
         }
@@ -1139,7 +1244,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = schlesian_new
         }
@@ -1151,7 +1257,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sorbian_new
         }
@@ -1163,7 +1270,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = croatian_new
         }
@@ -1175,7 +1283,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = serbian_new
         }
@@ -1187,7 +1296,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = slovene_new
         }
@@ -1199,7 +1309,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bosnian_new
         }
@@ -1211,7 +1322,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bulgarian_new
         }
@@ -1223,7 +1335,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = estonian
         }
@@ -1235,7 +1348,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = lithuanian
         }
@@ -1247,7 +1361,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = latvian
         }
@@ -1259,7 +1374,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = greek
         }
@@ -1271,7 +1387,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = pontic_greek
         }
@@ -1283,7 +1400,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = goths
         }
@@ -1295,7 +1413,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = georgian
         }
@@ -1307,7 +1426,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = circassian
         }
@@ -1319,7 +1439,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = dagestani
         }
@@ -1331,7 +1452,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = armenian
         }
@@ -1343,7 +1465,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = turkish
         }
@@ -1355,7 +1478,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = al_misr_arabic
         }
@@ -1367,7 +1491,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = al_suryah_arabic
         }
@@ -1379,7 +1504,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = al_iraqiya_arabic
         }
@@ -1391,7 +1517,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = gulf_arabic
         }
@@ -1403,7 +1530,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bedouin_arabic
         }
@@ -1415,7 +1543,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mahri_culture
         }
@@ -1427,7 +1556,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = hejazi_culture
         }
@@ -1439,7 +1569,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = omani_culture
         }
@@ -1451,7 +1582,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yemani_culture
         }
@@ -1463,7 +1595,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = moroccan
         }
@@ -1475,7 +1608,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tunisian
         }
@@ -1487,7 +1621,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = algerian
         }
@@ -1499,7 +1634,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = berber
         }
@@ -1511,7 +1647,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = persian
         }
@@ -1523,7 +1660,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = luri
         }
@@ -1535,7 +1673,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = azerbaijani
         }
@@ -1547,7 +1686,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = khorasani
         }
@@ -1559,7 +1699,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = baluchi
         }
@@ -1571,7 +1712,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = afghani
         }
@@ -1583,7 +1725,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kurdish
         }
@@ -1595,7 +1738,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mazandarani
         }
@@ -1607,7 +1751,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mongol
         }
@@ -1619,7 +1764,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chahar
         }
@@ -1631,7 +1777,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = khalkha
         }
@@ -1643,7 +1790,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = oirats
         }
@@ -1655,7 +1803,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = uzbehk
         }
@@ -1667,7 +1816,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = turkmeni
         }
@@ -1679,7 +1829,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = uyghur
         }
@@ -1691,7 +1842,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = khazak
         }
@@ -1703,7 +1855,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kirgiz
         }
@@ -1715,7 +1868,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = aztek
         }
@@ -1727,7 +1881,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = totonac
         }
@@ -1739,7 +1894,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = purepecha
         }
@@ -1751,7 +1907,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = matlatzinca
         }
@@ -1763,7 +1920,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tecos
         }
@@ -1775,7 +1933,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tepic
         }
@@ -1787,7 +1946,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chichimecan
         }
@@ -1799,7 +1959,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = guamares
         }
@@ -1811,7 +1972,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = otomi
         }
@@ -1823,7 +1985,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yaqui
         }
@@ -1835,7 +1998,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yucatec
         }
@@ -1847,7 +2011,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = putun
         }
@@ -1859,7 +2024,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mayan
         }
@@ -1871,7 +2037,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = highland_mayan
         }
@@ -1883,7 +2050,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = lacandon
         }
@@ -1895,7 +2063,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = wastek
         }
@@ -1907,7 +2076,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chontales
         }
@@ -1919,7 +2089,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = zapotek
         }
@@ -1931,7 +2102,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mixtec
         }
@@ -1943,7 +2115,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tlapanec
         }
@@ -1955,7 +2128,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = inca
         }
@@ -1967,7 +2141,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = aimara
         }
@@ -1979,7 +2154,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = diaguita
         }
@@ -1991,7 +2167,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chimuan
         }
@@ -2003,7 +2180,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tupinamba
         }
@@ -2015,7 +2193,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = guarani
         }
@@ -2027,7 +2206,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = charruan
         }
@@ -2039,7 +2219,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = ge
         }
@@ -2051,7 +2232,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = jivaro
         }
@@ -2063,7 +2245,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chachapoyan
         }
@@ -2075,7 +2258,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = muisca
         }
@@ -2087,7 +2271,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = cara
         }
@@ -2099,7 +2284,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = miskito
         }
@@ -2111,7 +2297,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chacoan
         }
@@ -2123,7 +2310,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mapuche
         }
@@ -2135,7 +2323,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = patagonian
         }
@@ -2147,7 +2336,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = het
         }
@@ -2159,7 +2349,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = huarpe
         }
@@ -2171,7 +2362,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = arawak
         }
@@ -2183,7 +2375,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = maipurean
         }
@@ -2195,7 +2388,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = carib
         }
@@ -2207,7 +2401,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = guajiro
         }
@@ -2219,7 +2414,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = aleutian
         }
@@ -2231,7 +2427,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = inuit
         }
@@ -2243,7 +2440,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = shawnee
         }
@@ -2255,7 +2453,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = illini
         }
@@ -2267,7 +2466,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = miami
         }
@@ -2279,7 +2479,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = anishinabe
         }
@@ -2291,7 +2492,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = algonquin
         }
@@ -2303,7 +2505,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = cree
         }
@@ -2315,7 +2518,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = innu
         }
@@ -2327,7 +2531,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mesquakie
         }
@@ -2339,7 +2544,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = cheyenne
         }
@@ -2351,7 +2557,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = blackfoot
         }
@@ -2363,7 +2570,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = arapaho
         }
@@ -2375,7 +2583,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = plains_cree
         }
@@ -2387,7 +2596,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bungi
         }
@@ -2399,7 +2609,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = delaware
         }
@@ -2411,7 +2622,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = abenaki
         }
@@ -2423,7 +2635,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mikmaq
         }
@@ -2435,7 +2648,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = maliseet
         }
@@ -2447,7 +2661,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mahican
         }
@@ -2459,7 +2674,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = powhatan
         }
@@ -2471,7 +2687,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = pequot
         }
@@ -2483,7 +2700,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = massachusset
         }
@@ -2495,7 +2713,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = iroquoian
         }
@@ -2507,7 +2726,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = cherokee
         }
@@ -2519,7 +2739,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = huron
         }
@@ -2531,7 +2752,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = laurentian
         }
@@ -2543,7 +2765,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tionontate
         }
@@ -2555,7 +2778,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = susquehannock
         }
@@ -2567,7 +2791,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = dakota
         }
@@ -2579,7 +2804,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = nakota
         }
@@ -2591,7 +2817,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chiwere
         }
@@ -2603,7 +2830,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = osage
         }
@@ -2615,7 +2843,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = wichita
         }
@@ -2627,7 +2856,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = caddo
         }
@@ -2639,7 +2869,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = pawnee
         }
@@ -2651,7 +2882,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = creek
         }
@@ -2663,7 +2895,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = choctaw
         }
@@ -2675,7 +2908,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chickasaw
         }
@@ -2687,7 +2921,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yuchi
         }
@@ -2699,7 +2934,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yoron
         }
@@ -2711,7 +2947,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = catawba
         }
@@ -2723,7 +2960,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = natchez
         }
@@ -2735,7 +2973,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yamasee
         }
@@ -2747,7 +2986,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = pueblo
         }
@@ -2759,7 +2999,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = piman
         }
@@ -2771,7 +3012,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = shoshone
         }
@@ -2783,7 +3025,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kiowa
         }
@@ -2795,7 +3038,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = apache
         }
@@ -2807,7 +3051,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mescalero
         }
@@ -2819,7 +3064,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = lipan
         }
@@ -2831,7 +3077,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = navajo
         }
@@ -2843,7 +3090,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chipewyan
         }
@@ -2855,7 +3103,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = haida
         }
@@ -2867,7 +3116,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = athabascan
         }
@@ -2879,7 +3129,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = salish
         }
@@ -2891,7 +3142,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chinook
         }
@@ -2903,7 +3155,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yokuts
         }
@@ -2915,7 +3168,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = vietnamese_new
         }
@@ -2927,7 +3181,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = korean_new
         }
@@ -2939,7 +3194,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tibetan_new
         }
@@ -2951,7 +3207,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = altaic_new
         }
@@ -2963,7 +3220,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = zhuang_new
         }
@@ -2975,7 +3233,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = manchu_new
         }
@@ -2987,7 +3246,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chihan
         }
@@ -2999,7 +3259,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = cantonese
         }
@@ -3011,7 +3272,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = jin
         }
@@ -3023,7 +3285,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = wu
         }
@@ -3035,7 +3298,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chimin
         }
@@ -3047,7 +3311,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = hakka
         }
@@ -3059,7 +3324,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = gan
         }
@@ -3071,7 +3337,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = xiang
         }
@@ -3083,7 +3350,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sichuanese
         }
@@ -3095,7 +3363,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = jianghuai
         }
@@ -3107,7 +3376,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = xibei
         }
@@ -3119,7 +3389,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = hubei
         }
@@ -3131,7 +3402,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = zhongyuan
         }
@@ -3143,7 +3415,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = shandong_culture
         }
@@ -3155,7 +3428,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = korean
         }
@@ -3167,7 +3441,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = togoku
         }
@@ -3179,7 +3454,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = japanese
         }
@@ -3191,7 +3467,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kyushuan
         }
@@ -3203,7 +3480,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tibetan
         }
@@ -3215,7 +3493,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yi
         }
@@ -3227,7 +3506,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bai
         }
@@ -3239,7 +3519,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = miao
         }
@@ -3251,7 +3532,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = malayan
         }
@@ -3263,7 +3545,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sumatran
         }
@@ -3275,7 +3558,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = acehnese
         }
@@ -3287,7 +3571,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = javanese
         }
@@ -3299,7 +3584,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sundanese
         }
@@ -3311,7 +3597,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = filipino
         }
@@ -3323,7 +3610,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bornean
         }
@@ -3335,7 +3623,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = madagascan
         }
@@ -3347,7 +3636,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sulawesi
         }
@@ -3359,7 +3649,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = moluccan
         }
@@ -3371,7 +3662,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = nusa_tenggara
         }
@@ -3383,7 +3675,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = cham
         }
@@ -3395,7 +3688,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = central_thai
         }
@@ -3407,7 +3701,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = northern_thai
         }
@@ -3419,7 +3714,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = lao
         }
@@ -3431,7 +3727,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = shan
         }
@@ -3443,7 +3740,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = zhuang
         }
@@ -3455,7 +3753,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = khmer
         }
@@ -3467,7 +3766,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mon
         }
@@ -3479,7 +3779,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = vietnamese
         }
@@ -3491,7 +3792,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = burmese
         }
@@ -3503,7 +3805,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chin
         }
@@ -3515,7 +3818,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = karen
         }
@@ -3527,7 +3831,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kachin
         }
@@ -3539,7 +3844,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = arakanese
         }
@@ -3551,7 +3857,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = papuan
         }
@@ -3563,7 +3870,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = maori
         }
@@ -3575,7 +3883,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = melanesian
         }
@@ -3587,7 +3896,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = polynesian
         }
@@ -3599,7 +3909,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = aboriginal
         }
@@ -3611,7 +3922,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yura
         }
@@ -3623,7 +3935,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = paman
         }
@@ -3635,7 +3948,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = gunwinyguan
         }
@@ -3647,7 +3961,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = palawa
         }
@@ -3659,7 +3974,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kulin
         }
@@ -3671,7 +3987,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = gamilaraay
         }
@@ -3683,7 +4000,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = nyoongah
         }
@@ -3695,7 +4013,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = assamese
         }
@@ -3707,7 +4026,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bengali
         }
@@ -3719,7 +4039,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kochi
         }
@@ -3731,7 +4052,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bihari
         }
@@ -3743,7 +4065,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = pahari
         }
@@ -3755,7 +4078,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = nepali
         }
@@ -3767,7 +4091,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = oriya
         }
@@ -3779,7 +4104,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sinhala
         }
@@ -3791,7 +4117,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = avadhi
         }
@@ -3803,7 +4130,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kanauji
         }
@@ -3815,7 +4143,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = vindhyan
         }
@@ -3827,7 +4156,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = panjabi
         }
@@ -3839,7 +4169,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kashmiri
         }
@@ -3851,7 +4182,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = gujarati
         }
@@ -3863,7 +4195,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = parsi
         }
@@ -3875,7 +4208,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = saurashtri
         }
@@ -3887,7 +4221,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = marathi
         }
@@ -3899,7 +4234,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sindhi
         }
@@ -3911,7 +4247,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = rajput
         }
@@ -3923,7 +4260,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = malvi
         }
@@ -3935,7 +4273,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kannada
         }
@@ -3947,7 +4286,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = malayalam
         }
@@ -3959,7 +4299,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tamil
         }
@@ -3971,7 +4312,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = telegu
         }
@@ -3983,7 +4325,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = gondi
         }
@@ -3995,7 +4338,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = garjati
         }
@@ -4007,7 +4351,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = jharkhandi
         }
@@ -4019,7 +4364,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mali
         }
@@ -4031,7 +4377,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = songhai
         }
@@ -4043,7 +4390,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = soninke
         }
@@ -4055,7 +4403,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bambara
         }
@@ -4067,7 +4416,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bozo
         }
@@ -4079,7 +4429,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = dyola
         }
@@ -4091,7 +4442,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = hausa
         }
@@ -4103,7 +4455,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kanuri
         }
@@ -4115,7 +4468,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bilala
         }
@@ -4127,7 +4481,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tunjur
         }
@@ -4139,7 +4494,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tuareg
         }
@@ -4151,7 +4507,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = senegambian
         }
@@ -4163,7 +4520,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = fulani
         }
@@ -4175,7 +4533,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yorumba
         }
@@ -4187,7 +4546,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = aka
         }
@@ -4199,7 +4559,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = nupe
         }
@@ -4211,7 +4572,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = fon
         }
@@ -4223,7 +4585,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mossi
         }
@@ -4235,7 +4598,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = dagomba
         }
@@ -4247,7 +4611,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = makua
         }
@@ -4259,7 +4624,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = nguni
         }
@@ -4271,7 +4637,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bemba
         }
@@ -4283,7 +4650,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = khoisan
         }
@@ -4295,7 +4663,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = shona
         }
@@ -4307,7 +4676,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = nyasa
         }
@@ -4319,7 +4689,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = lunda
         }
@@ -4331,7 +4702,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = luba
         }
@@ -4343,7 +4715,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kongolese
         }
@@ -4355,7 +4728,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yaka
         }
@@ -4367,7 +4741,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kuba
         }
@@ -4379,7 +4754,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mbundu
         }
@@ -4391,7 +4767,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = chokwe
         }
@@ -4403,7 +4780,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mbangala
         }
@@ -4415,7 +4793,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = jukun
         }
@@ -4427,7 +4806,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sawabantu
         }
@@ -4439,7 +4819,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = rwandan
         }
@@ -4451,7 +4832,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = ganda
         }
@@ -4463,7 +4845,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = masaba
         }
@@ -4475,7 +4858,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = madagasue
         }
@@ -4487,7 +4871,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = takama
         }
@@ -4499,7 +4884,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bena
         }
@@ -4511,7 +4897,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bantu
         }
@@ -4523,7 +4910,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = swahili
         }
@@ -4535,7 +4923,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = somali
         }
@@ -4547,7 +4936,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = harari
         }
@@ -4559,7 +4949,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = afar
         }
@@ -4571,7 +4962,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = oromo
         }
@@ -4583,7 +4975,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tigray
         }
@@ -4595,7 +4988,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = sidamo
         }
@@ -4607,7 +5001,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = amhara
         }
@@ -4619,7 +5014,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = acholi
         }
@@ -4631,7 +5027,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = nubian
         }
@@ -4643,7 +5040,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = beja
         }
@@ -4655,7 +5053,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = evenk
         }
@@ -4667,7 +5066,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yakut
         }
@@ -4679,7 +5079,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = yukagyr
         }
@@ -4691,7 +5092,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = buryat
         }
@@ -4703,7 +5105,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = tungus
         }
@@ -4715,7 +5118,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = manchu
         }
@@ -4727,7 +5131,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = ainu
         }
@@ -4739,7 +5144,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kamchatkan
         }
@@ -4751,7 +5157,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = nivkh
         }
@@ -4763,7 +5170,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = astrakhani
         }
@@ -4775,7 +5183,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = bashkir
         }
@@ -4787,7 +5196,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = crimean
         }
@@ -4799,7 +5209,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = kazani
         }
@@ -4811,7 +5222,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = mishary
         }
@@ -4823,7 +5235,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = nogaybak
         }
@@ -4835,7 +5248,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = siberian
         }
@@ -4847,7 +5261,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = atlantean
         }
@@ -4859,7 +5274,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = spartan
         }
@@ -4871,7 +5287,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = athenian
         }
@@ -4883,7 +5300,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = old_egyptian
         }
@@ -4895,7 +5313,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = roman
         }
@@ -4907,7 +5326,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = jan_mayenese
         }
@@ -4919,7 +5339,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = pruthenian
         }
@@ -4931,7 +5352,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = phoenician
         }
@@ -4943,7 +5365,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = scanian
         }
@@ -4955,7 +5378,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = anglosaxon
         }
@@ -4967,7 +5391,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = babylonian
         }
@@ -4979,7 +5404,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = etrurian
         }
@@ -4991,7 +5417,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = parthian
         }
@@ -5003,7 +5430,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = aramaic
         }
@@ -5015,7 +5443,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = hebrew
         }
@@ -5027,7 +5456,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = scythian
         }
@@ -5039,7 +5469,8 @@ large_to_majority_accepted_culture_effect = {
         }
     }
 
-    if = {
+
+	if = {
         limit = {
             culture = livonian
         }
@@ -5047,6 +5478,1163 @@ large_to_majority_accepted_culture_effect = {
         add_permanent_province_modifier = {
             name = majority_livonian_accepted
             desc = majority_livonian_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = arpitan
+        }
+        remove_province_modifier = large_arpitan_accepted
+        add_permanent_province_modifier = {
+            name = majority_arpitan_accepted
+            desc = majority_arpitan_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = angevin
+        }
+        remove_province_modifier = large_angevin_accepted
+        add_permanent_province_modifier = {
+            name = majority_angevin_accepted
+            desc = majority_angevin_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = poitevin
+        }
+        remove_province_modifier = large_poitevin_accepted
+        add_permanent_province_modifier = {
+            name = majority_poitevin_accepted
+            desc = majority_poitevin_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = picard
+        }
+        remove_province_modifier = large_picard_accepted
+        add_permanent_province_modifier = {
+            name = majority_picard_accepted
+            desc = majority_picard_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = lorrain
+        }
+        remove_province_modifier = large_lorrain_accepted
+        add_permanent_province_modifier = {
+            name = majority_lorrain_accepted
+            desc = majority_lorrain_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = auvergnant
+        }
+        remove_province_modifier = large_auvergnant_accepted
+        add_permanent_province_modifier = {
+            name = majority_auvergnant_accepted
+            desc = majority_auvergnant_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = limousin
+        }
+        remove_province_modifier = large_limousin_accepted
+        add_permanent_province_modifier = {
+            name = majority_limousin_accepted
+            desc = majority_limousin_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = provencal
+        }
+        remove_province_modifier = large_provencal_accepted
+        add_permanent_province_modifier = {
+            name = majority_provencal_accepted
+            desc = majority_provencal_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = languedocian
+        }
+        remove_province_modifier = large_languedocian_accepted
+        add_permanent_province_modifier = {
+            name = majority_languedocian_accepted
+            desc = majority_languedocian_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = margravian
+        }
+        remove_province_modifier = large_margravian_accepted
+        add_permanent_province_modifier = {
+            name = majority_margravian_accepted
+            desc = majority_margravian_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = german_silesian
+        }
+        remove_province_modifier = large_german_silesian_accepted
+        add_permanent_province_modifier = {
+            name = majority_german_silesian_accepted
+            desc = majority_german_silesian_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = transyvanian_saxon
+        }
+        remove_province_modifier = large_transyvanian_saxon_accepted
+        add_permanent_province_modifier = {
+            name = majority_transyvanian_saxon_accepted
+            desc = majority_transyvanian_saxon_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = ingerlander
+        }
+        remove_province_modifier = large_ingerlander_accepted
+        add_permanent_province_modifier = {
+            name = majority_ingerlander_accepted
+            desc = majority_ingerlander_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = syriac
+        }
+        remove_province_modifier = large_syriac_accepted
+        add_permanent_province_modifier = {
+            name = majority_syriac_accepted
+            desc = majority_syriac_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = assyrian
+        }
+        remove_province_modifier = large_assyrian_accepted
+        add_permanent_province_modifier = {
+            name = majority_assyrian_accepted
+            desc = majority_assyrian_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = mandaic
+        }
+        remove_province_modifier = large_mandaic_accepted
+        add_permanent_province_modifier = {
+            name = majority_mandaic_accepted
+            desc = majority_mandaic_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = chaldean
+        }
+        remove_province_modifier = large_chaldean_accepted
+        add_permanent_province_modifier = {
+            name = majority_chaldean_accepted
+            desc = majority_chaldean_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = moldavian
+        }
+        remove_province_modifier = large_moldavian_accepted
+        add_permanent_province_modifier = {
+            name = majority_moldavian_accepted
+            desc = majority_moldavian_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = tuvan
+        }
+        remove_province_modifier = large_tuvan_accepted
+        add_permanent_province_modifier = {
+            name = majority_tuvan_accepted
+            desc = majority_tuvan_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = yenisei_kyrgyz
+        }
+        remove_province_modifier = large_yenisei_kyrgyz_accepted
+        add_permanent_province_modifier = {
+            name = majority_yenisei_kyrgyz_accepted
+            desc = majority_yenisei_kyrgyz_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = altaj
+        }
+        remove_province_modifier = large_altaj_accepted
+        add_permanent_province_modifier = {
+            name = majority_altaj_accepted
+            desc = majority_altaj_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = uygur
+        }
+        remove_province_modifier = large_uygur_accepted
+        add_permanent_province_modifier = {
+            name = majority_uygur_accepted
+            desc = majority_uygur_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = naga
+        }
+        remove_province_modifier = large_naga_accepted
+        add_permanent_province_modifier = {
+            name = majority_naga_accepted
+            desc = majority_naga_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = meitei
+        }
+        remove_province_modifier = large_meitei_accepted
+        add_permanent_province_modifier = {
+            name = majority_meitei_accepted
+            desc = majority_meitei_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = tripuri
+        }
+        remove_province_modifier = large_tripuri_accepted
+        add_permanent_province_modifier = {
+            name = majority_tripuri_accepted
+            desc = majority_tripuri_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = kachari
+        }
+        remove_province_modifier = large_kachari_accepted
+        add_permanent_province_modifier = {
+            name = majority_kachari_accepted
+            desc = majority_kachari_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = gilaki
+        }
+        remove_province_modifier = large_gilaki_accepted
+        add_permanent_province_modifier = {
+            name = majority_gilaki_accepted
+            desc = majority_gilaki_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = hazara
+        }
+        remove_province_modifier = large_hazara_accepted
+        add_permanent_province_modifier = {
+            name = majority_hazara_accepted
+            desc = majority_hazara_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = tajiki
+        }
+        remove_province_modifier = large_tajiki_accepted
+        add_permanent_province_modifier = {
+            name = majority_tajiki_accepted
+            desc = majority_tajiki_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = tat
+        }
+        remove_province_modifier = large_tat_accepted
+        add_permanent_province_modifier = {
+            name = majority_tat_accepted
+            desc = majority_tat_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = tati
+        }
+        remove_province_modifier = large_tati_accepted
+        add_permanent_province_modifier = {
+            name = majority_tati_accepted
+            desc = majority_tati_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = adhari
+        }
+        remove_province_modifier = large_adhari_accepted
+        add_permanent_province_modifier = {
+            name = majority_adhari_accepted
+            desc = majority_adhari_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = talysh
+        }
+        remove_province_modifier = large_talysh_accepted
+        add_permanent_province_modifier = {
+            name = majority_talysh_accepted
+            desc = majority_talysh_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = pamiri
+        }
+        remove_province_modifier = large_pamiri_accepted
+        add_permanent_province_modifier = {
+            name = majority_pamiri_accepted
+            desc = majority_pamiri_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = ossetian
+        }
+        remove_province_modifier = large_ossetian_accepted
+        add_permanent_province_modifier = {
+            name = majority_ossetian_accepted
+            desc = majority_ossetian_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = szekely
+        }
+        remove_province_modifier = large_szekely_accepted
+        add_permanent_province_modifier = {
+            name = majority_szekely_accepted
+            desc = majority_szekely_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = cilician
+        }
+        remove_province_modifier = large_cilician_accepted
+        add_permanent_province_modifier = {
+            name = majority_cilician_accepted
+            desc = majority_cilician_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = kabardin
+        }
+        remove_province_modifier = large_kabardin_accepted
+        add_permanent_province_modifier = {
+            name = majority_kabardin_accepted
+            desc = majority_kabardin_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = abkhaz
+        }
+        remove_province_modifier = large_abkhaz_accepted
+        add_permanent_province_modifier = {
+            name = majority_abkhaz_accepted
+            desc = majority_abkhaz_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = pomorian
+        }
+        remove_province_modifier = large_pomorian_accepted
+        add_permanent_province_modifier = {
+            name = majority_pomorian_accepted
+            desc = majority_pomorian_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = polabian
+        }
+        remove_province_modifier = large_polabian_accepted
+        add_permanent_province_modifier = {
+            name = majority_polabian_accepted
+            desc = majority_polabian_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = cappadocian_greek
+        }
+        remove_province_modifier = large_cappadocian_greek_accepted
+        add_permanent_province_modifier = {
+            name = majority_cappadocian_greek_accepted
+            desc = majority_cappadocian_greek_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = laki
+        }
+        remove_province_modifier = large_laki_accepted
+        add_permanent_province_modifier = {
+            name = majority_laki_accepted
+            desc = majority_laki_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = avaric
+        }
+        remove_province_modifier = large_avaric_accepted
+        add_permanent_province_modifier = {
+            name = majority_avaric_accepted
+            desc = majority_avaric_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = kutchi
+        }
+        remove_province_modifier = large_kutchi_accepted
+        add_permanent_province_modifier = {
+            name = majority_kutchi_accepted
+            desc = majority_kutchi_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = siraiki
+        }
+        remove_province_modifier = large_siraiki_accepted
+        add_permanent_province_modifier = {
+            name = majority_siraiki_accepted
+            desc = majority_siraiki_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = hindko
+        }
+        remove_province_modifier = large_hindko_accepted
+        add_permanent_province_modifier = {
+            name = majority_hindko_accepted
+            desc = majority_hindko_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = yogur
+        }
+        remove_province_modifier = large_yogur_accepted
+        add_permanent_province_modifier = {
+            name = majority_yogur_accepted
+            desc = majority_yogur_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = konkani
+        }
+        remove_province_modifier = large_konkani_accepted
+        add_permanent_province_modifier = {
+            name = majority_konkani_accepted
+            desc = majority_konkani_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = bhil
+        }
+        remove_province_modifier = large_bhil_accepted
+        add_permanent_province_modifier = {
+            name = majority_bhil_accepted
+            desc = majority_bhil_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = khandeshi
+        }
+        remove_province_modifier = large_khandeshi_accepted
+        add_permanent_province_modifier = {
+            name = majority_khandeshi_accepted
+            desc = majority_khandeshi_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = ladakhi
+        }
+        remove_province_modifier = large_ladakhi_accepted
+        add_permanent_province_modifier = {
+            name = majority_ladakhi_accepted
+            desc = majority_ladakhi_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = baltic_germanshina
+        }
+        remove_province_modifier = large_baltic_germanshina_accepted
+        add_permanent_province_modifier = {
+            name = majority_baltic_germanshina_accepted
+            desc = majority_baltic_germanshina_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = khowar
+        }
+        remove_province_modifier = large_khowar_accepted
+        add_permanent_province_modifier = {
+            name = majority_khowar_accepted
+            desc = majority_khowar_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = nuristani
+        }
+        remove_province_modifier = large_nuristani_accepted
+        add_permanent_province_modifier = {
+            name = majority_nuristani_accepted
+            desc = majority_nuristani_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = avarian
+        }
+        remove_province_modifier = large_avarian_accepted
+        add_permanent_province_modifier = {
+            name = majority_avarian_accepted
+            desc = majority_avarian_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = chuvash
+        }
+        remove_province_modifier = large_chuvash_accepted
+        add_permanent_province_modifier = {
+            name = majority_chuvash_accepted
+            desc = majority_chuvash_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = bulgar
+        }
+        remove_province_modifier = large_bulgar_accepted
+        add_permanent_province_modifier = {
+            name = majority_bulgar_accepted
+            desc = majority_bulgar_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = udmurt
+        }
+        remove_province_modifier = large_udmurt_accepted
+        add_permanent_province_modifier = {
+            name = majority_udmurt_accepted
+            desc = majority_udmurt_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = sipsongtai
+        }
+        remove_province_modifier = large_sipsongtai_accepted
+        add_permanent_province_modifier = {
+            name = majority_sipsongtai_accepted
+            desc = majority_sipsongtai_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = lue
+        }
+        remove_province_modifier = large_lue_accepted
+        add_permanent_province_modifier = {
+            name = majority_lue_accepted
+            desc = majority_lue_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = pak_thai
+        }
+        remove_province_modifier = large_pak_thai_accepted
+        add_permanent_province_modifier = {
+            name = majority_pak_thai_accepted
+            desc = majority_pak_thai_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = hlai
+        }
+        remove_province_modifier = large_hlai_accepted
+        add_permanent_province_modifier = {
+            name = majority_hlai_accepted
+            desc = majority_hlai_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = lawa
+        }
+        remove_province_modifier = large_lawa_accepted
+        add_permanent_province_modifier = {
+            name = majority_lawa_accepted
+            desc = majority_lawa_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = waic
+        }
+        remove_province_modifier = large_waic_accepted
+        add_permanent_province_modifier = {
+            name = majority_waic_accepted
+            desc = majority_waic_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = oyic
+        }
+        remove_province_modifier = large_oyic_accepted
+        add_permanent_province_modifier = {
+            name = majority_oyic_accepted
+            desc = majority_oyic_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = katu
+        }
+        remove_province_modifier = large_katu_accepted
+        add_permanent_province_modifier = {
+            name = majority_katu_accepted
+            desc = majority_katu_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = mnong
+        }
+        remove_province_modifier = large_mnong_accepted
+        add_permanent_province_modifier = {
+            name = majority_mnong_accepted
+            desc = majority_mnong_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = charau
+        }
+        remove_province_modifier = large_charau_accepted
+        add_permanent_province_modifier = {
+            name = majority_charau_accepted
+            desc = majority_charau_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = bahnar
+        }
+        remove_province_modifier = large_bahnar_accepted
+        add_permanent_province_modifier = {
+            name = majority_bahnar_accepted
+            desc = majority_bahnar_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = khmu
+        }
+        remove_province_modifier = large_khmu_accepted
+        add_permanent_province_modifier = {
+            name = majority_khmu_accepted
+            desc = majority_khmu_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = aslian
+        }
+        remove_province_modifier = large_aslian_accepted
+        add_permanent_province_modifier = {
+            name = majority_aslian_accepted
+            desc = majority_aslian_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = kuy
+        }
+        remove_province_modifier = large_kuy_accepted
+        add_permanent_province_modifier = {
+            name = majority_kuy_accepted
+            desc = majority_kuy_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = pearic
+        }
+        remove_province_modifier = large_pearic_accepted
+        add_permanent_province_modifier = {
+            name = majority_pearic_accepted
+            desc = majority_pearic_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = nyah_kur
+        }
+        remove_province_modifier = large_nyah_kur_accepted
+        add_permanent_province_modifier = {
+            name = majority_nyah_kur_accepted
+            desc = majority_nyah_kur_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = nicobarese
+        }
+        remove_province_modifier = large_nicobarese_accepted
+        add_permanent_province_modifier = {
+            name = majority_nicobarese_accepted
+            desc = majority_nicobarese_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = khasi
+        }
+        remove_province_modifier = large_khasi_accepted
+        add_permanent_province_modifier = {
+            name = majority_khasi_accepted
+            desc = majority_khasi_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = tulu
+        }
+        remove_province_modifier = large_tulu_accepted
+        add_permanent_province_modifier = {
+            name = majority_tulu_accepted
+            desc = majority_tulu_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = brahui
+        }
+        remove_province_modifier = large_brahui_accepted
+        add_permanent_province_modifier = {
+            name = majority_brahui_accepted
+            desc = majority_brahui_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = kurukh
+        }
+        remove_province_modifier = large_kurukh_accepted
+        add_permanent_province_modifier = {
+            name = majority_kurukh_accepted
+            desc = majority_kurukh_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = gondi
+        }
+        remove_province_modifier = large_gondi_accepted
+        add_permanent_province_modifier = {
+            name = majority_gondi_accepted
+            desc = majority_gondi_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = kui
+        }
+        remove_province_modifier = large_kui_accepted
+        add_permanent_province_modifier = {
+            name = majority_kui_accepted
+            desc = majority_kui_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = hani
+        }
+        remove_province_modifier = large_hani_accepted
+        add_permanent_province_modifier = {
+            name = majority_hani_accepted
+            desc = majority_hani_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = lisu
+        }
+        remove_province_modifier = large_lisu_accepted
+        add_permanent_province_modifier = {
+            name = majority_lisu_accepted
+            desc = majority_lisu_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = yao
+        }
+        remove_province_modifier = large_yao_accepted
+        add_permanent_province_modifier = {
+            name = majority_yao_accepted
+            desc = majority_yao_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = qaraqalpak
+        }
+        remove_province_modifier = large_qaraqalpak_accepted
+        add_permanent_province_modifier = {
+            name = majority_qaraqalpak_accepted
+            desc = majority_qaraqalpak_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = munda
+        }
+        remove_province_modifier = large_munda_accepted
+        add_permanent_province_modifier = {
+            name = majority_munda_accepted
+            desc = majority_munda_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = xinan
+        }
+        remove_province_modifier = large_xinan_accepted
+        add_permanent_province_modifier = {
+            name = majority_xinan_accepted
+            desc = majority_xinan_accepted_desc
+            duration = -1
+        }
+    }
+
+
+	if = {
+        limit = {
+            culture = jaraic
+        }
+        remove_province_modifier = large_jaraic_accepted
+        add_permanent_province_modifier = {
+            name = majority_jaraic_accepted
+            desc = majority_jaraic_accepted_desc
             duration = -1
         }
     }
