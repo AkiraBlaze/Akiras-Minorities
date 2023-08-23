@@ -1,0 +1,517 @@
+#russian_new
+small_russian_new_primary = {
+	#small_primary
+}
+
+large_russian_new_primary = {
+	#large_primary
+}
+
+majority_russian_new_primary = {
+	#majority_primary
+}
+
+small_russian_new_accepted = {
+	#small_accepted
+}
+
+large_russian_new_accepted = {
+	#large_accepted
+}
+
+majority_russian_new_accepted = {
+	#majority_accepted
+}
+
+small_russian_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_russian_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_russian_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#novgorodian_new
+small_novgorodian_new_primary = {
+	#small_primary
+}
+
+large_novgorodian_new_primary = {
+	#large_primary
+}
+
+majority_novgorodian_new_primary = {
+	#majority_primary
+}
+
+small_novgorodian_new_accepted = {
+	#small_accepted
+}
+
+large_novgorodian_new_accepted = {
+	#large_accepted
+}
+
+majority_novgorodian_new_accepted = {
+	#majority_accepted
+}
+
+small_novgorodian_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_novgorodian_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_novgorodian_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#ryazanian_new
+small_ryazanian_new_primary = {
+	#small_primary
+}
+
+large_ryazanian_new_primary = {
+	#large_primary
+}
+
+majority_ryazanian_new_primary = {
+	#majority_primary
+}
+
+small_ryazanian_new_accepted = {
+	#small_accepted
+}
+
+large_ryazanian_new_accepted = {
+	#large_accepted
+}
+
+majority_ryazanian_new_accepted = {
+	#majority_accepted
+}
+
+small_ryazanian_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_ryazanian_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_ryazanian_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#ruthenian_new
+small_ruthenian_new_primary = {
+	#small_primary
+}
+
+large_ruthenian_new_primary = {
+	#large_primary
+}
+
+majority_ruthenian_new_primary = {
+	#majority_primary
+}
+
+small_ruthenian_new_accepted = {
+	#small_accepted
+}
+
+large_ruthenian_new_accepted = {
+	#large_accepted
+}
+
+majority_ruthenian_new_accepted = {
+	#majority_accepted
+}
+
+small_ruthenian_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_ruthenian_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_ruthenian_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#slovak_new
+small_slovak_new_primary = {
+	#small_primary
+}
+
+large_slovak_new_primary = {
+	#large_primary
+}
+
+majority_slovak_new_primary = {
+	#majority_primary
+}
+
+small_slovak_new_accepted = {
+	#small_accepted
+}
+
+large_slovak_new_accepted = {
+	#large_accepted
+}
+
+majority_slovak_new_accepted = {
+	#majority_accepted
+}
+
+small_slovak_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_slovak_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_slovak_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#czech_new
+small_czech_new_primary = {
+	#small_primary
+}
+
+large_czech_new_primary = {
+	#large_primary
+}
+
+majority_czech_new_primary = {
+	#majority_primary
+}
+
+small_czech_new_accepted = {
+	#small_accepted
+}
+
+large_czech_new_accepted = {
+	#large_accepted
+}
+
+majority_czech_new_accepted = {
+	#majority_accepted
+}
+
+small_czech_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_czech_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_czech_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#polish_new
+small_polish_new_primary = {
+	#small_primary
+}
+
+large_polish_new_primary = {
+	#large_primary
+}
+
+majority_polish_new_primary = {
+	#majority_primary
+}
+
+small_polish_new_accepted = {
+	#small_accepted
+}
+
+large_polish_new_accepted = {
+	#large_accepted
+}
+
+majority_polish_new_accepted = {
+	#majority_accepted
+}
+
+small_polish_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_polish_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_polish_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#schlesian_new
+small_schlesian_new_primary = {
+	#small_primary
+}
+
+large_schlesian_new_primary = {
+	#large_primary
+}
+
+majority_schlesian_new_primary = {
+	#majority_primary
+}
+
+small_schlesian_new_accepted = {
+	#small_accepted
+}
+
+large_schlesian_new_accepted = {
+	#large_accepted
+}
+
+majority_schlesian_new_accepted = {
+	#majority_accepted
+}
+
+small_schlesian_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_schlesian_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_schlesian_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#sorbian_new
+small_sorbian_new_primary = {
+	#small_primary
+}
+
+large_sorbian_new_primary = {
+	#large_primary
+}
+
+majority_sorbian_new_primary = {
+	#majority_primary
+}
+
+small_sorbian_new_accepted = {
+	#small_accepted
+}
+
+large_sorbian_new_accepted = {
+	#large_accepted
+}
+
+majority_sorbian_new_accepted = {
+	#majority_accepted
+}
+
+small_sorbian_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_sorbian_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_sorbian_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#croatian_new
+small_croatian_new_primary = {
+	#small_primary
+}
+
+large_croatian_new_primary = {
+	#large_primary
+}
+
+majority_croatian_new_primary = {
+	#majority_primary
+}
+
+small_croatian_new_accepted = {
+	#small_accepted
+}
+
+large_croatian_new_accepted = {
+	#large_accepted
+}
+
+majority_croatian_new_accepted = {
+	#majority_accepted
+}
+
+small_croatian_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_croatian_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_croatian_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#serbian_new
+small_serbian_new_primary = {
+	#small_primary
+}
+
+large_serbian_new_primary = {
+	#large_primary
+}
+
+majority_serbian_new_primary = {
+	#majority_primary
+}
+
+small_serbian_new_accepted = {
+	#small_accepted
+}
+
+large_serbian_new_accepted = {
+	#large_accepted
+}
+
+majority_serbian_new_accepted = {
+	#majority_accepted
+}
+
+small_serbian_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_serbian_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_serbian_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#slovene_new
+small_slovene_new_primary = {
+	#small_primary
+}
+
+large_slovene_new_primary = {
+	#large_primary
+}
+
+majority_slovene_new_primary = {
+	#majority_primary
+}
+
+small_slovene_new_accepted = {
+	#small_accepted
+}
+
+large_slovene_new_accepted = {
+	#large_accepted
+}
+
+majority_slovene_new_accepted = {
+	#majority_accepted
+}
+
+small_slovene_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_slovene_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_slovene_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#bosnian_new
+small_bosnian_new_primary = {
+	#small_primary
+}
+
+large_bosnian_new_primary = {
+	#large_primary
+}
+
+majority_bosnian_new_primary = {
+	#majority_primary
+}
+
+small_bosnian_new_accepted = {
+	#small_accepted
+}
+
+large_bosnian_new_accepted = {
+	#large_accepted
+}
+
+majority_bosnian_new_accepted = {
+	#majority_accepted
+}
+
+small_bosnian_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_bosnian_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_bosnian_new_unaccepted = {
+	#majority_unaccepted
+}
+
+#bulgarian_new
+small_bulgarian_new_primary = {
+	#small_primary
+}
+
+large_bulgarian_new_primary = {
+	#large_primary
+}
+
+majority_bulgarian_new_primary = {
+	#majority_primary
+}
+
+small_bulgarian_new_accepted = {
+	#small_accepted
+}
+
+large_bulgarian_new_accepted = {
+	#large_accepted
+}
+
+majority_bulgarian_new_accepted = {
+	#majority_accepted
+}
+
+small_bulgarian_new_unaccepted = {
+	#small_unaccepted
+}
+
+large_bulgarian_new_unaccepted = {
+	#large_unaccepted
+}
+
+majority_bulgarian_new_unaccepted = {
+	#majority_unaccepted
+}

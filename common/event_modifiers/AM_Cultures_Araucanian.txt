@@ -1,0 +1,147 @@
+#mapuche
+small_mapuche_primary = {
+	#small_primary
+}
+
+large_mapuche_primary = {
+	#large_primary
+}
+
+majority_mapuche_primary = {
+	#majority_primary
+}
+
+small_mapuche_accepted = {
+	#small_accepted
+}
+
+large_mapuche_accepted = {
+	#large_accepted
+}
+
+majority_mapuche_accepted = {
+	#majority_accepted
+}
+
+small_mapuche_unaccepted = {
+	#small_unaccepted
+}
+
+large_mapuche_unaccepted = {
+	#large_unaccepted
+}
+
+majority_mapuche_unaccepted = {
+	#majority_unaccepted
+}
+
+#patagonian
+small_patagonian_primary = {
+	#small_primary
+}
+
+large_patagonian_primary = {
+	#large_primary
+}
+
+majority_patagonian_primary = {
+	#majority_primary
+}
+
+small_patagonian_accepted = {
+	#small_accepted
+}
+
+large_patagonian_accepted = {
+	#large_accepted
+}
+
+majority_patagonian_accepted = {
+	#majority_accepted
+}
+
+small_patagonian_unaccepted = {
+	#small_unaccepted
+}
+
+large_patagonian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_patagonian_unaccepted = {
+	#majority_unaccepted
+}
+
+#het
+small_het_primary = {
+	#small_primary
+}
+
+large_het_primary = {
+	#large_primary
+}
+
+majority_het_primary = {
+	#majority_primary
+}
+
+small_het_accepted = {
+	#small_accepted
+}
+
+large_het_accepted = {
+	#large_accepted
+}
+
+majority_het_accepted = {
+	#majority_accepted
+}
+
+small_het_unaccepted = {
+	#small_unaccepted
+}
+
+large_het_unaccepted = {
+	#large_unaccepted
+}
+
+majority_het_unaccepted = {
+	#majority_unaccepted
+}
+
+#huarpe
+small_huarpe_primary = {
+	#small_primary
+}
+
+large_huarpe_primary = {
+	#large_primary
+}
+
+majority_huarpe_primary = {
+	#majority_primary
+}
+
+small_huarpe_accepted = {
+	#small_accepted
+}
+
+large_huarpe_accepted = {
+	#large_accepted
+}
+
+majority_huarpe_accepted = {
+	#majority_accepted
+}
+
+small_huarpe_unaccepted = {
+	#small_unaccepted
+}
+
+large_huarpe_unaccepted = {
+	#large_unaccepted
+}
+
+majority_huarpe_unaccepted = {
+	#majority_unaccepted
+}

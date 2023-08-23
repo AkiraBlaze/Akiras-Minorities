@@ -1,0 +1,332 @@
+#mongol
+small_mongol_primary = {
+	#small_primary
+}
+
+large_mongol_primary = {
+	#large_primary
+}
+
+majority_mongol_primary = {
+	#majority_primary
+}
+
+small_mongol_accepted = {
+	#small_accepted
+}
+
+large_mongol_accepted = {
+	#large_accepted
+}
+
+majority_mongol_accepted = {
+	#majority_accepted
+}
+
+small_mongol_unaccepted = {
+	#small_unaccepted
+}
+
+large_mongol_unaccepted = {
+	#large_unaccepted
+}
+
+majority_mongol_unaccepted = {
+	#majority_unaccepted
+}
+
+#chahar
+small_chahar_primary = {
+	#small_primary
+}
+
+large_chahar_primary = {
+	#large_primary
+}
+
+majority_chahar_primary = {
+	#majority_primary
+}
+
+small_chahar_accepted = {
+	#small_accepted
+}
+
+large_chahar_accepted = {
+	#large_accepted
+}
+
+majority_chahar_accepted = {
+	#majority_accepted
+}
+
+small_chahar_unaccepted = {
+	#small_unaccepted
+}
+
+large_chahar_unaccepted = {
+	#large_unaccepted
+}
+
+majority_chahar_unaccepted = {
+	#majority_unaccepted
+}
+
+#khalkha
+small_khalkha_primary = {
+	#small_primary
+}
+
+large_khalkha_primary = {
+	#large_primary
+}
+
+majority_khalkha_primary = {
+	#majority_primary
+}
+
+small_khalkha_accepted = {
+	#small_accepted
+}
+
+large_khalkha_accepted = {
+	#large_accepted
+}
+
+majority_khalkha_accepted = {
+	#majority_accepted
+}
+
+small_khalkha_unaccepted = {
+	#small_unaccepted
+}
+
+large_khalkha_unaccepted = {
+	#large_unaccepted
+}
+
+majority_khalkha_unaccepted = {
+	#majority_unaccepted
+}
+
+#oirats
+small_oirats_primary = {
+	#small_primary
+}
+
+large_oirats_primary = {
+	#large_primary
+}
+
+majority_oirats_primary = {
+	#majority_primary
+}
+
+small_oirats_accepted = {
+	#small_accepted
+}
+
+large_oirats_accepted = {
+	#large_accepted
+}
+
+majority_oirats_accepted = {
+	#majority_accepted
+}
+
+small_oirats_unaccepted = {
+	#small_unaccepted
+}
+
+large_oirats_unaccepted = {
+	#large_unaccepted
+}
+
+majority_oirats_unaccepted = {
+	#majority_unaccepted
+}
+
+#uzbehk
+small_uzbehk_primary = {
+	#small_primary
+}
+
+large_uzbehk_primary = {
+	#large_primary
+}
+
+majority_uzbehk_primary = {
+	#majority_primary
+}
+
+small_uzbehk_accepted = {
+	#small_accepted
+}
+
+large_uzbehk_accepted = {
+	#large_accepted
+}
+
+majority_uzbehk_accepted = {
+	#majority_accepted
+}
+
+small_uzbehk_unaccepted = {
+	#small_unaccepted
+}
+
+large_uzbehk_unaccepted = {
+	#large_unaccepted
+}
+
+majority_uzbehk_unaccepted = {
+	#majority_unaccepted
+}
+
+#turkmeni
+small_turkmeni_primary = {
+	#small_primary
+}
+
+large_turkmeni_primary = {
+	#large_primary
+}
+
+majority_turkmeni_primary = {
+	#majority_primary
+}
+
+small_turkmeni_accepted = {
+	#small_accepted
+}
+
+large_turkmeni_accepted = {
+	#large_accepted
+}
+
+majority_turkmeni_accepted = {
+	#majority_accepted
+}
+
+small_turkmeni_unaccepted = {
+	#small_unaccepted
+}
+
+large_turkmeni_unaccepted = {
+	#large_unaccepted
+}
+
+majority_turkmeni_unaccepted = {
+	#majority_unaccepted
+}
+
+#uyghur
+small_uyghur_primary = {
+	#small_primary
+}
+
+large_uyghur_primary = {
+	#large_primary
+}
+
+majority_uyghur_primary = {
+	#majority_primary
+}
+
+small_uyghur_accepted = {
+	#small_accepted
+}
+
+large_uyghur_accepted = {
+	#large_accepted
+}
+
+majority_uyghur_accepted = {
+	#majority_accepted
+}
+
+small_uyghur_unaccepted = {
+	#small_unaccepted
+}
+
+large_uyghur_unaccepted = {
+	#large_unaccepted
+}
+
+majority_uyghur_unaccepted = {
+	#majority_unaccepted
+}
+
+#khazak
+small_khazak_primary = {
+	#small_primary
+}
+
+large_khazak_primary = {
+	#large_primary
+}
+
+majority_khazak_primary = {
+	#majority_primary
+}
+
+small_khazak_accepted = {
+	#small_accepted
+}
+
+large_khazak_accepted = {
+	#large_accepted
+}
+
+majority_khazak_accepted = {
+	#majority_accepted
+}
+
+small_khazak_unaccepted = {
+	#small_unaccepted
+}
+
+large_khazak_unaccepted = {
+	#large_unaccepted
+}
+
+majority_khazak_unaccepted = {
+	#majority_unaccepted
+}
+
+#kirgiz
+small_kirgiz_primary = {
+	#small_primary
+}
+
+large_kirgiz_primary = {
+	#large_primary
+}
+
+majority_kirgiz_primary = {
+	#majority_primary
+}
+
+small_kirgiz_accepted = {
+	#small_accepted
+}
+
+large_kirgiz_accepted = {
+	#large_accepted
+}
+
+majority_kirgiz_accepted = {
+	#majority_accepted
+}
+
+small_kirgiz_unaccepted = {
+	#small_unaccepted
+}
+
+large_kirgiz_unaccepted = {
+	#large_unaccepted
+}
+
+majority_kirgiz_unaccepted = {
+	#majority_unaccepted
+}

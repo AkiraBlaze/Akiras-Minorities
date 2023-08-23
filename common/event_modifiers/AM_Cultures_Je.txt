@@ -1,0 +1,73 @@
+#charruan
+small_charruan_primary = {
+	#small_primary
+}
+
+large_charruan_primary = {
+	#large_primary
+}
+
+majority_charruan_primary = {
+	#majority_primary
+}
+
+small_charruan_accepted = {
+	#small_accepted
+}
+
+large_charruan_accepted = {
+	#large_accepted
+}
+
+majority_charruan_accepted = {
+	#majority_accepted
+}
+
+small_charruan_unaccepted = {
+	#small_unaccepted
+}
+
+large_charruan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_charruan_unaccepted = {
+	#majority_unaccepted
+}
+
+#ge
+small_ge_primary = {
+	#small_primary
+}
+
+large_ge_primary = {
+	#large_primary
+}
+
+majority_ge_primary = {
+	#majority_primary
+}
+
+small_ge_accepted = {
+	#small_accepted
+}
+
+large_ge_accepted = {
+	#large_accepted
+}
+
+majority_ge_accepted = {
+	#majority_accepted
+}
+
+small_ge_unaccepted = {
+	#small_unaccepted
+}
+
+large_ge_unaccepted = {
+	#large_unaccepted
+}
+
+majority_ge_unaccepted = {
+	#majority_unaccepted
+}

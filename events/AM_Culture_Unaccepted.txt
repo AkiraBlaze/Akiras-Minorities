@@ -1,0 +1,19 @@
+namespace = culture_unaccepted
+
+country_event = {
+	id = culture_unaccepted.1
+	title = culture_unaccepted.1.t
+	desc = culture_unaccepted.1.d
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = culture_unaccepted.1.a
+		hidden_effect = {
+			every_owned_province = {
+				culture_unaccepted_effect = yes
+			}
+		}
+	}
+}

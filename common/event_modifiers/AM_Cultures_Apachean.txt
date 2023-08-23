@@ -1,0 +1,147 @@
+#apache
+small_apache_primary = {
+	#small_primary
+}
+
+large_apache_primary = {
+	#large_primary
+}
+
+majority_apache_primary = {
+	#majority_primary
+}
+
+small_apache_accepted = {
+	#small_accepted
+}
+
+large_apache_accepted = {
+	#large_accepted
+}
+
+majority_apache_accepted = {
+	#majority_accepted
+}
+
+small_apache_unaccepted = {
+	#small_unaccepted
+}
+
+large_apache_unaccepted = {
+	#large_unaccepted
+}
+
+majority_apache_unaccepted = {
+	#majority_unaccepted
+}
+
+#mescalero
+small_mescalero_primary = {
+	#small_primary
+}
+
+large_mescalero_primary = {
+	#large_primary
+}
+
+majority_mescalero_primary = {
+	#majority_primary
+}
+
+small_mescalero_accepted = {
+	#small_accepted
+}
+
+large_mescalero_accepted = {
+	#large_accepted
+}
+
+majority_mescalero_accepted = {
+	#majority_accepted
+}
+
+small_mescalero_unaccepted = {
+	#small_unaccepted
+}
+
+large_mescalero_unaccepted = {
+	#large_unaccepted
+}
+
+majority_mescalero_unaccepted = {
+	#majority_unaccepted
+}
+
+#lipan
+small_lipan_primary = {
+	#small_primary
+}
+
+large_lipan_primary = {
+	#large_primary
+}
+
+majority_lipan_primary = {
+	#majority_primary
+}
+
+small_lipan_accepted = {
+	#small_accepted
+}
+
+large_lipan_accepted = {
+	#large_accepted
+}
+
+majority_lipan_accepted = {
+	#majority_accepted
+}
+
+small_lipan_unaccepted = {
+	#small_unaccepted
+}
+
+large_lipan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_lipan_unaccepted = {
+	#majority_unaccepted
+}
+
+#navajo
+small_navajo_primary = {
+	#small_primary
+}
+
+large_navajo_primary = {
+	#large_primary
+}
+
+majority_navajo_primary = {
+	#majority_primary
+}
+
+small_navajo_accepted = {
+	#small_accepted
+}
+
+large_navajo_accepted = {
+	#large_accepted
+}
+
+majority_navajo_accepted = {
+	#majority_accepted
+}
+
+small_navajo_unaccepted = {
+	#small_unaccepted
+}
+
+large_navajo_unaccepted = {
+	#large_unaccepted
+}
+
+majority_navajo_unaccepted = {
+	#majority_unaccepted
+}

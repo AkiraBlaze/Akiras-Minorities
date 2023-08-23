@@ -1,0 +1,73 @@
+#irish
+small_irish_primary = {
+	#small_primary
+}
+
+large_irish_primary = {
+	#large_primary
+}
+
+majority_irish_primary = {
+	#majority_primary
+}
+
+small_irish_accepted = {
+	#small_accepted
+}
+
+large_irish_accepted = {
+	#large_accepted
+}
+
+majority_irish_accepted = {
+	#majority_accepted
+}
+
+small_irish_unaccepted = {
+	#small_unaccepted
+}
+
+large_irish_unaccepted = {
+	#large_unaccepted
+}
+
+majority_irish_unaccepted = {
+	#majority_unaccepted
+}
+
+#highland_scottish
+small_highland_scottish_primary = {
+	#small_primary
+}
+
+large_highland_scottish_primary = {
+	#large_primary
+}
+
+majority_highland_scottish_primary = {
+	#majority_primary
+}
+
+small_highland_scottish_accepted = {
+	#small_accepted
+}
+
+large_highland_scottish_accepted = {
+	#large_accepted
+}
+
+majority_highland_scottish_accepted = {
+	#majority_accepted
+}
+
+small_highland_scottish_unaccepted = {
+	#small_unaccepted
+}
+
+large_highland_scottish_unaccepted = {
+	#large_unaccepted
+}
+
+majority_highland_scottish_unaccepted = {
+	#majority_unaccepted
+}

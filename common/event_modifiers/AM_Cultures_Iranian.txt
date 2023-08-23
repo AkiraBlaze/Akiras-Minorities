@@ -1,0 +1,295 @@
+#persian
+small_persian_primary = {
+	#small_primary
+}
+
+large_persian_primary = {
+	#large_primary
+}
+
+majority_persian_primary = {
+	#majority_primary
+}
+
+small_persian_accepted = {
+	#small_accepted
+}
+
+large_persian_accepted = {
+	#large_accepted
+}
+
+majority_persian_accepted = {
+	#majority_accepted
+}
+
+small_persian_unaccepted = {
+	#small_unaccepted
+}
+
+large_persian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_persian_unaccepted = {
+	#majority_unaccepted
+}
+
+#luri
+small_luri_primary = {
+	#small_primary
+}
+
+large_luri_primary = {
+	#large_primary
+}
+
+majority_luri_primary = {
+	#majority_primary
+}
+
+small_luri_accepted = {
+	#small_accepted
+}
+
+large_luri_accepted = {
+	#large_accepted
+}
+
+majority_luri_accepted = {
+	#majority_accepted
+}
+
+small_luri_unaccepted = {
+	#small_unaccepted
+}
+
+large_luri_unaccepted = {
+	#large_unaccepted
+}
+
+majority_luri_unaccepted = {
+	#majority_unaccepted
+}
+
+#azerbaijani
+small_azerbaijani_primary = {
+	#small_primary
+}
+
+large_azerbaijani_primary = {
+	#large_primary
+}
+
+majority_azerbaijani_primary = {
+	#majority_primary
+}
+
+small_azerbaijani_accepted = {
+	#small_accepted
+}
+
+large_azerbaijani_accepted = {
+	#large_accepted
+}
+
+majority_azerbaijani_accepted = {
+	#majority_accepted
+}
+
+small_azerbaijani_unaccepted = {
+	#small_unaccepted
+}
+
+large_azerbaijani_unaccepted = {
+	#large_unaccepted
+}
+
+majority_azerbaijani_unaccepted = {
+	#majority_unaccepted
+}
+
+#khorasani
+small_khorasani_primary = {
+	#small_primary
+}
+
+large_khorasani_primary = {
+	#large_primary
+}
+
+majority_khorasani_primary = {
+	#majority_primary
+}
+
+small_khorasani_accepted = {
+	#small_accepted
+}
+
+large_khorasani_accepted = {
+	#large_accepted
+}
+
+majority_khorasani_accepted = {
+	#majority_accepted
+}
+
+small_khorasani_unaccepted = {
+	#small_unaccepted
+}
+
+large_khorasani_unaccepted = {
+	#large_unaccepted
+}
+
+majority_khorasani_unaccepted = {
+	#majority_unaccepted
+}
+
+#baluchi
+small_baluchi_primary = {
+	#small_primary
+}
+
+large_baluchi_primary = {
+	#large_primary
+}
+
+majority_baluchi_primary = {
+	#majority_primary
+}
+
+small_baluchi_accepted = {
+	#small_accepted
+}
+
+large_baluchi_accepted = {
+	#large_accepted
+}
+
+majority_baluchi_accepted = {
+	#majority_accepted
+}
+
+small_baluchi_unaccepted = {
+	#small_unaccepted
+}
+
+large_baluchi_unaccepted = {
+	#large_unaccepted
+}
+
+majority_baluchi_unaccepted = {
+	#majority_unaccepted
+}
+
+#afghani
+small_afghani_primary = {
+	#small_primary
+}
+
+large_afghani_primary = {
+	#large_primary
+}
+
+majority_afghani_primary = {
+	#majority_primary
+}
+
+small_afghani_accepted = {
+	#small_accepted
+}
+
+large_afghani_accepted = {
+	#large_accepted
+}
+
+majority_afghani_accepted = {
+	#majority_accepted
+}
+
+small_afghani_unaccepted = {
+	#small_unaccepted
+}
+
+large_afghani_unaccepted = {
+	#large_unaccepted
+}
+
+majority_afghani_unaccepted = {
+	#majority_unaccepted
+}
+
+#kurdish
+small_kurdish_primary = {
+	#small_primary
+}
+
+large_kurdish_primary = {
+	#large_primary
+}
+
+majority_kurdish_primary = {
+	#majority_primary
+}
+
+small_kurdish_accepted = {
+	#small_accepted
+}
+
+large_kurdish_accepted = {
+	#large_accepted
+}
+
+majority_kurdish_accepted = {
+	#majority_accepted
+}
+
+small_kurdish_unaccepted = {
+	#small_unaccepted
+}
+
+large_kurdish_unaccepted = {
+	#large_unaccepted
+}
+
+majority_kurdish_unaccepted = {
+	#majority_unaccepted
+}
+
+#mazandarani
+small_mazandarani_primary = {
+	#small_primary
+}
+
+large_mazandarani_primary = {
+	#large_primary
+}
+
+majority_mazandarani_primary = {
+	#majority_primary
+}
+
+small_mazandarani_accepted = {
+	#small_accepted
+}
+
+large_mazandarani_accepted = {
+	#large_accepted
+}
+
+majority_mazandarani_accepted = {
+	#majority_accepted
+}
+
+small_mazandarani_unaccepted = {
+	#small_unaccepted
+}
+
+large_mazandarani_unaccepted = {
+	#large_unaccepted
+}
+
+majority_mazandarani_unaccepted = {
+	#majority_unaccepted
+}

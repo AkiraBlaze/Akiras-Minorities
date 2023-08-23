@@ -1,0 +1,443 @@
+#lombard
+small_lombard_primary = {
+	#small_primary
+}
+
+large_lombard_primary = {
+	#large_primary
+}
+
+majority_lombard_primary = {
+	#majority_primary
+}
+
+small_lombard_accepted = {
+	#small_accepted
+}
+
+large_lombard_accepted = {
+	#large_accepted
+}
+
+majority_lombard_accepted = {
+	#majority_accepted
+}
+
+small_lombard_unaccepted = {
+	#small_unaccepted
+}
+
+large_lombard_unaccepted = {
+	#large_unaccepted
+}
+
+majority_lombard_unaccepted = {
+	#majority_unaccepted
+}
+
+#tuscan
+small_tuscan_primary = {
+	#small_primary
+}
+
+large_tuscan_primary = {
+	#large_primary
+}
+
+majority_tuscan_primary = {
+	#majority_primary
+}
+
+small_tuscan_accepted = {
+	#small_accepted
+}
+
+large_tuscan_accepted = {
+	#large_accepted
+}
+
+majority_tuscan_accepted = {
+	#majority_accepted
+}
+
+small_tuscan_unaccepted = {
+	#small_unaccepted
+}
+
+large_tuscan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_tuscan_unaccepted = {
+	#majority_unaccepted
+}
+
+#sardinian
+small_sardinian_primary = {
+	#small_primary
+}
+
+large_sardinian_primary = {
+	#large_primary
+}
+
+majority_sardinian_primary = {
+	#majority_primary
+}
+
+small_sardinian_accepted = {
+	#small_accepted
+}
+
+large_sardinian_accepted = {
+	#large_accepted
+}
+
+majority_sardinian_accepted = {
+	#majority_accepted
+}
+
+small_sardinian_unaccepted = {
+	#small_unaccepted
+}
+
+large_sardinian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_sardinian_unaccepted = {
+	#majority_unaccepted
+}
+
+#romagnan
+small_romagnan_primary = {
+	#small_primary
+}
+
+large_romagnan_primary = {
+	#large_primary
+}
+
+majority_romagnan_primary = {
+	#majority_primary
+}
+
+small_romagnan_accepted = {
+	#small_accepted
+}
+
+large_romagnan_accepted = {
+	#large_accepted
+}
+
+majority_romagnan_accepted = {
+	#majority_accepted
+}
+
+small_romagnan_unaccepted = {
+	#small_unaccepted
+}
+
+large_romagnan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_romagnan_unaccepted = {
+	#majority_unaccepted
+}
+
+#ligurian
+small_ligurian_primary = {
+	#small_primary
+}
+
+large_ligurian_primary = {
+	#large_primary
+}
+
+majority_ligurian_primary = {
+	#majority_primary
+}
+
+small_ligurian_accepted = {
+	#small_accepted
+}
+
+large_ligurian_accepted = {
+	#large_accepted
+}
+
+majority_ligurian_accepted = {
+	#majority_accepted
+}
+
+small_ligurian_unaccepted = {
+	#small_unaccepted
+}
+
+large_ligurian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_ligurian_unaccepted = {
+	#majority_unaccepted
+}
+
+#venetian
+small_venetian_primary = {
+	#small_primary
+}
+
+large_venetian_primary = {
+	#large_primary
+}
+
+majority_venetian_primary = {
+	#majority_primary
+}
+
+small_venetian_accepted = {
+	#small_accepted
+}
+
+large_venetian_accepted = {
+	#large_accepted
+}
+
+majority_venetian_accepted = {
+	#majority_accepted
+}
+
+small_venetian_unaccepted = {
+	#small_unaccepted
+}
+
+large_venetian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_venetian_unaccepted = {
+	#majority_unaccepted
+}
+
+#dalmatian
+small_dalmatian_primary = {
+	#small_primary
+}
+
+large_dalmatian_primary = {
+	#large_primary
+}
+
+majority_dalmatian_primary = {
+	#majority_primary
+}
+
+small_dalmatian_accepted = {
+	#small_accepted
+}
+
+large_dalmatian_accepted = {
+	#large_accepted
+}
+
+majority_dalmatian_accepted = {
+	#majority_accepted
+}
+
+small_dalmatian_unaccepted = {
+	#small_unaccepted
+}
+
+large_dalmatian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_dalmatian_unaccepted = {
+	#majority_unaccepted
+}
+
+#neapolitan
+small_neapolitan_primary = {
+	#small_primary
+}
+
+large_neapolitan_primary = {
+	#large_primary
+}
+
+majority_neapolitan_primary = {
+	#majority_primary
+}
+
+small_neapolitan_accepted = {
+	#small_accepted
+}
+
+large_neapolitan_accepted = {
+	#large_accepted
+}
+
+majority_neapolitan_accepted = {
+	#majority_accepted
+}
+
+small_neapolitan_unaccepted = {
+	#small_unaccepted
+}
+
+large_neapolitan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_neapolitan_unaccepted = {
+	#majority_unaccepted
+}
+
+#piedmontese
+small_piedmontese_primary = {
+	#small_primary
+}
+
+large_piedmontese_primary = {
+	#large_primary
+}
+
+majority_piedmontese_primary = {
+	#majority_primary
+}
+
+small_piedmontese_accepted = {
+	#small_accepted
+}
+
+large_piedmontese_accepted = {
+	#large_accepted
+}
+
+majority_piedmontese_accepted = {
+	#majority_accepted
+}
+
+small_piedmontese_unaccepted = {
+	#small_unaccepted
+}
+
+large_piedmontese_unaccepted = {
+	#large_unaccepted
+}
+
+majority_piedmontese_unaccepted = {
+	#majority_unaccepted
+}
+
+#umbrian
+small_umbrian_primary = {
+	#small_primary
+}
+
+large_umbrian_primary = {
+	#large_primary
+}
+
+majority_umbrian_primary = {
+	#majority_primary
+}
+
+small_umbrian_accepted = {
+	#small_accepted
+}
+
+large_umbrian_accepted = {
+	#large_accepted
+}
+
+majority_umbrian_accepted = {
+	#majority_accepted
+}
+
+small_umbrian_unaccepted = {
+	#small_unaccepted
+}
+
+large_umbrian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_umbrian_unaccepted = {
+	#majority_unaccepted
+}
+
+#sicilian
+small_sicilian_primary = {
+	#small_primary
+}
+
+large_sicilian_primary = {
+	#large_primary
+}
+
+majority_sicilian_primary = {
+	#majority_primary
+}
+
+small_sicilian_accepted = {
+	#small_accepted
+}
+
+large_sicilian_accepted = {
+	#large_accepted
+}
+
+majority_sicilian_accepted = {
+	#majority_accepted
+}
+
+small_sicilian_unaccepted = {
+	#small_unaccepted
+}
+
+large_sicilian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_sicilian_unaccepted = {
+	#majority_unaccepted
+}
+
+#maltese
+small_maltese_primary = {
+	#small_primary
+}
+
+large_maltese_primary = {
+	#large_primary
+}
+
+majority_maltese_primary = {
+	#majority_primary
+}
+
+small_maltese_accepted = {
+	#small_accepted
+}
+
+large_maltese_accepted = {
+	#large_accepted
+}
+
+majority_maltese_accepted = {
+	#majority_accepted
+}
+
+small_maltese_unaccepted = {
+	#small_unaccepted
+}
+
+large_maltese_unaccepted = {
+	#large_unaccepted
+}
+
+majority_maltese_unaccepted = {
+	#majority_unaccepted
+}

@@ -1,0 +1,178 @@
+French:
+-Arpitan - arpitan
+-Angevin - angevin
+-Poitevin -poitevin
+-Picard - picard
+-Lorrain - lorrain
+
+Aquitanian: - occitanian
+-Auvergnant - auvergnant
+-Limousin - limousin
+-Provencal - provencal
+-Languedocian - languedocian
+
+Brythonic Group - brythonic
+
+Germanic:
+-Margravian - margravian
+-German Silesian - german_silesian
+-Transylvanian Saxon - transylvanian_saxon
+
+Finno-Baltic - finno_baltic
+-Ingrian - ingerlander
+
+Aramaic - aramaic_group
+-Syriac - syriac
+-Assyrian - assyrian
+-Mandaic - mandaic
+-Chaldean - chaldean
+
+Romanian: - romanian_group
+-Moldavian - moldavian
+
+Albanian Group - albanian_group
+
+Basque Group - basque_group
+
+Karluk Group - karluk_group
+
+Oghuz Group - oghuz_turkic
+
+Nivkh Group - nivkh_group
+
+Siberian Turkic: - siberian_turkic
+-Tuvan - tuvan
+-Yenisei Kyrgyz - yenisei_kyrgyz
+-Altaj - altaj
+-uygur (og uyghurs)
+
+Chin: - chin_group
+-Naga - naga
+-Meitei - meitei
+-Tripuri - tripuri
+-Kachari - kachari
+
+Iranian
+-Gilaki - gilaki
+-Hazara - hazara
+-Tajik - tajiki
+-Tat (persian-speaking caucasian folks) - tat
+-Tati (minority culture in azerbaijan) - tati
+-Adhari - adhari
+-Talysh - talysh
+-Pamiri - pamiri
+-ossetian
+
+Carpathian
+-Szekely - szekely
+
+Armenian - armenian_group
+cilician
+
+circassian_group
+-kabardin
+-abkhaz
+
+west_slavic
+-pomorian (kashubian and slovenci)
+-polabian (dannenberg slavs and lebus slavs) - minority culture
+
+byzantine
+-Cappadocian - cappadocian_greek
+
+caucasian:
+-laki
+-Avar - avaric
+
+tatar:
+-moved dagestani (rename to kumyk plz)
+
+northwestern_aryan:
+-kutchi
+-Jatki - siraiki
+-hindko
+
+mongolian:
+-yogur (mongolian uyghurs)
+
+southern_aryan:
+-konkani
+
+western_aryan:
+-bhil
+-khandeshi
+
+tibetan:
+-ladakhi
+-balti
+
+northern_aryan
+-shina
+-khowar
+
+nuristani_group:
+nuristani
+
+oghur_group:
+-avarian
+-chuvash
+-bulgar
+
+finno_ugric:
+-udmurt
+
+thai_group:
+-Tai - sipsongtai
+-lue
+-pak_thai
+-hlai
+
+mon_khmer
+-lawa (minority culture)
+-Wa - waic
+-Oy - oyic
+-katu
+-mnong
+-chrau
+-bahnar
+-khmu
+-Orang Asli - aslian
+-kuy
+-Pear - pearic (minority culture)
+-nyah_kur
+-nicobarese
+-khasi (minority culture (mostly in the wasteland in north-east india))
+
+dravidian:
+-tulu
+-brahui (minority culture in baluchistan)
+-kurukh
+-gondi
+-kui
+
+burmese:
+-hani
+
+baipho:
+-lisu
+
+miao_group:
+-yao
+
+tatar:
+-qaraqalpak
+
+central_indian (rename to mundari)
+-munda 
+
+hindusthani:
+-jharkhandi (rename to chhatisgarhi)
+
+eastern_aryan:
+-garjati (rename to sambalpuri)
+
+chinese:
+-xinan
+
+chamic_group #wip
+-Jarai - jaraic

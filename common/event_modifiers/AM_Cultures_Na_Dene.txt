@@ -1,0 +1,110 @@
+#chipewyan
+small_chipewyan_primary = {
+	#small_primary
+}
+
+large_chipewyan_primary = {
+	#large_primary
+}
+
+majority_chipewyan_primary = {
+	#majority_primary
+}
+
+small_chipewyan_accepted = {
+	#small_accepted
+}
+
+large_chipewyan_accepted = {
+	#large_accepted
+}
+
+majority_chipewyan_accepted = {
+	#majority_accepted
+}
+
+small_chipewyan_unaccepted = {
+	#small_unaccepted
+}
+
+large_chipewyan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_chipewyan_unaccepted = {
+	#majority_unaccepted
+}
+
+#haida
+small_haida_primary = {
+	#small_primary
+}
+
+large_haida_primary = {
+	#large_primary
+}
+
+majority_haida_primary = {
+	#majority_primary
+}
+
+small_haida_accepted = {
+	#small_accepted
+}
+
+large_haida_accepted = {
+	#large_accepted
+}
+
+majority_haida_accepted = {
+	#majority_accepted
+}
+
+small_haida_unaccepted = {
+	#small_unaccepted
+}
+
+large_haida_unaccepted = {
+	#large_unaccepted
+}
+
+majority_haida_unaccepted = {
+	#majority_unaccepted
+}
+
+#athabascan
+small_athabascan_primary = {
+	#small_primary
+}
+
+large_athabascan_primary = {
+	#large_primary
+}
+
+majority_athabascan_primary = {
+	#majority_primary
+}
+
+small_athabascan_accepted = {
+	#small_accepted
+}
+
+large_athabascan_accepted = {
+	#large_accepted
+}
+
+majority_athabascan_accepted = {
+	#majority_accepted
+}
+
+small_athabascan_unaccepted = {
+	#small_unaccepted
+}
+
+large_athabascan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_athabascan_unaccepted = {
+	#majority_unaccepted
+}

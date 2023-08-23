@@ -1,0 +1,38 @@
+namespace = culture_owner_change
+
+province_event = {
+	id = culture_owner_change.1
+	title = culture_owner_change.1.t
+	desc = culture_owner_change.1.d
+
+	is_triggered_only = yes
+	
+	hidden = yes
+	
+	immediate = { remove_culture_effect = yes }
+
+	option = {
+		name = culture_owner_change.1.a
+		hidden_effect = {
+			if = {
+				limit = {
+					has_owner_culture = yes
+				}
+				primary_culture_effect = yes
+			}
+			if = {
+				limit = {
+					NOT = { has_owner_culture = yes }
+					has_owner_accepted_culture = yes
+				}
+				accepted_culture_effect = yes
+			}
+			if = {
+				limit = {
+					has_owner_accepted_culture = no
+				}
+				unaccepted_culture_effect = yes
+			}
+		}
+	}
+}

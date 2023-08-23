@@ -1,0 +1,110 @@
+#zapotek
+small_zapotek_primary = {
+	#small_primary
+}
+
+large_zapotek_primary = {
+	#large_primary
+}
+
+majority_zapotek_primary = {
+	#majority_primary
+}
+
+small_zapotek_accepted = {
+	#small_accepted
+}
+
+large_zapotek_accepted = {
+	#large_accepted
+}
+
+majority_zapotek_accepted = {
+	#majority_accepted
+}
+
+small_zapotek_unaccepted = {
+	#small_unaccepted
+}
+
+large_zapotek_unaccepted = {
+	#large_unaccepted
+}
+
+majority_zapotek_unaccepted = {
+	#majority_unaccepted
+}
+
+#mixtec
+small_mixtec_primary = {
+	#small_primary
+}
+
+large_mixtec_primary = {
+	#large_primary
+}
+
+majority_mixtec_primary = {
+	#majority_primary
+}
+
+small_mixtec_accepted = {
+	#small_accepted
+}
+
+large_mixtec_accepted = {
+	#large_accepted
+}
+
+majority_mixtec_accepted = {
+	#majority_accepted
+}
+
+small_mixtec_unaccepted = {
+	#small_unaccepted
+}
+
+large_mixtec_unaccepted = {
+	#large_unaccepted
+}
+
+majority_mixtec_unaccepted = {
+	#majority_unaccepted
+}
+
+#tlapanec
+small_tlapanec_primary = {
+	#small_primary
+}
+
+large_tlapanec_primary = {
+	#large_primary
+}
+
+majority_tlapanec_primary = {
+	#majority_primary
+}
+
+small_tlapanec_accepted = {
+	#small_accepted
+}
+
+large_tlapanec_accepted = {
+	#large_accepted
+}
+
+majority_tlapanec_accepted = {
+	#majority_accepted
+}
+
+small_tlapanec_unaccepted = {
+	#small_unaccepted
+}
+
+large_tlapanec_unaccepted = {
+	#large_unaccepted
+}
+
+majority_tlapanec_unaccepted = {
+	#majority_unaccepted
+}

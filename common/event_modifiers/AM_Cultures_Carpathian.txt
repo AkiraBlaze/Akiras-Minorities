@@ -1,0 +1,110 @@
+#transylvanian
+small_transylvanian_primary = {
+	#small_primary
+}
+
+large_transylvanian_primary = {
+	#large_primary
+}
+
+majority_transylvanian_primary = {
+	#majority_primary
+}
+
+small_transylvanian_accepted = {
+	#small_accepted
+}
+
+large_transylvanian_accepted = {
+	#large_accepted
+}
+
+majority_transylvanian_accepted = {
+	#majority_accepted
+}
+
+small_transylvanian_unaccepted = {
+	#small_unaccepted
+}
+
+large_transylvanian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_transylvanian_unaccepted = {
+	#majority_unaccepted
+}
+
+#romanian
+small_romanian_primary = {
+	#small_primary
+}
+
+large_romanian_primary = {
+	#large_primary
+}
+
+majority_romanian_primary = {
+	#majority_primary
+}
+
+small_romanian_accepted = {
+	#small_accepted
+}
+
+large_romanian_accepted = {
+	#large_accepted
+}
+
+majority_romanian_accepted = {
+	#majority_accepted
+}
+
+small_romanian_unaccepted = {
+	#small_unaccepted
+}
+
+large_romanian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_romanian_unaccepted = {
+	#majority_unaccepted
+}
+
+#hungarian
+small_hungarian_primary = {
+	#small_primary
+}
+
+large_hungarian_primary = {
+	#large_primary
+}
+
+majority_hungarian_primary = {
+	#majority_primary
+}
+
+small_hungarian_accepted = {
+	#small_accepted
+}
+
+large_hungarian_accepted = {
+	#large_accepted
+}
+
+majority_hungarian_accepted = {
+	#majority_accepted
+}
+
+small_hungarian_unaccepted = {
+	#small_unaccepted
+}
+
+large_hungarian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_hungarian_unaccepted = {
+	#majority_unaccepted
+}

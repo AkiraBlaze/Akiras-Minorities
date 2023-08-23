@@ -1,0 +1,295 @@
+#shawnee
+small_shawnee_primary = {
+	#small_primary
+}
+
+large_shawnee_primary = {
+	#large_primary
+}
+
+majority_shawnee_primary = {
+	#majority_primary
+}
+
+small_shawnee_accepted = {
+	#small_accepted
+}
+
+large_shawnee_accepted = {
+	#large_accepted
+}
+
+majority_shawnee_accepted = {
+	#majority_accepted
+}
+
+small_shawnee_unaccepted = {
+	#small_unaccepted
+}
+
+large_shawnee_unaccepted = {
+	#large_unaccepted
+}
+
+majority_shawnee_unaccepted = {
+	#majority_unaccepted
+}
+
+#illini
+small_illini_primary = {
+	#small_primary
+}
+
+large_illini_primary = {
+	#large_primary
+}
+
+majority_illini_primary = {
+	#majority_primary
+}
+
+small_illini_accepted = {
+	#small_accepted
+}
+
+large_illini_accepted = {
+	#large_accepted
+}
+
+majority_illini_accepted = {
+	#majority_accepted
+}
+
+small_illini_unaccepted = {
+	#small_unaccepted
+}
+
+large_illini_unaccepted = {
+	#large_unaccepted
+}
+
+majority_illini_unaccepted = {
+	#majority_unaccepted
+}
+
+#miami
+small_miami_primary = {
+	#small_primary
+}
+
+large_miami_primary = {
+	#large_primary
+}
+
+majority_miami_primary = {
+	#majority_primary
+}
+
+small_miami_accepted = {
+	#small_accepted
+}
+
+large_miami_accepted = {
+	#large_accepted
+}
+
+majority_miami_accepted = {
+	#majority_accepted
+}
+
+small_miami_unaccepted = {
+	#small_unaccepted
+}
+
+large_miami_unaccepted = {
+	#large_unaccepted
+}
+
+majority_miami_unaccepted = {
+	#majority_unaccepted
+}
+
+#anishinabe
+small_anishinabe_primary = {
+	#small_primary
+}
+
+large_anishinabe_primary = {
+	#large_primary
+}
+
+majority_anishinabe_primary = {
+	#majority_primary
+}
+
+small_anishinabe_accepted = {
+	#small_accepted
+}
+
+large_anishinabe_accepted = {
+	#large_accepted
+}
+
+majority_anishinabe_accepted = {
+	#majority_accepted
+}
+
+small_anishinabe_unaccepted = {
+	#small_unaccepted
+}
+
+large_anishinabe_unaccepted = {
+	#large_unaccepted
+}
+
+majority_anishinabe_unaccepted = {
+	#majority_unaccepted
+}
+
+#algonquin
+small_algonquin_primary = {
+	#small_primary
+}
+
+large_algonquin_primary = {
+	#large_primary
+}
+
+majority_algonquin_primary = {
+	#majority_primary
+}
+
+small_algonquin_accepted = {
+	#small_accepted
+}
+
+large_algonquin_accepted = {
+	#large_accepted
+}
+
+majority_algonquin_accepted = {
+	#majority_accepted
+}
+
+small_algonquin_unaccepted = {
+	#small_unaccepted
+}
+
+large_algonquin_unaccepted = {
+	#large_unaccepted
+}
+
+majority_algonquin_unaccepted = {
+	#majority_unaccepted
+}
+
+#cree
+small_cree_primary = {
+	#small_primary
+}
+
+large_cree_primary = {
+	#large_primary
+}
+
+majority_cree_primary = {
+	#majority_primary
+}
+
+small_cree_accepted = {
+	#small_accepted
+}
+
+large_cree_accepted = {
+	#large_accepted
+}
+
+majority_cree_accepted = {
+	#majority_accepted
+}
+
+small_cree_unaccepted = {
+	#small_unaccepted
+}
+
+large_cree_unaccepted = {
+	#large_unaccepted
+}
+
+majority_cree_unaccepted = {
+	#majority_unaccepted
+}
+
+#innu
+small_innu_primary = {
+	#small_primary
+}
+
+large_innu_primary = {
+	#large_primary
+}
+
+majority_innu_primary = {
+	#majority_primary
+}
+
+small_innu_accepted = {
+	#small_accepted
+}
+
+large_innu_accepted = {
+	#large_accepted
+}
+
+majority_innu_accepted = {
+	#majority_accepted
+}
+
+small_innu_unaccepted = {
+	#small_unaccepted
+}
+
+large_innu_unaccepted = {
+	#large_unaccepted
+}
+
+majority_innu_unaccepted = {
+	#majority_unaccepted
+}
+
+#mesquakie
+small_mesquakie_primary = {
+	#small_primary
+}
+
+large_mesquakie_primary = {
+	#large_primary
+}
+
+majority_mesquakie_primary = {
+	#majority_primary
+}
+
+small_mesquakie_accepted = {
+	#small_accepted
+}
+
+large_mesquakie_accepted = {
+	#large_accepted
+}
+
+majority_mesquakie_accepted = {
+	#majority_accepted
+}
+
+small_mesquakie_unaccepted = {
+	#small_unaccepted
+}
+
+large_mesquakie_unaccepted = {
+	#large_unaccepted
+}
+
+majority_mesquakie_unaccepted = {
+	#majority_unaccepted
+}

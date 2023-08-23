@@ -1,0 +1,36 @@
+#abc
+small_abc_primary = {
+	#small_primary
+}
+
+large_abc_primary = {
+	#large_primary
+}
+
+majority_abc_primary = {
+	#majority_primary
+}
+
+small_abc_accepted = {
+	#small_accepted
+}
+
+large_abc_accepted = {
+	#large_accepted
+}
+
+majority_abc_accepted = {
+	#majority_accepted
+}
+
+small_abc_unaccepted = {
+	#small_unaccepted
+}
+
+large_abc_unaccepted = {
+	#large_unaccepted
+}
+
+majority_abc_unaccepted = {
+	#majority_unaccepted
+}

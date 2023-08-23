@@ -1,0 +1,36 @@
+#korean
+small_korean_primary = {
+	#small_primary
+}
+
+large_korean_primary = {
+	#large_primary
+}
+
+majority_korean_primary = {
+	#majority_primary
+}
+
+small_korean_accepted = {
+	#small_accepted
+}
+
+large_korean_accepted = {
+	#large_accepted
+}
+
+majority_korean_accepted = {
+	#majority_accepted
+}
+
+small_korean_unaccepted = {
+	#small_unaccepted
+}
+
+large_korean_unaccepted = {
+	#large_unaccepted
+}
+
+majority_korean_unaccepted = {
+	#majority_unaccepted
+}

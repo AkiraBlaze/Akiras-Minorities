@@ -1,0 +1,221 @@
+#tecos
+small_tecos_primary = {
+	#small_primary
+}
+
+large_tecos_primary = {
+	#large_primary
+}
+
+majority_tecos_primary = {
+	#majority_primary
+}
+
+small_tecos_accepted = {
+	#small_accepted
+}
+
+large_tecos_accepted = {
+	#large_accepted
+}
+
+majority_tecos_accepted = {
+	#majority_accepted
+}
+
+small_tecos_unaccepted = {
+	#small_unaccepted
+}
+
+large_tecos_unaccepted = {
+	#large_unaccepted
+}
+
+majority_tecos_unaccepted = {
+	#majority_unaccepted
+}
+
+#tepic
+small_tepic_primary = {
+	#small_primary
+}
+
+large_tepic_primary = {
+	#large_primary
+}
+
+majority_tepic_primary = {
+	#majority_primary
+}
+
+small_tepic_accepted = {
+	#small_accepted
+}
+
+large_tepic_accepted = {
+	#large_accepted
+}
+
+majority_tepic_accepted = {
+	#majority_accepted
+}
+
+small_tepic_unaccepted = {
+	#small_unaccepted
+}
+
+large_tepic_unaccepted = {
+	#large_unaccepted
+}
+
+majority_tepic_unaccepted = {
+	#majority_unaccepted
+}
+
+#chichimecan
+small_chichimecan_primary = {
+	#small_primary
+}
+
+large_chichimecan_primary = {
+	#large_primary
+}
+
+majority_chichimecan_primary = {
+	#majority_primary
+}
+
+small_chichimecan_accepted = {
+	#small_accepted
+}
+
+large_chichimecan_accepted = {
+	#large_accepted
+}
+
+majority_chichimecan_accepted = {
+	#majority_accepted
+}
+
+small_chichimecan_unaccepted = {
+	#small_unaccepted
+}
+
+large_chichimecan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_chichimecan_unaccepted = {
+	#majority_unaccepted
+}
+
+#guamares
+small_guamares_primary = {
+	#small_primary
+}
+
+large_guamares_primary = {
+	#large_primary
+}
+
+majority_guamares_primary = {
+	#majority_primary
+}
+
+small_guamares_accepted = {
+	#small_accepted
+}
+
+large_guamares_accepted = {
+	#large_accepted
+}
+
+majority_guamares_accepted = {
+	#majority_accepted
+}
+
+small_guamares_unaccepted = {
+	#small_unaccepted
+}
+
+large_guamares_unaccepted = {
+	#large_unaccepted
+}
+
+majority_guamares_unaccepted = {
+	#majority_unaccepted
+}
+
+#otomi
+small_otomi_primary = {
+	#small_primary
+}
+
+large_otomi_primary = {
+	#large_primary
+}
+
+majority_otomi_primary = {
+	#majority_primary
+}
+
+small_otomi_accepted = {
+	#small_accepted
+}
+
+large_otomi_accepted = {
+	#large_accepted
+}
+
+majority_otomi_accepted = {
+	#majority_accepted
+}
+
+small_otomi_unaccepted = {
+	#small_unaccepted
+}
+
+large_otomi_unaccepted = {
+	#large_unaccepted
+}
+
+majority_otomi_unaccepted = {
+	#majority_unaccepted
+}
+
+#yaqui
+small_yaqui_primary = {
+	#small_primary
+}
+
+large_yaqui_primary = {
+	#large_primary
+}
+
+majority_yaqui_primary = {
+	#majority_primary
+}
+
+small_yaqui_accepted = {
+	#small_accepted
+}
+
+large_yaqui_accepted = {
+	#large_accepted
+}
+
+majority_yaqui_accepted = {
+	#majority_accepted
+}
+
+small_yaqui_unaccepted = {
+	#small_unaccepted
+}
+
+large_yaqui_unaccepted = {
+	#large_unaccepted
+}
+
+majority_yaqui_unaccepted = {
+	#majority_unaccepted
+}

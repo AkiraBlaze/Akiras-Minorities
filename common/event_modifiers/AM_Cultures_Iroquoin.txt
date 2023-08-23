@@ -1,0 +1,221 @@
+#iroquois
+small_iroquois_primary = {
+	#small_primary
+}
+
+large_iroquois_primary = {
+	#large_primary
+}
+
+majority_iroquois_primary = {
+	#majority_primary
+}
+
+small_iroquois_accepted = {
+	#small_accepted
+}
+
+large_iroquois_accepted = {
+	#large_accepted
+}
+
+majority_iroquois_accepted = {
+	#majority_accepted
+}
+
+small_iroquois_unaccepted = {
+	#small_unaccepted
+}
+
+large_iroquois_unaccepted = {
+	#large_unaccepted
+}
+
+majority_iroquois_unaccepted = {
+	#majority_unaccepted
+}
+
+#cherokee
+small_cherokee_primary = {
+	#small_primary
+}
+
+large_cherokee_primary = {
+	#large_primary
+}
+
+majority_cherokee_primary = {
+	#majority_primary
+}
+
+small_cherokee_accepted = {
+	#small_accepted
+}
+
+large_cherokee_accepted = {
+	#large_accepted
+}
+
+majority_cherokee_accepted = {
+	#majority_accepted
+}
+
+small_cherokee_unaccepted = {
+	#small_unaccepted
+}
+
+large_cherokee_unaccepted = {
+	#large_unaccepted
+}
+
+majority_cherokee_unaccepted = {
+	#majority_unaccepted
+}
+
+#huron
+small_huron_primary = {
+	#small_primary
+}
+
+large_huron_primary = {
+	#large_primary
+}
+
+majority_huron_primary = {
+	#majority_primary
+}
+
+small_huron_accepted = {
+	#small_accepted
+}
+
+large_huron_accepted = {
+	#large_accepted
+}
+
+majority_huron_accepted = {
+	#majority_accepted
+}
+
+small_huron_unaccepted = {
+	#small_unaccepted
+}
+
+large_huron_unaccepted = {
+	#large_unaccepted
+}
+
+majority_huron_unaccepted = {
+	#majority_unaccepted
+}
+
+#laurentian
+small_laurentian_primary = {
+	#small_primary
+}
+
+large_laurentian_primary = {
+	#large_primary
+}
+
+majority_laurentian_primary = {
+	#majority_primary
+}
+
+small_laurentian_accepted = {
+	#small_accepted
+}
+
+large_laurentian_accepted = {
+	#large_accepted
+}
+
+majority_laurentian_accepted = {
+	#majority_accepted
+}
+
+small_laurentian_unaccepted = {
+	#small_unaccepted
+}
+
+large_laurentian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_laurentian_unaccepted = {
+	#majority_unaccepted
+}
+
+#tionontate
+small_tionontate_primary = {
+	#small_primary
+}
+
+large_tionontate_primary = {
+	#large_primary
+}
+
+majority_tionontate_primary = {
+	#majority_primary
+}
+
+small_tionontate_accepted = {
+	#small_accepted
+}
+
+large_tionontate_accepted = {
+	#large_accepted
+}
+
+majority_tionontate_accepted = {
+	#majority_accepted
+}
+
+small_tionontate_unaccepted = {
+	#small_unaccepted
+}
+
+large_tionontate_unaccepted = {
+	#large_unaccepted
+}
+
+majority_tionontate_unaccepted = {
+	#majority_unaccepted
+}
+
+#susquehannock
+small_susquehannock_primary = {
+	#small_primary
+}
+
+large_susquehannock_primary = {
+	#large_primary
+}
+
+majority_susquehannock_primary = {
+	#majority_primary
+}
+
+small_susquehannock_accepted = {
+	#small_accepted
+}
+
+large_susquehannock_accepted = {
+	#large_accepted
+}
+
+majority_susquehannock_accepted = {
+	#majority_accepted
+}
+
+small_susquehannock_unaccepted = {
+	#small_unaccepted
+}
+
+large_susquehannock_unaccepted = {
+	#large_unaccepted
+}
+
+majority_susquehannock_unaccepted = {
+	#majority_unaccepted
+}

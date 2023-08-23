@@ -1,0 +1,147 @@
+#moroccan
+small_moroccan_primary = {
+	#small_primary
+}
+
+large_moroccan_primary = {
+	#large_primary
+}
+
+majority_moroccan_primary = {
+	#majority_primary
+}
+
+small_moroccan_accepted = {
+	#small_accepted
+}
+
+large_moroccan_accepted = {
+	#large_accepted
+}
+
+majority_moroccan_accepted = {
+	#majority_accepted
+}
+
+small_moroccan_unaccepted = {
+	#small_unaccepted
+}
+
+large_moroccan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_moroccan_unaccepted = {
+	#majority_unaccepted
+}
+
+#tunisian
+small_tunisian_primary = {
+	#small_primary
+}
+
+large_tunisian_primary = {
+	#large_primary
+}
+
+majority_tunisian_primary = {
+	#majority_primary
+}
+
+small_tunisian_accepted = {
+	#small_accepted
+}
+
+large_tunisian_accepted = {
+	#large_accepted
+}
+
+majority_tunisian_accepted = {
+	#majority_accepted
+}
+
+small_tunisian_unaccepted = {
+	#small_unaccepted
+}
+
+large_tunisian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_tunisian_unaccepted = {
+	#majority_unaccepted
+}
+
+#algerian
+small_algerian_primary = {
+	#small_primary
+}
+
+large_algerian_primary = {
+	#large_primary
+}
+
+majority_algerian_primary = {
+	#majority_primary
+}
+
+small_algerian_accepted = {
+	#small_accepted
+}
+
+large_algerian_accepted = {
+	#large_accepted
+}
+
+majority_algerian_accepted = {
+	#majority_accepted
+}
+
+small_algerian_unaccepted = {
+	#small_unaccepted
+}
+
+large_algerian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_algerian_unaccepted = {
+	#majority_unaccepted
+}
+
+#berber
+small_berber_primary = {
+	#small_primary
+}
+
+large_berber_primary = {
+	#large_primary
+}
+
+majority_berber_primary = {
+	#majority_primary
+}
+
+small_berber_accepted = {
+	#small_accepted
+}
+
+large_berber_accepted = {
+	#large_accepted
+}
+
+majority_berber_accepted = {
+	#majority_accepted
+}
+
+small_berber_unaccepted = {
+	#small_unaccepted
+}
+
+large_berber_unaccepted = {
+	#large_unaccepted
+}
+
+majority_berber_unaccepted = {
+	#majority_unaccepted
+}

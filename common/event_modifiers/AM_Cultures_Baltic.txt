@@ -1,0 +1,110 @@
+#estonian
+small_estonian_primary = {
+	#small_primary
+}
+
+large_estonian_primary = {
+	#large_primary
+}
+
+majority_estonian_primary = {
+	#majority_primary
+}
+
+small_estonian_accepted = {
+	#small_accepted
+}
+
+large_estonian_accepted = {
+	#large_accepted
+}
+
+majority_estonian_accepted = {
+	#majority_accepted
+}
+
+small_estonian_unaccepted = {
+	#small_unaccepted
+}
+
+large_estonian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_estonian_unaccepted = {
+	#majority_unaccepted
+}
+
+#lithuanian
+small_lithuanian_primary = {
+	#small_primary
+}
+
+large_lithuanian_primary = {
+	#large_primary
+}
+
+majority_lithuanian_primary = {
+	#majority_primary
+}
+
+small_lithuanian_accepted = {
+	#small_accepted
+}
+
+large_lithuanian_accepted = {
+	#large_accepted
+}
+
+majority_lithuanian_accepted = {
+	#majority_accepted
+}
+
+small_lithuanian_unaccepted = {
+	#small_unaccepted
+}
+
+large_lithuanian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_lithuanian_unaccepted = {
+	#majority_unaccepted
+}
+
+#latvian
+small_latvian_primary = {
+	#small_primary
+}
+
+large_latvian_primary = {
+	#large_primary
+}
+
+majority_latvian_primary = {
+	#majority_primary
+}
+
+small_latvian_accepted = {
+	#small_accepted
+}
+
+large_latvian_accepted = {
+	#large_accepted
+}
+
+majority_latvian_accepted = {
+	#majority_accepted
+}
+
+small_latvian_unaccepted = {
+	#small_unaccepted
+}
+
+large_latvian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_latvian_unaccepted = {
+	#majority_unaccepted
+}

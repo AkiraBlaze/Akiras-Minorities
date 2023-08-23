@@ -1,0 +1,147 @@
+#inca
+small_inca_primary = {
+	#small_primary
+}
+
+large_inca_primary = {
+	#large_primary
+}
+
+majority_inca_primary = {
+	#majority_primary
+}
+
+small_inca_accepted = {
+	#small_accepted
+}
+
+large_inca_accepted = {
+	#large_accepted
+}
+
+majority_inca_accepted = {
+	#majority_accepted
+}
+
+small_inca_unaccepted = {
+	#small_unaccepted
+}
+
+large_inca_unaccepted = {
+	#large_unaccepted
+}
+
+majority_inca_unaccepted = {
+	#majority_unaccepted
+}
+
+#aimara
+small_aimara_primary = {
+	#small_primary
+}
+
+large_aimara_primary = {
+	#large_primary
+}
+
+majority_aimara_primary = {
+	#majority_primary
+}
+
+small_aimara_accepted = {
+	#small_accepted
+}
+
+large_aimara_accepted = {
+	#large_accepted
+}
+
+majority_aimara_accepted = {
+	#majority_accepted
+}
+
+small_aimara_unaccepted = {
+	#small_unaccepted
+}
+
+large_aimara_unaccepted = {
+	#large_unaccepted
+}
+
+majority_aimara_unaccepted = {
+	#majority_unaccepted
+}
+
+#diaguita
+small_diaguita_primary = {
+	#small_primary
+}
+
+large_diaguita_primary = {
+	#large_primary
+}
+
+majority_diaguita_primary = {
+	#majority_primary
+}
+
+small_diaguita_accepted = {
+	#small_accepted
+}
+
+large_diaguita_accepted = {
+	#large_accepted
+}
+
+majority_diaguita_accepted = {
+	#majority_accepted
+}
+
+small_diaguita_unaccepted = {
+	#small_unaccepted
+}
+
+large_diaguita_unaccepted = {
+	#large_unaccepted
+}
+
+majority_diaguita_unaccepted = {
+	#majority_unaccepted
+}
+
+#chimuan
+small_chimuan_primary = {
+	#small_primary
+}
+
+large_chimuan_primary = {
+	#large_primary
+}
+
+majority_chimuan_primary = {
+	#majority_primary
+}
+
+small_chimuan_accepted = {
+	#small_accepted
+}
+
+large_chimuan_accepted = {
+	#large_accepted
+}
+
+majority_chimuan_accepted = {
+	#majority_accepted
+}
+
+small_chimuan_unaccepted = {
+	#small_unaccepted
+}
+
+large_chimuan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_chimuan_unaccepted = {
+	#majority_unaccepted
+}

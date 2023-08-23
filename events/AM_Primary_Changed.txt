@@ -1,0 +1,4220 @@
+namespace = primary_changed
+
+country_event = {
+	id = primary_changed.1
+	title = primary_changed.1.t
+	desc = primary_changed.1.d
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = primary_changed.1.a
+		trigger = { primary_culture = pommeranian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_pommeranian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.2.a
+		trigger = { primary_culture = prussian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_prussian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.3.a
+		trigger = { primary_culture = baltic_german }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_baltic_german = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.4.a
+		trigger = { primary_culture = lower_saxon }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_lower_saxon = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.5.a
+		trigger = { primary_culture = hannoverian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hannoverian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.6.a
+		trigger = { primary_culture = hessian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hessian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.7.a
+		trigger = { primary_culture = saxon }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_saxon = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.8.a
+		trigger = { primary_culture = franconian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_franconian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.9.a
+		trigger = { primary_culture = swabian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_swabian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.10.a
+		trigger = { primary_culture = swiss }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_swiss = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.11.a
+		trigger = { primary_culture = bavarian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bavarian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.12.a
+		trigger = { primary_culture = austrian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_austrian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.13.a
+		trigger = { primary_culture = dutch }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_dutch = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.14.a
+		trigger = { primary_culture = flemish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_flemish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.15.a
+		trigger = { primary_culture = frisian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_frisian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.16.a
+		trigger = { primary_culture = swedish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_swedish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.17.a
+		trigger = { primary_culture = danish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_danish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.18.a
+		trigger = { primary_culture = norwegian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_norwegian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.19.a
+		trigger = { primary_culture = finnish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_finnish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.20.a
+		trigger = { primary_culture = sapmi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sapmi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.21.a
+		trigger = { primary_culture = karelian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_karelian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.22.a
+		trigger = { primary_culture = icelandic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_icelandic = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.23.a
+		trigger = { primary_culture = norse }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_norse = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.24.a
+		trigger = { primary_culture = english }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_english = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.25.a
+		trigger = { primary_culture = american }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_american = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.26.a
+		trigger = { primary_culture = welsh }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_welsh = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.27.a
+		trigger = { primary_culture = cornish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_cornish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.28.a
+		trigger = { primary_culture = scottish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_scottish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.29.a
+		trigger = { primary_culture = irish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_irish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.30.a
+		trigger = { primary_culture = highland_scottish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_highland_scottish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.31.a
+		trigger = { primary_culture = lombard }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_lombard = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.32.a
+		trigger = { primary_culture = tuscan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tuscan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.33.a
+		trigger = { primary_culture = sardinian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sardinian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.34.a
+		trigger = { primary_culture = romagnan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_romagnan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.35.a
+		trigger = { primary_culture = ligurian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ligurian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.36.a
+		trigger = { primary_culture = venetian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_venetian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.37.a
+		trigger = { primary_culture = dalmatian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_dalmatian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.38.a
+		trigger = { primary_culture = neapolitan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_neapolitan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.39.a
+		trigger = { primary_culture = piedmontese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_piedmontese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.40.a
+		trigger = { primary_culture = umbrian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_umbrian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.41.a
+		trigger = { primary_culture = sicilian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sicilian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.42.a
+		trigger = { primary_culture = maltese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_maltese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.43.a
+		trigger = { primary_culture = castillian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_castillian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.44.a
+		trigger = { primary_culture = mexican }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mexican = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.45.a
+		trigger = { primary_culture = platinean }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_platinean = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.46.a
+		trigger = { primary_culture = leonese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_leonese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.47.a
+		trigger = { primary_culture = aragonese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_aragonese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.48.a
+		trigger = { primary_culture = catalan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_catalan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.49.a
+		trigger = { primary_culture = galician }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_galician = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.50.a
+		trigger = { primary_culture = andalucian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_andalucian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.51.a
+		trigger = { primary_culture = portugese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_portugese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.52.a
+		trigger = { primary_culture = brazilian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_brazilian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.53.a
+		trigger = { primary_culture = basque }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_basque = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.54.a
+		trigger = { primary_culture = cosmopolitan_french }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_cosmopolitan_french = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.55.a
+		trigger = { primary_culture = gascon }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_gascon = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.56.a
+		trigger = { primary_culture = normand }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_normand = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.57.a
+		trigger = { primary_culture = aquitaine }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_aquitaine = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.58.a
+		trigger = { primary_culture = burgundian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_burgundian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.59.a
+		trigger = { primary_culture = occitain }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_occitain = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.60.a
+		trigger = { primary_culture = wallonian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_wallonian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.61.a
+		trigger = { primary_culture = louisianans }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_louisianans = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.62.a
+		trigger = { primary_culture = quebecois }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_quebecois = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.63.a
+		trigger = { primary_culture = anglois }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_anglois = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.64.a
+		trigger = { primary_culture = breton }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_breton = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.65.a
+		trigger = { primary_culture = uralic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_uralic = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.66.a
+		trigger = { primary_culture = samoyed }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_samoyed = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.67.a
+		trigger = { primary_culture = ostyaki }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ostyaki = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.68.a
+		trigger = { primary_culture = ingrian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ingrian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.69.a
+		trigger = { primary_culture = croatian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_croatian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.70.a
+		trigger = { primary_culture = serbian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_serbian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.71.a
+		trigger = { primary_culture = slovene }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_slovene = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.72.a
+		trigger = { primary_culture = bosnian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bosnian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.73.a
+		trigger = { primary_culture = bulgarian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bulgarian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.74.a
+		trigger = { primary_culture = albanian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_albanian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.75.a
+		trigger = { primary_culture = czech }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_czech = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.76.a
+		trigger = { primary_culture = polish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_polish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.77.a
+		trigger = { primary_culture = schlesian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_schlesian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.78.a
+		trigger = { primary_culture = sorbian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sorbian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.79.a
+		trigger = { primary_culture = slovak }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_slovak = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.80.a
+		trigger = { primary_culture = transylvanian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_transylvanian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.81.a
+		trigger = { primary_culture = romanian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_romanian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.82.a
+		trigger = { primary_culture = hungarian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hungarian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.83.a
+		trigger = { primary_culture = russian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_russian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.84.a
+		trigger = { primary_culture = novgorodian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_novgorodian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.85.a
+		trigger = { primary_culture = ryzanian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ryzanian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.86.a
+		trigger = { primary_culture = byelorussian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_byelorussian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.87.a
+		trigger = { primary_culture = ruthenian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ruthenian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.88.a
+		trigger = { primary_culture = russian_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_russian_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.89.a
+		trigger = { primary_culture = novgorodian_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_novgorodian_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.90.a
+		trigger = { primary_culture = ryazanian_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ryazanian_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.91.a
+		trigger = { primary_culture = byelorussian_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_byelorussian_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.92.a
+		trigger = { primary_culture = ruthenian_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ruthenian_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.93.a
+		trigger = { primary_culture = slovak_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_slovak_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.94.a
+		trigger = { primary_culture = czech_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_czech_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.95.a
+		trigger = { primary_culture = polish_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_polish_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.96.a
+		trigger = { primary_culture = schlesian_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_schlesian_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.97.a
+		trigger = { primary_culture = sorbian_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sorbian_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.98.a
+		trigger = { primary_culture = croatian_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_croatian_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.99.a
+		trigger = { primary_culture = serbian_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_serbian_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.100.a
+		trigger = { primary_culture = slovene_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_slovene_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.101.a
+		trigger = { primary_culture = bosnian_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bosnian_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.102.a
+		trigger = { primary_culture = bulgarian_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bulgarian_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.103.a
+		trigger = { primary_culture = estonian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_estonian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.104.a
+		trigger = { primary_culture = lithuanian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_lithuanian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.105.a
+		trigger = { primary_culture = latvian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_latvian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.106.a
+		trigger = { primary_culture = greek }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_greek = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.107.a
+		trigger = { primary_culture = pontic_greek }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_pontic_greek = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.108.a
+		trigger = { primary_culture = goths }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_goths = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.109.a
+		trigger = { primary_culture = georgian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_georgian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.110.a
+		trigger = { primary_culture = circassian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_circassian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.111.a
+		trigger = { primary_culture = dagestani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_dagestani = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.112.a
+		trigger = { primary_culture = armenian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_armenian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.113.a
+		trigger = { primary_culture = turkish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_turkish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.114.a
+		trigger = { primary_culture = al_misr_arabic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_al_misr_arabic = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.115.a
+		trigger = { primary_culture = al_suryah_arabic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_al_suryah_arabic = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.116.a
+		trigger = { primary_culture = al_iraqiya_arabic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_al_iraqiya_arabic = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.117.a
+		trigger = { primary_culture = gulf_arabic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_gulf_arabic = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.118.a
+		trigger = { primary_culture = bedouin_arabic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bedouin_arabic = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.119.a
+		trigger = { primary_culture = mahri_culture }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mahri_culture = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.120.a
+		trigger = { primary_culture = hejazi_culture }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hejazi_culture = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.121.a
+		trigger = { primary_culture = omani_culture }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_omani_culture = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.122.a
+		trigger = { primary_culture = yemani_culture }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yemani_culture = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.123.a
+		trigger = { primary_culture = moroccan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_moroccan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.124.a
+		trigger = { primary_culture = tunisian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tunisian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.125.a
+		trigger = { primary_culture = algerian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_algerian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.126.a
+		trigger = { primary_culture = berber }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_berber = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.127.a
+		trigger = { primary_culture = persian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_persian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.128.a
+		trigger = { primary_culture = luri }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_luri = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.129.a
+		trigger = { primary_culture = azerbaijani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_azerbaijani = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.130.a
+		trigger = { primary_culture = khorasani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_khorasani = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.131.a
+		trigger = { primary_culture = baluchi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_baluchi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.132.a
+		trigger = { primary_culture = afghani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_afghani = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.133.a
+		trigger = { primary_culture = kurdish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kurdish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.134.a
+		trigger = { primary_culture = mazandarani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mazandarani = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.135.a
+		trigger = { primary_culture = mongol }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mongol = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.136.a
+		trigger = { primary_culture = chahar }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chahar = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.137.a
+		trigger = { primary_culture = khalkha }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_khalkha = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.138.a
+		trigger = { primary_culture = oirats }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_oirats = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.139.a
+		trigger = { primary_culture = uzbehk }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_uzbehk = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.140.a
+		trigger = { primary_culture = turkmeni }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_turkmeni = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.141.a
+		trigger = { primary_culture = uyghur }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_uyghur = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.142.a
+		trigger = { primary_culture = khazak }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_khazak = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.143.a
+		trigger = { primary_culture = kirgiz }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kirgiz = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.144.a
+		trigger = { primary_culture = aztek }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_aztek = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.145.a
+		trigger = { primary_culture = totonac }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_totonac = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.146.a
+		trigger = { primary_culture = purepecha }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_purepecha = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.147.a
+		trigger = { primary_culture = matlatzinca }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_matlatzinca = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.148.a
+		trigger = { primary_culture = tecos }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tecos = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.149.a
+		trigger = { primary_culture = tepic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tepic = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.150.a
+		trigger = { primary_culture = chichimecan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chichimecan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.151.a
+		trigger = { primary_culture = guamares }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_guamares = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.152.a
+		trigger = { primary_culture = otomi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_otomi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.153.a
+		trigger = { primary_culture = yaqui }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yaqui = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.154.a
+		trigger = { primary_culture = yucatec }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yucatec = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.155.a
+		trigger = { primary_culture = putun }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_putun = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.156.a
+		trigger = { primary_culture = mayan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mayan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.157.a
+		trigger = { primary_culture = highland_mayan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_highland_mayan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.158.a
+		trigger = { primary_culture = lacandon }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_lacandon = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.159.a
+		trigger = { primary_culture = wastek }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_wastek = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.160.a
+		trigger = { primary_culture = chontales }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chontales = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.161.a
+		trigger = { primary_culture = zapotek }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_zapotek = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.162.a
+		trigger = { primary_culture = mixtec }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mixtec = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.163.a
+		trigger = { primary_culture = tlapanec }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tlapanec = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.164.a
+		trigger = { primary_culture = inca }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_inca = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.165.a
+		trigger = { primary_culture = aimara }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_aimara = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.166.a
+		trigger = { primary_culture = diaguita }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_diaguita = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.167.a
+		trigger = { primary_culture = chimuan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chimuan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.168.a
+		trigger = { primary_culture = tupinamba }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tupinamba = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.169.a
+		trigger = { primary_culture = guarani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_guarani = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.170.a
+		trigger = { primary_culture = charruan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_charruan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.171.a
+		trigger = { primary_culture = ge }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ge = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.172.a
+		trigger = { primary_culture = jivaro }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_jivaro = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.173.a
+		trigger = { primary_culture = chachapoyan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chachapoyan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.174.a
+		trigger = { primary_culture = muisca }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_muisca = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.175.a
+		trigger = { primary_culture = cara }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_cara = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.176.a
+		trigger = { primary_culture = miskito }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_miskito = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.177.a
+		trigger = { primary_culture = chacoan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chacoan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.178.a
+		trigger = { primary_culture = mapuche }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mapuche = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.179.a
+		trigger = { primary_culture = patagonian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_patagonian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.180.a
+		trigger = { primary_culture = het }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_het = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.181.a
+		trigger = { primary_culture = huarpe }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_huarpe = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.182.a
+		trigger = { primary_culture = arawak }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_arawak = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.183.a
+		trigger = { primary_culture = maipurean }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_maipurean = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.184.a
+		trigger = { primary_culture = carib }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_carib = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.185.a
+		trigger = { primary_culture = guajiro }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_guajiro = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.186.a
+		trigger = { primary_culture = aleutian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_aleutian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.187.a
+		trigger = { primary_culture = inuit }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_inuit = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.188.a
+		trigger = { primary_culture = shawnee }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_shawnee = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.189.a
+		trigger = { primary_culture = illini }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_illini = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.190.a
+		trigger = { primary_culture = miami }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_miami = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.191.a
+		trigger = { primary_culture = anishinabe }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_anishinabe = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.192.a
+		trigger = { primary_culture = algonquin }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_algonquin = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.193.a
+		trigger = { primary_culture = cree }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_cree = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.194.a
+		trigger = { primary_culture = innu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_innu = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.195.a
+		trigger = { primary_culture = mesquakie }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mesquakie = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.196.a
+		trigger = { primary_culture = cheyenne }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_cheyenne = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.197.a
+		trigger = { primary_culture = blackfoot }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_blackfoot = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.198.a
+		trigger = { primary_culture = arapaho }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_arapaho = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.199.a
+		trigger = { primary_culture = plains_cree }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_plains_cree = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.200.a
+		trigger = { primary_culture = bungi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bungi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.201.a
+		trigger = { primary_culture = delaware }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_delaware = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.202.a
+		trigger = { primary_culture = abenaki }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_abenaki = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.203.a
+		trigger = { primary_culture = mikmaq }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mikmaq = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.204.a
+		trigger = { primary_culture = maliseet }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_maliseet = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.205.a
+		trigger = { primary_culture = mahican }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mahican = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.206.a
+		trigger = { primary_culture = powhatan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_powhatan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.207.a
+		trigger = { primary_culture = pequot }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_pequot = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.208.a
+		trigger = { primary_culture = massachusset }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_massachusset = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.209.a
+		trigger = { primary_culture = iroquoian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_iroquoian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.210.a
+		trigger = { primary_culture = cherokee }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_cherokee = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.211.a
+		trigger = { primary_culture = huron }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_huron = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.212.a
+		trigger = { primary_culture = laurentian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_laurentian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.213.a
+		trigger = { primary_culture = tionontate }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tionontate = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.214.a
+		trigger = { primary_culture = susquehannock }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_susquehannock = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.215.a
+		trigger = { primary_culture = dakota }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_dakota = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.216.a
+		trigger = { primary_culture = nakota }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nakota = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.217.a
+		trigger = { primary_culture = chiwere }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chiwere = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.218.a
+		trigger = { primary_culture = osage }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_osage = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.219.a
+		trigger = { primary_culture = wichita }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_wichita = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.220.a
+		trigger = { primary_culture = caddo }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_caddo = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.221.a
+		trigger = { primary_culture = pawnee }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_pawnee = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.222.a
+		trigger = { primary_culture = creek }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_creek = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.223.a
+		trigger = { primary_culture = choctaw }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_choctaw = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.224.a
+		trigger = { primary_culture = chickasaw }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chickasaw = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.225.a
+		trigger = { primary_culture = yuchi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yuchi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.226.a
+		trigger = { primary_culture = yoron }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yoron = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.227.a
+		trigger = { primary_culture = catawba }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_catawba = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.228.a
+		trigger = { primary_culture = natchez }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_natchez = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.229.a
+		trigger = { primary_culture = yamasee }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yamasee = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.230.a
+		trigger = { primary_culture = pueblo }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_pueblo = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.231.a
+		trigger = { primary_culture = piman }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_piman = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.232.a
+		trigger = { primary_culture = shoshone }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_shoshone = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.233.a
+		trigger = { primary_culture = kiowa }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kiowa = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.234.a
+		trigger = { primary_culture = apache }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_apache = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.235.a
+		trigger = { primary_culture = mescalero }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mescalero = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.236.a
+		trigger = { primary_culture = lipan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_lipan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.237.a
+		trigger = { primary_culture = navajo }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_navajo = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.238.a
+		trigger = { primary_culture = chipewyan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chipewyan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.239.a
+		trigger = { primary_culture = haida }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_haida = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.240.a
+		trigger = { primary_culture = athabascan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_athabascan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.241.a
+		trigger = { primary_culture = salish }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_salish = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.242.a
+		trigger = { primary_culture = chinook }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chinook = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.243.a
+		trigger = { primary_culture = yokuts }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yokuts = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.244.a
+		trigger = { primary_culture = vietnamese_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_vietnamese_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.245.a
+		trigger = { primary_culture = korean_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_korean_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.246.a
+		trigger = { primary_culture = tibetan_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tibetan_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.247.a
+		trigger = { primary_culture = altaic_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_altaic_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.248.a
+		trigger = { primary_culture = zhuang_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_zhuang_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.249.a
+		trigger = { primary_culture = manchu_new }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_manchu_new = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.250.a
+		trigger = { primary_culture = chihan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chihan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.251.a
+		trigger = { primary_culture = cantonese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_cantonese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.252.a
+		trigger = { primary_culture = jin }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_jin = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.253.a
+		trigger = { primary_culture = wu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_wu = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.254.a
+		trigger = { primary_culture = chimin }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chimin = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.255.a
+		trigger = { primary_culture = hakka }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hakka = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.256.a
+		trigger = { primary_culture = gan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_gan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.257.a
+		trigger = { primary_culture = xiang }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_xiang = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.258.a
+		trigger = { primary_culture = sichuanese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sichuanese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.259.a
+		trigger = { primary_culture = jianghuai }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_jianghuai = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.260.a
+		trigger = { primary_culture = xibei }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_xibei = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.261.a
+		trigger = { primary_culture = hubei }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hubei = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.262.a
+		trigger = { primary_culture = zhongyuan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_zhongyuan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.263.a
+		trigger = { primary_culture = shandong_culture }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_shandong_culture = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.264.a
+		trigger = { primary_culture = korean }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_korean = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.265.a
+		trigger = { primary_culture = togoku }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_togoku = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.266.a
+		trigger = { primary_culture = japanese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_japanese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.267.a
+		trigger = { primary_culture = kyushuan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kyushuan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.268.a
+		trigger = { primary_culture = tibetan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tibetan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.269.a
+		trigger = { primary_culture = yi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.270.a
+		trigger = { primary_culture = bai }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bai = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.271.a
+		trigger = { primary_culture = miao }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_miao = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.272.a
+		trigger = { primary_culture = malayan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_malayan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.273.a
+		trigger = { primary_culture = sumatran }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sumatran = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.274.a
+		trigger = { primary_culture = acehnese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_acehnese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.275.a
+		trigger = { primary_culture = javanese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_javanese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.276.a
+		trigger = { primary_culture = sundanese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sundanese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.277.a
+		trigger = { primary_culture = filipino }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_filipino = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.278.a
+		trigger = { primary_culture = bornean }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bornean = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.279.a
+		trigger = { primary_culture = madagascan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_madagascan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.280.a
+		trigger = { primary_culture = sulawesi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sulawesi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.281.a
+		trigger = { primary_culture = moluccan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_moluccan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.282.a
+		trigger = { primary_culture = nusa_tenggara }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nusa_tenggara = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.283.a
+		trigger = { primary_culture = cham }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_cham = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.284.a
+		trigger = { primary_culture = central_thai }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_central_thai = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.285.a
+		trigger = { primary_culture = northern_thai }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_northern_thai = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.286.a
+		trigger = { primary_culture = lao }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_lao = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.287.a
+		trigger = { primary_culture = shan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_shan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.288.a
+		trigger = { primary_culture = zhuang }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_zhuang = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.289.a
+		trigger = { primary_culture = khmer }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_khmer = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.290.a
+		trigger = { primary_culture = mon }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mon = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.291.a
+		trigger = { primary_culture = vietnamese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_vietnamese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.292.a
+		trigger = { primary_culture = burmese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_burmese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.293.a
+		trigger = { primary_culture = chin }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chin = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.294.a
+		trigger = { primary_culture = karen }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_karen = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.295.a
+		trigger = { primary_culture = kachin }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kachin = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.296.a
+		trigger = { primary_culture = arakanese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_arakanese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.297.a
+		trigger = { primary_culture = papuan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_papuan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.298.a
+		trigger = { primary_culture = maori }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_maori = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.299.a
+		trigger = { primary_culture = melanesian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_melanesian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.300.a
+		trigger = { primary_culture = polynesian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_polynesian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.301.a
+		trigger = { primary_culture = aboriginal }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_aboriginal = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.302.a
+		trigger = { primary_culture = yura }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yura = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.303.a
+		trigger = { primary_culture = paman }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_paman = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.304.a
+		trigger = { primary_culture = gunwinyguan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_gunwinyguan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.305.a
+		trigger = { primary_culture = palawa }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_palawa = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.306.a
+		trigger = { primary_culture = kulin }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kulin = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.307.a
+		trigger = { primary_culture = gamilaraay }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_gamilaraay = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.308.a
+		trigger = { primary_culture = nyoongah }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nyoongah = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.309.a
+		trigger = { primary_culture = assamese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_assamese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.310.a
+		trigger = { primary_culture = bengali }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bengali = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.311.a
+		trigger = { primary_culture = kochi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kochi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.312.a
+		trigger = { primary_culture = bihari }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bihari = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.313.a
+		trigger = { primary_culture = pahari }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_pahari = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.314.a
+		trigger = { primary_culture = nepali }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nepali = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.315.a
+		trigger = { primary_culture = oriya }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_oriya = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.316.a
+		trigger = { primary_culture = sinhala }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sinhala = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.317.a
+		trigger = { primary_culture = avadhi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_avadhi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.318.a
+		trigger = { primary_culture = kanauji }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kanauji = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.319.a
+		trigger = { primary_culture = vindhyan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_vindhyan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.320.a
+		trigger = { primary_culture = panjabi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_panjabi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.321.a
+		trigger = { primary_culture = kashmiri }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kashmiri = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.322.a
+		trigger = { primary_culture = gujarati }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_gujarati = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.323.a
+		trigger = { primary_culture = parsi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_parsi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.324.a
+		trigger = { primary_culture = saurashtri }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_saurashtri = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.325.a
+		trigger = { primary_culture = marathi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_marathi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.326.a
+		trigger = { primary_culture = sindhi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sindhi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.327.a
+		trigger = { primary_culture = rajput }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_rajput = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.328.a
+		trigger = { primary_culture = malvi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_malvi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.329.a
+		trigger = { primary_culture = kannada }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kannada = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.330.a
+		trigger = { primary_culture = malayalam }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_malayalam = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.331.a
+		trigger = { primary_culture = tamil }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tamil = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.332.a
+		trigger = { primary_culture = telegu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_telegu = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.333.a
+		trigger = { primary_culture = gondi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_gondi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.334.a
+		trigger = { primary_culture = garjati }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_garjati = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.335.a
+		trigger = { primary_culture = jharkhandi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_jharkhandi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.336.a
+		trigger = { primary_culture = mali }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mali = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.337.a
+		trigger = { primary_culture = songhai }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_songhai = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.338.a
+		trigger = { primary_culture = soninke }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_soninke = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.339.a
+		trigger = { primary_culture = bambara }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bambara = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.340.a
+		trigger = { primary_culture = bozo }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bozo = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.341.a
+		trigger = { primary_culture = dyola }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_dyola = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.342.a
+		trigger = { primary_culture = hausa }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hausa = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.343.a
+		trigger = { primary_culture = kanuri }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kanuri = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.344.a
+		trigger = { primary_culture = bilala }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bilala = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.345.a
+		trigger = { primary_culture = tunjur }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tunjur = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.346.a
+		trigger = { primary_culture = tuareg }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tuareg = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.347.a
+		trigger = { primary_culture = senegambian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_senegambian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.348.a
+		trigger = { primary_culture = fulani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_fulani = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.349.a
+		trigger = { primary_culture = yorumba }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yorumba = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.350.a
+		trigger = { primary_culture = aka }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_aka = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.351.a
+		trigger = { primary_culture = nupe }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nupe = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.352.a
+		trigger = { primary_culture = fon }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_fon = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.353.a
+		trigger = { primary_culture = mossi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mossi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.354.a
+		trigger = { primary_culture = dagomba }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_dagomba = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.355.a
+		trigger = { primary_culture = makua }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_makua = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.356.a
+		trigger = { primary_culture = nguni }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nguni = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.357.a
+		trigger = { primary_culture = bemba }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bemba = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.358.a
+		trigger = { primary_culture = khoisan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_khoisan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.359.a
+		trigger = { primary_culture = shona }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_shona = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.360.a
+		trigger = { primary_culture = nyasa }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nyasa = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.361.a
+		trigger = { primary_culture = lunda }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_lunda = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.362.a
+		trigger = { primary_culture = luba }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_luba = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.363.a
+		trigger = { primary_culture = kongolese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kongolese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.364.a
+		trigger = { primary_culture = yaka }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yaka = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.365.a
+		trigger = { primary_culture = kuba }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kuba = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.366.a
+		trigger = { primary_culture = mbundu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mbundu = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.367.a
+		trigger = { primary_culture = chokwe }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chokwe = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.368.a
+		trigger = { primary_culture = mbangala }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mbangala = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.369.a
+		trigger = { primary_culture = jukun }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_jukun = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.370.a
+		trigger = { primary_culture = sawabantu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sawabantu = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.371.a
+		trigger = { primary_culture = rwandan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_rwandan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.372.a
+		trigger = { primary_culture = ganda }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ganda = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.373.a
+		trigger = { primary_culture = masaba }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_masaba = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.374.a
+		trigger = { primary_culture = madagasue }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_madagasue = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.375.a
+		trigger = { primary_culture = takama }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_takama = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.376.a
+		trigger = { primary_culture = bena }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bena = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.377.a
+		trigger = { primary_culture = bantu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bantu = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.378.a
+		trigger = { primary_culture = swahili }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_swahili = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.379.a
+		trigger = { primary_culture = somali }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_somali = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.380.a
+		trigger = { primary_culture = harari }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_harari = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.381.a
+		trigger = { primary_culture = afar }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_afar = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.382.a
+		trigger = { primary_culture = oromo }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_oromo = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.383.a
+		trigger = { primary_culture = tigray }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tigray = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.384.a
+		trigger = { primary_culture = sidamo }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sidamo = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.385.a
+		trigger = { primary_culture = amhara }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_amhara = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.386.a
+		trigger = { primary_culture = acholi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_acholi = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.387.a
+		trigger = { primary_culture = nubian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nubian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.388.a
+		trigger = { primary_culture = beja }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_beja = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.389.a
+		trigger = { primary_culture = evenk }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_evenk = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.390.a
+		trigger = { primary_culture = yakut }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yakut = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.391.a
+		trigger = { primary_culture = yukagyr }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yukagyr = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.392.a
+		trigger = { primary_culture = buryat }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_buryat = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.393.a
+		trigger = { primary_culture = tungus }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tungus = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.394.a
+		trigger = { primary_culture = manchu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_manchu = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.395.a
+		trigger = { primary_culture = ainu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ainu = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.396.a
+		trigger = { primary_culture = kamchatkan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kamchatkan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.397.a
+		trigger = { primary_culture = nivkh }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nivkh = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.398.a
+		trigger = { primary_culture = astrakhani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_astrakhani = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.399.a
+		trigger = { primary_culture = bashkir }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bashkir = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.400.a
+		trigger = { primary_culture = crimean }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_crimean = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.401.a
+		trigger = { primary_culture = kazani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kazani = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.402.a
+		trigger = { primary_culture = mishary }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mishary = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.403.a
+		trigger = { primary_culture = nogaybak }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nogaybak = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.404.a
+		trigger = { primary_culture = siberian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_siberian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.405.a
+		trigger = { primary_culture = atlantean }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_atlantean = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.406.a
+		trigger = { primary_culture = spartan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_spartan = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.407.a
+		trigger = { primary_culture = athenian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_athenian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.408.a
+		trigger = { primary_culture = old_egyptian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_old_egyptian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.409.a
+		trigger = { primary_culture = roman }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_roman = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.410.a
+		trigger = { primary_culture = jan_mayenese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_jan_mayenese = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.411.a
+		trigger = { primary_culture = pruthenian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_pruthenian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.412.a
+		trigger = { primary_culture = phoenician }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_phoenician = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.413.a
+		trigger = { primary_culture = scanian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_scanian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.414.a
+		trigger = { primary_culture = anglosaxon }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_anglosaxon = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.415.a
+		trigger = { primary_culture = babylonian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_babylonian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.416.a
+		trigger = { primary_culture = etrurian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_etrurian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.417.a
+		trigger = { primary_culture = parthian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_parthian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.418.a
+		trigger = { primary_culture = aramaic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_aramaic = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.419.a
+		trigger = { primary_culture = hebrew }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hebrew = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.420.a
+		trigger = { primary_culture = scythian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_scythian = yes
+			}
+		}
+	}
+
+	option = {
+		name = primary_changed.421.a
+		trigger = { primary_culture = livonian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_livonian = yes
+			}
+		}
+	}
+}

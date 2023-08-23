@@ -1,0 +1,221 @@
+#croatian
+small_croatian_primary = {
+	#small_primary
+}
+
+large_croatian_primary = {
+	#large_primary
+}
+
+majority_croatian_primary = {
+	#majority_primary
+}
+
+small_croatian_accepted = {
+	#small_accepted
+}
+
+large_croatian_accepted = {
+	#large_accepted
+}
+
+majority_croatian_accepted = {
+	#majority_accepted
+}
+
+small_croatian_unaccepted = {
+	#small_unaccepted
+}
+
+large_croatian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_croatian_unaccepted = {
+	#majority_unaccepted
+}
+
+#slovene
+small_slovene_primary = {
+	#small_primary
+}
+
+large_slovene_primary = {
+	#large_primary
+}
+
+majority_slovene_primary = {
+	#majority_primary
+}
+
+small_slovene_accepted = {
+	#small_accepted
+}
+
+large_slovene_accepted = {
+	#large_accepted
+}
+
+majority_slovene_accepted = {
+	#majority_accepted
+}
+
+small_slovene_unaccepted = {
+	#small_unaccepted
+}
+
+large_slovene_unaccepted = {
+	#large_unaccepted
+}
+
+majority_slovene_unaccepted = {
+	#majority_unaccepted
+}
+
+#slovene
+small_slovene_primary = {
+	#small_primary
+}
+
+large_slovene_primary = {
+	#large_primary
+}
+
+majority_slovene_primary = {
+	#majority_primary
+}
+
+small_slovene_accepted = {
+	#small_accepted
+}
+
+large_slovene_accepted = {
+	#large_accepted
+}
+
+majority_slovene_accepted = {
+	#majority_accepted
+}
+
+small_slovene_unaccepted = {
+	#small_unaccepted
+}
+
+large_slovene_unaccepted = {
+	#large_unaccepted
+}
+
+majority_slovene_unaccepted = {
+	#majority_unaccepted
+}
+
+#bosnian
+small_bosnian_primary = {
+	#small_primary
+}
+
+large_bosnian_primary = {
+	#large_primary
+}
+
+majority_bosnian_primary = {
+	#majority_primary
+}
+
+small_bosnian_accepted = {
+	#small_accepted
+}
+
+large_bosnian_accepted = {
+	#large_accepted
+}
+
+majority_bosnian_accepted = {
+	#majority_accepted
+}
+
+small_bosnian_unaccepted = {
+	#small_unaccepted
+}
+
+large_bosnian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_bosnian_unaccepted = {
+	#majority_unaccepted
+}
+
+#bulgarian
+small_bulgarian_primary = {
+	#small_primary
+}
+
+large_bulgarian_primary = {
+	#large_primary
+}
+
+majority_bulgarian_primary = {
+	#majority_primary
+}
+
+small_bulgarian_accepted = {
+	#small_accepted
+}
+
+large_bulgarian_accepted = {
+	#large_accepted
+}
+
+majority_bulgarian_accepted = {
+	#majority_accepted
+}
+
+small_bulgarian_unaccepted = {
+	#small_unaccepted
+}
+
+large_bulgarian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_bulgarian_unaccepted = {
+	#majority_unaccepted
+}
+
+#albanian
+small_albanian_primary = {
+	#small_primary
+}
+
+large_albanian_primary = {
+	#large_primary
+}
+
+majority_albanian_primary = {
+	#majority_primary
+}
+
+small_albanian_accepted = {
+	#small_accepted
+}
+
+large_albanian_accepted = {
+	#large_accepted
+}
+
+majority_albanian_accepted = {
+	#majority_accepted
+}
+
+small_albanian_unaccepted = {
+	#small_unaccepted
+}
+
+large_albanian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_albanian_unaccepted = {
+	#majority_unaccepted
+}

@@ -1,0 +1,117 @@
+namespace = culture_conversion
+
+province_event = {
+	id = culture_conversion.1
+	title = culture_conversion.1.t
+	desc = culture_conversion.1.d
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = culture_conversion.1.a
+		trigger = {
+			no_minority_trigger = yes
+			has_owner_culture = yes
+		}
+		hidden_effect = {
+			small_primary_culture_effect = yes
+			reset_culture_effect = yes
+		}
+	}
+	option = {
+		name = culture_conversion.2.a
+		trigger = {
+			no_minority_trigger = yes
+			NOT = { has_owner_culture = yes }
+			has_owner_accepted_culture = yes
+		}
+		hidden_effect = {
+			small_accepted_culture_effect = yes
+			reset_culture_effect = yes
+		}
+	}
+	option = {
+		name = culture_conversion.3.a
+		trigger = {
+			no_minority_trigger = yes
+			has_owner_accepted_culture = no
+		}
+		hidden_effect = {
+			small_unaccepted_culture_effect = yes
+			reset_culture_effect = yes
+		}
+	}
+	option = {
+		name = culture_conversion.4.a
+		trigger = {
+			small_primary_trigger = yes
+			has_owner_culture = yes
+		}
+		hidden_effect = {
+			small_to_large_primary_culture_effect = yes
+			reset_culture_effect = yes
+		}
+	}
+	option = {
+		name = culture_conversion.5.a
+		trigger = {
+			small_accepted_trigger = yes
+			has_owner_accepted_culture = yes
+		}
+		hidden_effect = {
+			small_to_large_accepted_culture_effect = yes
+			reset_culture_effect = yes
+		}
+	}
+	option = {
+		name = culture_conversion.6.a
+		trigger = {
+			small_unaccepted_trigger = yes
+			has_owner_accepted_culture = no
+		}
+		hidden_effect = {
+			small_to_large_unaccepted_culture_effect = yes
+			reset_culture_effect = yes
+		}
+	}
+	option = {
+		name = culture_conversion.7.a
+		trigger = {
+			large_primary_trigger = yes
+			has_owner_culture = yes
+		}
+		hidden_effect = {
+			majority_to_large_unaccepted_culture_effect = yes
+			majority_to_large_accepted_culture_effect = yes
+			majority_to_large_primary_culture_effect = yes
+			large_to_majority_primary_culture_effect = yes
+		}
+	}
+	option = {
+		name = culture_conversion.8.a
+		trigger = {
+			large_accepted_trigger = yes
+			has_owner_accepted_culture = yes
+		}
+		hidden_effect = {
+			majority_to_large_unaccepted_culture_effect = yes
+			majority_to_large_accepted_culture_effect = yes
+			majority_to_large_primary_culture_effect = yes
+			large_to_majority_accepted_culture_effect = yes
+		}
+	}
+	option = {
+		name = culture_conversion.9.a
+		trigger = {
+			large_unaccepted_trigger = yes
+			has_owner_accepted_culture = no
+		}
+		hidden_effect = {
+			majority_to_large_unaccepted_culture_effect = yes
+			majority_to_large_accepted_culture_effect = yes
+			majority_to_large_primary_culture_effect = yes
+			large_to_majority_unaccepted_culture_effect = yes
+		}
+	}
+}

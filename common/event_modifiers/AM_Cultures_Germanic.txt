@@ -1,0 +1,591 @@
+#pommeranian
+small_pommeranian_primary = {
+	#small_primary
+}
+
+large_pommeranian_primary = {
+	#large_primary
+}
+
+majority_pommeranian_primary = {
+	#majority_primary
+}
+
+small_pommeranian_accepted = {
+	#small_accepted
+}
+
+large_pommeranian_accepted = {
+	#large_accepted
+}
+
+majority_pommeranian_accepted = {
+	#majority_accepted
+}
+
+small_pommeranian_unaccepted = {
+	#small_unaccepted
+}
+
+large_pommeranian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_pommeranian_unaccepted = {
+	#majority_unaccepted
+}
+
+#Prussian
+small_prussian_primary = {
+	#small_primary
+}
+
+large_prussian_primary = {
+	#large_primary
+}
+
+majority_prussian_primary = {
+	#majority_primary
+}
+
+small_prussian_accepted = {
+	#small_accepted
+}
+
+large_prussian_accepted = {
+	#large_accepted
+}
+
+majority_prussian_accepted = {
+	#majority_accepted
+}
+
+small_prussian_unaccepted = {
+	#small_unaccepted
+}
+
+large_prussian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_prussian_unaccepted = {
+	#majority_unaccepted
+}
+
+#baltic german
+small_baltic_g_primary = {
+	#small_primary
+}
+
+large_baltic_g_primary = {
+	#large_primary
+}
+
+majority_baltic_g_primary = {
+	#majority_primary
+}
+
+small_baltic_g_accepted = {
+	#small_accepted
+}
+
+large_baltic_g_accepted = {
+	#large_accepted
+}
+
+majority_baltic_g_accepted = {
+	#majority_accepted
+}
+
+small_baltic_g_unaccepted = {
+	#small_unaccepted
+}
+
+large_baltic_g_unaccepted = {
+	#large_unaccepted
+}
+
+majority_baltic_g_unaccepted = {
+	#majority_unaccepted
+}
+
+#lower saxon
+small_lower_saxon_primary = {
+	#small_primary
+}
+
+large_lower_saxon_primary = {
+	#large_primary
+}
+
+majority_lower_saxon_primary = {
+	#majority_primary
+}
+
+small_lower_saxon_accepted = {
+	#small_accepted
+}
+
+large_lower_saxon_accepted = {
+	#large_accepted
+}
+
+majority_lower_saxon_accepted = {
+	#majority_accepted
+}
+
+small_lower_saxon_unaccepted = {
+	#small_unaccepted
+}
+
+large_lower_saxon_unaccepted = {
+	#large_unaccepted
+}
+
+majority_lower_saxon_unaccepted = {
+	#majority_unaccepted
+}
+
+#hannoverian
+small_hannoverian_primary = {
+	#small_primary
+}
+
+large_hannoverian_primary = {
+	#large_primary
+}
+
+majority_hannoverian_primary = {
+	#majority_primary
+}
+
+small_hannoverian_accepted = {
+	#small_accepted
+}
+
+large_hannoverian_accepted = {
+	#large_accepted
+}
+
+majority_hannoverian_accepted = {
+	#majority_accepted
+}
+
+small_hannoverian_unaccepted = {
+	#small_unaccepted
+}
+
+large_hannoverian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_hannoverian_unaccepted = {
+	#majority_unaccepted
+}
+
+#hessian
+small_hessian_primary = {
+	#small_primary
+}
+
+large_hessian_primary = {
+	#large_primary
+}
+
+majority_hessian_primary = {
+	#majority_primary
+}
+
+small_hessian_accepted = {
+	#small_accepted
+}
+
+large_hessian_accepted = {
+	#large_accepted
+}
+
+majority_hessian_accepted = {
+	#majority_accepted
+}
+
+small_hessian_unaccepted = {
+	#small_unaccepted
+}
+
+large_hessian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_hessian_unaccepted = {
+	#majority_unaccepted
+}
+
+#saxon
+small_saxon_primary = {
+	#small_primary
+}
+
+large_saxon_primary = {
+	#large_primary
+}
+
+majority_saxon_primary = {
+	#majority_primary
+}
+
+small_saxon_accepted = {
+	#small_accepted
+}
+
+large_saxon_accepted = {
+	#large_accepted
+}
+
+majority_saxon_accepted = {
+	#majority_accepted
+}
+
+small_saxon_unaccepted = {
+	#small_unaccepted
+}
+
+large_saxon_unaccepted = {
+	#large_unaccepted
+}
+
+majority_saxon_unaccepted = {
+	#majority_unaccepted
+}
+
+#franconian
+small_franconian_primary = {
+	#small_primary
+}
+
+large_franconian_primary = {
+	#large_primary
+}
+
+majority_franconian_primary = {
+	#majority_primary
+}
+
+small_franconian_accepted = {
+	#small_accepted
+}
+
+large_franconian_accepted = {
+	#large_accepted
+}
+
+majority_franconian_accepted = {
+	#majority_accepted
+}
+
+small_franconian_unaccepted = {
+	#small_unaccepted
+}
+
+large_franconian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_franconian_unaccepted = {
+	#majority_unaccepted
+}
+
+#swabian
+small_swabian_primary = {
+	#small_primary
+}
+
+large_swabian_primary = {
+	#large_primary
+}
+
+majority_swabian_primary = {
+	#majority_primary
+}
+
+small_swabian_accepted = {
+	#small_accepted
+}
+
+large_swabian_accepted = {
+	#large_accepted
+}
+
+majority_swabian_accepted = {
+	#majority_accepted
+}
+
+small_swabian_unaccepted = {
+	#small_unaccepted
+}
+
+large_swabian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_swabian_unaccepted = {
+	#majority_unaccepted
+}
+
+#swiss
+small_swiss_primary = {
+	#small_primary
+}
+
+large_swiss_primary = {
+	#large_primary
+}
+
+majority_swiss_primary = {
+	#majority_primary
+}
+
+small_swiss_accepted = {
+	#small_accepted
+}
+
+large_swiss_accepted = {
+	#large_accepted
+}
+
+majority_swiss_accepted = {
+	#majority_accepted
+}
+
+small_swiss_unaccepted = {
+	#small_unaccepted
+}
+
+large_swiss_unaccepted = {
+	#large_unaccepted
+}
+
+majority_swiss_unaccepted = {
+	#majority_unaccepted
+}
+
+#bavarian
+small_bavarian_primary = {
+	#small_primary
+}
+
+large_bavarian_primary = {
+	#large_primary
+}
+
+majority_bavarian_primary = {
+	#majority_primary
+}
+
+small_bavarian_accepted = {
+	#small_accepted
+}
+
+large_bavarian_accepted = {
+	#large_accepted
+}
+
+majority_bavarian_accepted = {
+	#majority_accepted
+}
+
+small_bavarian_unaccepted = {
+	#small_unaccepted
+}
+
+large_bavarian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_bavarian_unaccepted = {
+	#majority_unaccepted
+}
+
+#austrian
+small_austrian_primary = {
+	#small_primary
+}
+
+large_austrian_primary = {
+	#large_primary
+}
+
+majority_austrian_primary = {
+	#majority_primary
+}
+
+small_austrian_accepted = {
+	#small_accepted
+}
+
+large_austrian_accepted = {
+	#large_accepted
+}
+
+majority_austrian_accepted = {
+	#majority_accepted
+}
+
+small_austrian_unaccepted = {
+	#small_unaccepted
+}
+
+large_austrian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_austrian_unaccepted = {
+	#majority_unaccepted
+}
+
+#dutch
+small_dutch_primary = {
+	#small_primary
+}
+
+large_dutch_primary = {
+	#large_primary
+}
+
+majority_dutch_primary = {
+	#majority_primary
+}
+
+small_dutch_accepted = {
+	#small_accepted
+}
+
+large_dutch_accepted = {
+	#large_accepted
+}
+
+majority_dutch_accepted = {
+	#majority_accepted
+}
+
+small_dutch_unaccepted = {
+	#small_unaccepted
+}
+
+large_dutch_unaccepted = {
+	#large_unaccepted
+}
+
+majority_dutch_unaccepted = {
+	#majority_unaccepted
+}
+
+#flemish
+small_flemish_primary = {
+	#small_primary
+}
+
+large_flemish_primary = {
+	#large_primary
+}
+
+majority_flemish_primary = {
+	#majority_primary
+}
+
+small_flemish_accepted = {
+	#small_accepted
+}
+
+large_flemish_accepted = {
+	#large_accepted
+}
+
+majority_flemish_accepted = {
+	#majority_accepted
+}
+
+small_flemish_unaccepted = {
+	#small_unaccepted
+}
+
+large_flemish_unaccepted = {
+	#large_unaccepted
+}
+
+majority_flemish_unaccepted = {
+	#majority_unaccepted
+}
+
+#frisian
+small_frisian_primary = {
+	#small_primary
+}
+
+large_frisian_primary = {
+	#large_primary
+}
+
+majority_frisian_primary = {
+	#majority_primary
+}
+
+small_frisian_accepted = {
+	#small_accepted
+}
+
+large_frisian_accepted = {
+	#large_accepted
+}
+
+majority_frisian_accepted = {
+	#majority_accepted
+}
+
+small_frisian_unaccepted = {
+	#small_unaccepted
+}
+
+large_frisian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_frisian_unaccepted = {
+	#majority_unaccepted
+}
+
+#frisian
+small_frisian_primary = {
+	#small_primary
+}
+
+large_frisian_primary = {
+	#large_primary
+}
+
+majority_frisian_primary = {
+	#majority_primary
+}
+
+small_frisian_accepted = {
+	#small_accepted
+}
+
+large_frisian_accepted = {
+	#large_accepted
+}
+
+majority_frisian_accepted = {
+	#majority_accepted
+}
+
+small_frisian_unaccepted = {
+	#small_unaccepted
+}
+
+large_frisian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_frisian_unaccepted = {
+	#majority_unaccepted
+}

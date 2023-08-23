@@ -1,0 +1,73 @@
+#tupinamba
+small_tupinamba_primary = {
+	#small_primary
+}
+
+large_tupinamba_primary = {
+	#large_primary
+}
+
+majority_tupinamba_primary = {
+	#majority_primary
+}
+
+small_tupinamba_accepted = {
+	#small_accepted
+}
+
+large_tupinamba_accepted = {
+	#large_accepted
+}
+
+majority_tupinamba_accepted = {
+	#majority_accepted
+}
+
+small_tupinamba_unaccepted = {
+	#small_unaccepted
+}
+
+large_tupinamba_unaccepted = {
+	#large_unaccepted
+}
+
+majority_tupinamba_unaccepted = {
+	#majority_unaccepted
+}
+
+#guarani
+small_guarani_primary = {
+	#small_primary
+}
+
+large_guarani_primary = {
+	#large_primary
+}
+
+majority_guarani_primary = {
+	#majority_primary
+}
+
+small_guarani_accepted = {
+	#small_accepted
+}
+
+large_guarani_accepted = {
+	#large_accepted
+}
+
+majority_guarani_accepted = {
+	#majority_accepted
+}
+
+small_guarani_unaccepted = {
+	#small_unaccepted
+}
+
+large_guarani_unaccepted = {
+	#large_unaccepted
+}
+
+majority_guarani_unaccepted = {
+	#majority_unaccepted
+}

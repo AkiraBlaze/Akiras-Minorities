@@ -1,0 +1,221 @@
+#evenk
+small_evenk_primary = {
+	#small_primary
+}
+
+large_evenk_primary = {
+	#large_primary
+}
+
+majority_evenk_primary = {
+	#majority_primary
+}
+
+small_evenk_accepted = {
+	#small_accepted
+}
+
+large_evenk_accepted = {
+	#large_accepted
+}
+
+majority_evenk_accepted = {
+	#majority_accepted
+}
+
+small_evenk_unaccepted = {
+	#small_unaccepted
+}
+
+large_evenk_unaccepted = {
+	#large_unaccepted
+}
+
+majority_evenk_unaccepted = {
+	#majority_unaccepted
+}
+
+#yakut
+small_yakut_primary = {
+	#small_primary
+}
+
+large_yakut_primary = {
+	#large_primary
+}
+
+majority_yakut_primary = {
+	#majority_primary
+}
+
+small_yakut_accepted = {
+	#small_accepted
+}
+
+large_yakut_accepted = {
+	#large_accepted
+}
+
+majority_yakut_accepted = {
+	#majority_accepted
+}
+
+small_yakut_unaccepted = {
+	#small_unaccepted
+}
+
+large_yakut_unaccepted = {
+	#large_unaccepted
+}
+
+majority_yakut_unaccepted = {
+	#majority_unaccepted
+}
+
+#yukagyr
+small_yukagyr_primary = {
+	#small_primary
+}
+
+large_yukagyr_primary = {
+	#large_primary
+}
+
+majority_yukagyr_primary = {
+	#majority_primary
+}
+
+small_yukagyr_accepted = {
+	#small_accepted
+}
+
+large_yukagyr_accepted = {
+	#large_accepted
+}
+
+majority_yukagyr_accepted = {
+	#majority_accepted
+}
+
+small_yukagyr_unaccepted = {
+	#small_unaccepted
+}
+
+large_yukagyr_unaccepted = {
+	#large_unaccepted
+}
+
+majority_yukagyr_unaccepted = {
+	#majority_unaccepted
+}
+
+#buryat
+small_buryat_primary = {
+	#small_primary
+}
+
+large_buryat_primary = {
+	#large_primary
+}
+
+majority_buryat_primary = {
+	#majority_primary
+}
+
+small_buryat_accepted = {
+	#small_accepted
+}
+
+large_buryat_accepted = {
+	#large_accepted
+}
+
+majority_buryat_accepted = {
+	#majority_accepted
+}
+
+small_buryat_unaccepted = {
+	#small_unaccepted
+}
+
+large_buryat_unaccepted = {
+	#large_unaccepted
+}
+
+majority_buryat_unaccepted = {
+	#majority_unaccepted
+}
+
+#tungus
+small_tungus_primary = {
+	#small_primary
+}
+
+large_tungus_primary = {
+	#large_primary
+}
+
+majority_tungus_primary = {
+	#majority_primary
+}
+
+small_tungus_accepted = {
+	#small_accepted
+}
+
+large_tungus_accepted = {
+	#large_accepted
+}
+
+majority_tungus_accepted = {
+	#majority_accepted
+}
+
+small_tungus_unaccepted = {
+	#small_unaccepted
+}
+
+large_tungus_unaccepted = {
+	#large_unaccepted
+}
+
+majority_tungus_unaccepted = {
+	#majority_unaccepted
+}
+
+#manchu
+small_manchu_primary = {
+	#small_primary
+}
+
+large_manchu_primary = {
+	#large_primary
+}
+
+majority_manchu_primary = {
+	#majority_primary
+}
+
+small_manchu_accepted = {
+	#small_accepted
+}
+
+large_manchu_accepted = {
+	#large_accepted
+}
+
+majority_manchu_accepted = {
+	#majority_accepted
+}
+
+small_manchu_unaccepted = {
+	#small_unaccepted
+}
+
+large_manchu_unaccepted = {
+	#large_unaccepted
+}
+
+majority_manchu_unaccepted = {
+	#majority_unaccepted
+}

@@ -1,0 +1,147 @@
+#pueblo
+small_pueblo_primary = {
+	#small_primary
+}
+
+large_pueblo_primary = {
+	#large_primary
+}
+
+majority_pueblo_primary = {
+	#majority_primary
+}
+
+small_pueblo_accepted = {
+	#small_accepted
+}
+
+large_pueblo_accepted = {
+	#large_accepted
+}
+
+majority_pueblo_accepted = {
+	#majority_accepted
+}
+
+small_pueblo_unaccepted = {
+	#small_unaccepted
+}
+
+large_pueblo_unaccepted = {
+	#large_unaccepted
+}
+
+majority_pueblo_unaccepted = {
+	#majority_unaccepted
+}
+
+#piman
+small_piman_primary = {
+	#small_primary
+}
+
+large_piman_primary = {
+	#large_primary
+}
+
+majority_piman_primary = {
+	#majority_primary
+}
+
+small_piman_accepted = {
+	#small_accepted
+}
+
+large_piman_accepted = {
+	#large_accepted
+}
+
+majority_piman_accepted = {
+	#majority_accepted
+}
+
+small_piman_unaccepted = {
+	#small_unaccepted
+}
+
+large_piman_unaccepted = {
+	#large_unaccepted
+}
+
+majority_piman_unaccepted = {
+	#majority_unaccepted
+}
+
+#shoshone
+small_shoshone_primary = {
+	#small_primary
+}
+
+large_shoshone_primary = {
+	#large_primary
+}
+
+majority_shoshone_primary = {
+	#majority_primary
+}
+
+small_shoshone_accepted = {
+	#small_accepted
+}
+
+large_shoshone_accepted = {
+	#large_accepted
+}
+
+majority_shoshone_accepted = {
+	#majority_accepted
+}
+
+small_shoshone_unaccepted = {
+	#small_unaccepted
+}
+
+large_shoshone_unaccepted = {
+	#large_unaccepted
+}
+
+majority_shoshone_unaccepted = {
+	#majority_unaccepted
+}
+
+#kiowa
+small_kiowa_primary = {
+	#small_primary
+}
+
+large_kiowa_primary = {
+	#large_primary
+}
+
+majority_kiowa_primary = {
+	#majority_primary
+}
+
+small_kiowa_accepted = {
+	#small_accepted
+}
+
+large_kiowa_accepted = {
+	#large_accepted
+}
+
+majority_kiowa_accepted = {
+	#majority_accepted
+}
+
+small_kiowa_unaccepted = {
+	#small_unaccepted
+}
+
+large_kiowa_unaccepted = {
+	#large_unaccepted
+}
+
+majority_kiowa_unaccepted = {
+	#majority_unaccepted
+}

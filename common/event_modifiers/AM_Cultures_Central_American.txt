@@ -1,0 +1,147 @@
+#aztek
+small_aztek_primary = {
+	#small_primary
+}
+
+large_aztek_primary = {
+	#large_primary
+}
+
+majority_aztek_primary = {
+	#majority_primary
+}
+
+small_aztek_accepted = {
+	#small_accepted
+}
+
+large_aztek_accepted = {
+	#large_accepted
+}
+
+majority_aztek_accepted = {
+	#majority_accepted
+}
+
+small_aztek_unaccepted = {
+	#small_unaccepted
+}
+
+large_aztek_unaccepted = {
+	#large_unaccepted
+}
+
+majority_aztek_unaccepted = {
+	#majority_unaccepted
+}
+
+#totonac
+small_totonac_primary = {
+	#small_primary
+}
+
+large_totonac_primary = {
+	#large_primary
+}
+
+majority_totonac_primary = {
+	#majority_primary
+}
+
+small_totonac_accepted = {
+	#small_accepted
+}
+
+large_totonac_accepted = {
+	#large_accepted
+}
+
+majority_totonac_accepted = {
+	#majority_accepted
+}
+
+small_totonac_unaccepted = {
+	#small_unaccepted
+}
+
+large_totonac_unaccepted = {
+	#large_unaccepted
+}
+
+majority_totonac_unaccepted = {
+	#majority_unaccepted
+}
+
+#purepecha
+small_purepecha_primary = {
+	#small_primary
+}
+
+large_purepecha_primary = {
+	#large_primary
+}
+
+majority_purepecha_primary = {
+	#majority_primary
+}
+
+small_purepecha_accepted = {
+	#small_accepted
+}
+
+large_purepecha_accepted = {
+	#large_accepted
+}
+
+majority_purepecha_accepted = {
+	#majority_accepted
+}
+
+small_purepecha_unaccepted = {
+	#small_unaccepted
+}
+
+large_purepecha_unaccepted = {
+	#large_unaccepted
+}
+
+majority_purepecha_unaccepted = {
+	#majority_unaccepted
+}
+
+#malatzinca
+small_malatzinca_primary = {
+	#small_primary
+}
+
+large_malatzinca_primary = {
+	#large_primary
+}
+
+majority_malatzinca_primary = {
+	#majority_primary
+}
+
+small_malatzinca_accepted = {
+	#small_accepted
+}
+
+large_malatzinca_accepted = {
+	#large_accepted
+}
+
+majority_malatzinca_accepted = {
+	#majority_accepted
+}
+
+small_malatzinca_unaccepted = {
+	#small_unaccepted
+}
+
+large_malatzinca_unaccepted = {
+	#large_unaccepted
+}
+
+majority_malatzinca_unaccepted = {
+	#majority_unaccepted
+}

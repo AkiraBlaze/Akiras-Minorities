@@ -1,0 +1,4212 @@
+reset_culture_effect = {
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_pommeranian_primary
+				has_province_modifier = majority_pommeranian_accepted
+				has_province_modifier = majority_pommeranian_unaccepted
+			}
+		}
+		change_culture = pommeranian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_prussian_primary
+				has_province_modifier = majority_prussian_accepted
+				has_province_modifier = majority_prussian_unaccepted
+			}
+		}
+		change_culture = prussian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_baltic_german_primary
+				has_province_modifier = majority_baltic_german_accepted
+				has_province_modifier = majority_baltic_german_unaccepted
+			}
+		}
+		change_culture = baltic_german
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_lower_saxon_primary
+				has_province_modifier = majority_lower_saxon_accepted
+				has_province_modifier = majority_lower_saxon_unaccepted
+			}
+		}
+		change_culture = lower_saxon
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_hannoverian_primary
+				has_province_modifier = majority_hannoverian_accepted
+				has_province_modifier = majority_hannoverian_unaccepted
+			}
+		}
+		change_culture = hannoverian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_hessian_primary
+				has_province_modifier = majority_hessian_accepted
+				has_province_modifier = majority_hessian_unaccepted
+			}
+		}
+		change_culture = hessian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_saxon_primary
+				has_province_modifier = majority_saxon_accepted
+				has_province_modifier = majority_saxon_unaccepted
+			}
+		}
+		change_culture = saxon
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_franconian_primary
+				has_province_modifier = majority_franconian_accepted
+				has_province_modifier = majority_franconian_unaccepted
+			}
+		}
+		change_culture = franconian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_swabian_primary
+				has_province_modifier = majority_swabian_accepted
+				has_province_modifier = majority_swabian_unaccepted
+			}
+		}
+		change_culture = swabian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_swiss_primary
+				has_province_modifier = majority_swiss_accepted
+				has_province_modifier = majority_swiss_unaccepted
+			}
+		}
+		change_culture = swiss
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_bavarian_primary
+				has_province_modifier = majority_bavarian_accepted
+				has_province_modifier = majority_bavarian_unaccepted
+			}
+		}
+		change_culture = bavarian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_austrian_primary
+				has_province_modifier = majority_austrian_accepted
+				has_province_modifier = majority_austrian_unaccepted
+			}
+		}
+		change_culture = austrian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_dutch_primary
+				has_province_modifier = majority_dutch_accepted
+				has_province_modifier = majority_dutch_unaccepted
+			}
+		}
+		change_culture = dutch
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_flemish_primary
+				has_province_modifier = majority_flemish_accepted
+				has_province_modifier = majority_flemish_unaccepted
+			}
+		}
+		change_culture = flemish
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_frisian_primary
+				has_province_modifier = majority_frisian_accepted
+				has_province_modifier = majority_frisian_unaccepted
+			}
+		}
+		change_culture = frisian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_swedish_primary
+				has_province_modifier = majority_swedish_accepted
+				has_province_modifier = majority_swedish_unaccepted
+			}
+		}
+		change_culture = swedish
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_danish_primary
+				has_province_modifier = majority_danish_accepted
+				has_province_modifier = majority_danish_unaccepted
+			}
+		}
+		change_culture = danish
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_norwegian_primary
+				has_province_modifier = majority_norwegian_accepted
+				has_province_modifier = majority_norwegian_unaccepted
+			}
+		}
+		change_culture = norwegian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_finnish_primary
+				has_province_modifier = majority_finnish_accepted
+				has_province_modifier = majority_finnish_unaccepted
+			}
+		}
+		change_culture = finnish
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_sapmi_primary
+				has_province_modifier = majority_sapmi_accepted
+				has_province_modifier = majority_sapmi_unaccepted
+			}
+		}
+		change_culture = sapmi
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_karelian_primary
+				has_province_modifier = majority_karelian_accepted
+				has_province_modifier = majority_karelian_unaccepted
+			}
+		}
+		change_culture = karelian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_icelandic_primary
+				has_province_modifier = majority_icelandic_accepted
+				has_province_modifier = majority_icelandic_unaccepted
+			}
+		}
+		change_culture = icelandic
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_norse_primary
+				has_province_modifier = majority_norse_accepted
+				has_province_modifier = majority_norse_unaccepted
+			}
+		}
+		change_culture = norse
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_english_primary
+				has_province_modifier = majority_english_accepted
+				has_province_modifier = majority_english_unaccepted
+			}
+		}
+		change_culture = english
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_american_primary
+				has_province_modifier = majority_american_accepted
+				has_province_modifier = majority_american_unaccepted
+			}
+		}
+		change_culture = american
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_welsh_primary
+				has_province_modifier = majority_welsh_accepted
+				has_province_modifier = majority_welsh_unaccepted
+			}
+		}
+		change_culture = welsh
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_cornish_primary
+				has_province_modifier = majority_cornish_accepted
+				has_province_modifier = majority_cornish_unaccepted
+			}
+		}
+		change_culture = cornish
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_scottish_primary
+				has_province_modifier = majority_scottish_accepted
+				has_province_modifier = majority_scottish_unaccepted
+			}
+		}
+		change_culture = scottish
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_irish_primary
+				has_province_modifier = majority_irish_accepted
+				has_province_modifier = majority_irish_unaccepted
+			}
+		}
+		change_culture = irish
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_highland_scottish_primary
+				has_province_modifier = majority_highland_scottish_accepted
+				has_province_modifier = majority_highland_scottish_unaccepted
+			}
+		}
+		change_culture = highland_scottish
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_lombard_primary
+				has_province_modifier = majority_lombard_accepted
+				has_province_modifier = majority_lombard_unaccepted
+			}
+		}
+		change_culture = lombard
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_tuscan_primary
+				has_province_modifier = majority_tuscan_accepted
+				has_province_modifier = majority_tuscan_unaccepted
+			}
+		}
+		change_culture = tuscan
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_sardinian_primary
+				has_province_modifier = majority_sardinian_accepted
+				has_province_modifier = majority_sardinian_unaccepted
+			}
+		}
+		change_culture = sardinian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_romagnan_primary
+				has_province_modifier = majority_romagnan_accepted
+				has_province_modifier = majority_romagnan_unaccepted
+			}
+		}
+		change_culture = romagnan
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_ligurian_primary
+				has_province_modifier = majority_ligurian_accepted
+				has_province_modifier = majority_ligurian_unaccepted
+			}
+		}
+		change_culture = ligurian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_venetian_primary
+				has_province_modifier = majority_venetian_accepted
+				has_province_modifier = majority_venetian_unaccepted
+			}
+		}
+		change_culture = venetian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_dalmatian_primary
+				has_province_modifier = majority_dalmatian_accepted
+				has_province_modifier = majority_dalmatian_unaccepted
+			}
+		}
+		change_culture = dalmatian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_neapolitan_primary
+				has_province_modifier = majority_neapolitan_accepted
+				has_province_modifier = majority_neapolitan_unaccepted
+			}
+		}
+		change_culture = neapolitan
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_piedmontese_primary
+				has_province_modifier = majority_piedmontese_accepted
+				has_province_modifier = majority_piedmontese_unaccepted
+			}
+		}
+		change_culture = piedmontese
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_umbrian_primary
+				has_province_modifier = majority_umbrian_accepted
+				has_province_modifier = majority_umbrian_unaccepted
+			}
+		}
+		change_culture = umbrian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_sicilian_primary
+				has_province_modifier = majority_sicilian_accepted
+				has_province_modifier = majority_sicilian_unaccepted
+			}
+		}
+		change_culture = sicilian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_maltese_primary
+				has_province_modifier = majority_maltese_accepted
+				has_province_modifier = majority_maltese_unaccepted
+			}
+		}
+		change_culture = maltese
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_castillian_primary
+				has_province_modifier = majority_castillian_accepted
+				has_province_modifier = majority_castillian_unaccepted
+			}
+		}
+		change_culture = castillian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_mexican_primary
+				has_province_modifier = majority_mexican_accepted
+				has_province_modifier = majority_mexican_unaccepted
+			}
+		}
+		change_culture = mexican
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_platinean_primary
+				has_province_modifier = majority_platinean_accepted
+				has_province_modifier = majority_platinean_unaccepted
+			}
+		}
+		change_culture = platinean
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_leonese_primary
+				has_province_modifier = majority_leonese_accepted
+				has_province_modifier = majority_leonese_unaccepted
+			}
+		}
+		change_culture = leonese
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_aragonese_primary
+				has_province_modifier = majority_aragonese_accepted
+				has_province_modifier = majority_aragonese_unaccepted
+			}
+		}
+		change_culture = aragonese
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_catalan_primary
+				has_province_modifier = majority_catalan_accepted
+				has_province_modifier = majority_catalan_unaccepted
+			}
+		}
+		change_culture = catalan
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_galician_primary
+				has_province_modifier = majority_galician_accepted
+				has_province_modifier = majority_galician_unaccepted
+			}
+		}
+		change_culture = galician
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_andalucian_primary
+				has_province_modifier = majority_andalucian_accepted
+				has_province_modifier = majority_andalucian_unaccepted
+			}
+		}
+		change_culture = andalucian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_portugese_primary
+				has_province_modifier = majority_portugese_accepted
+				has_province_modifier = majority_portugese_unaccepted
+			}
+		}
+		change_culture = portugese
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_brazilian_primary
+				has_province_modifier = majority_brazilian_accepted
+				has_province_modifier = majority_brazilian_unaccepted
+			}
+		}
+		change_culture = brazilian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_basque_primary
+				has_province_modifier = majority_basque_accepted
+				has_province_modifier = majority_basque_unaccepted
+			}
+		}
+		change_culture = basque
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_cosmopolitan_french_primary
+				has_province_modifier = majority_cosmopolitan_french_accepted
+				has_province_modifier = majority_cosmopolitan_french_unaccepted
+			}
+		}
+		change_culture = cosmopolitan_french
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_gascon_primary
+				has_province_modifier = majority_gascon_accepted
+				has_province_modifier = majority_gascon_unaccepted
+			}
+		}
+		change_culture = gascon
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_normand_primary
+				has_province_modifier = majority_normand_accepted
+				has_province_modifier = majority_normand_unaccepted
+			}
+		}
+		change_culture = normand
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_aquitaine_primary
+				has_province_modifier = majority_aquitaine_accepted
+				has_province_modifier = majority_aquitaine_unaccepted
+			}
+		}
+		change_culture = aquitaine
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_burgundian_primary
+				has_province_modifier = majority_burgundian_accepted
+				has_province_modifier = majority_burgundian_unaccepted
+			}
+		}
+		change_culture = burgundian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_occitain_primary
+				has_province_modifier = majority_occitain_accepted
+				has_province_modifier = majority_occitain_unaccepted
+			}
+		}
+		change_culture = occitain
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_wallonian_primary
+				has_province_modifier = majority_wallonian_accepted
+				has_province_modifier = majority_wallonian_unaccepted
+			}
+		}
+		change_culture = wallonian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_louisianans_primary
+				has_province_modifier = majority_louisianans_accepted
+				has_province_modifier = majority_louisianans_unaccepted
+			}
+		}
+		change_culture = louisianans
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_quebecois_primary
+				has_province_modifier = majority_quebecois_accepted
+				has_province_modifier = majority_quebecois_unaccepted
+			}
+		}
+		change_culture = quebecois
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_anglois_primary
+				has_province_modifier = majority_anglois_accepted
+				has_province_modifier = majority_anglois_unaccepted
+			}
+		}
+		change_culture = anglois
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_breton_primary
+				has_province_modifier = majority_breton_accepted
+				has_province_modifier = majority_breton_unaccepted
+			}
+		}
+		change_culture = breton
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_uralic_primary
+				has_province_modifier = majority_uralic_accepted
+				has_province_modifier = majority_uralic_unaccepted
+			}
+		}
+		change_culture = uralic
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_samoyed_primary
+				has_province_modifier = majority_samoyed_accepted
+				has_province_modifier = majority_samoyed_unaccepted
+			}
+		}
+		change_culture = samoyed
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_ostyaki_primary
+				has_province_modifier = majority_ostyaki_accepted
+				has_province_modifier = majority_ostyaki_unaccepted
+			}
+		}
+		change_culture = ostyaki
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_ingrian_primary
+				has_province_modifier = majority_ingrian_accepted
+				has_province_modifier = majority_ingrian_unaccepted
+			}
+		}
+		change_culture = ingrian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_croatian_primary
+				has_province_modifier = majority_croatian_accepted
+				has_province_modifier = majority_croatian_unaccepted
+			}
+		}
+		change_culture = croatian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_serbian_primary
+				has_province_modifier = majority_serbian_accepted
+				has_province_modifier = majority_serbian_unaccepted
+			}
+		}
+		change_culture = serbian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_slovene_primary
+				has_province_modifier = majority_slovene_accepted
+				has_province_modifier = majority_slovene_unaccepted
+			}
+		}
+		change_culture = slovene
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_bosnian_primary
+				has_province_modifier = majority_bosnian_accepted
+				has_province_modifier = majority_bosnian_unaccepted
+			}
+		}
+		change_culture = bosnian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_bulgarian_primary
+				has_province_modifier = majority_bulgarian_accepted
+				has_province_modifier = majority_bulgarian_unaccepted
+			}
+		}
+		change_culture = bulgarian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_albanian_primary
+				has_province_modifier = majority_albanian_accepted
+				has_province_modifier = majority_albanian_unaccepted
+			}
+		}
+		change_culture = albanian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_czech_primary
+				has_province_modifier = majority_czech_accepted
+				has_province_modifier = majority_czech_unaccepted
+			}
+		}
+		change_culture = czech
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_polish_primary
+				has_province_modifier = majority_polish_accepted
+				has_province_modifier = majority_polish_unaccepted
+			}
+		}
+		change_culture = polish
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_schlesian_primary
+				has_province_modifier = majority_schlesian_accepted
+				has_province_modifier = majority_schlesian_unaccepted
+			}
+		}
+		change_culture = schlesian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_sorbian_primary
+				has_province_modifier = majority_sorbian_accepted
+				has_province_modifier = majority_sorbian_unaccepted
+			}
+		}
+		change_culture = sorbian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_slovak_primary
+				has_province_modifier = majority_slovak_accepted
+				has_province_modifier = majority_slovak_unaccepted
+			}
+		}
+		change_culture = slovak
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_transylvanian_primary
+				has_province_modifier = majority_transylvanian_accepted
+				has_province_modifier = majority_transylvanian_unaccepted
+			}
+		}
+		change_culture = transylvanian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_romanian_primary
+				has_province_modifier = majority_romanian_accepted
+				has_province_modifier = majority_romanian_unaccepted
+			}
+		}
+		change_culture = romanian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_hungarian_primary
+				has_province_modifier = majority_hungarian_accepted
+				has_province_modifier = majority_hungarian_unaccepted
+			}
+		}
+		change_culture = hungarian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_russian_primary
+				has_province_modifier = majority_russian_accepted
+				has_province_modifier = majority_russian_unaccepted
+			}
+		}
+		change_culture = russian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_novgorodian_primary
+				has_province_modifier = majority_novgorodian_accepted
+				has_province_modifier = majority_novgorodian_unaccepted
+			}
+		}
+		change_culture = novgorodian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_ryzanian_primary
+				has_province_modifier = majority_ryzanian_accepted
+				has_province_modifier = majority_ryzanian_unaccepted
+			}
+		}
+		change_culture = ryzanian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_byelorussian_primary
+				has_province_modifier = majority_byelorussian_accepted
+				has_province_modifier = majority_byelorussian_unaccepted
+			}
+		}
+		change_culture = byelorussian
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_ruthenian_primary
+					has_province_modifier = majority_ruthenian_accepted
+					has_province_modifier = majority_ruthenian_unaccepted
+				}
+			}
+		change_culture = ruthenian
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_russian_new_primary
+					has_province_modifier = majority_russian_new_accepted
+					has_province_modifier = majority_russian_new_unaccepted
+				}
+			}
+		change_culture = russian_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_novgorodian_new_primary
+					has_province_modifier = majority_novgorodian_new_accepted
+					has_province_modifier = majority_novgorodian_new_unaccepted
+				}
+			}
+		change_culture = novgorodian_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_ryazanian_new_primary
+					has_province_modifier = majority_ryazanian_new_accepted
+					has_province_modifier = majority_ryazanian_new_unaccepted
+				}
+			}
+		change_culture = ryazanian_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_byelorussian_new_primary
+					has_province_modifier = majority_byelorussian_new_accepted
+					has_province_modifier = majority_byelorussian_new_unaccepted
+				}
+			}
+		change_culture = byelorussian_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_ruthenian_new_primary
+					has_province_modifier = majority_ruthenian_new_accepted
+					has_province_modifier = majority_ruthenian_new_unaccepted
+				}
+			}
+		change_culture = ruthenian_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_slovak_new_primary
+					has_province_modifier = majority_slovak_new_accepted
+					has_province_modifier = majority_slovak_new_unaccepted
+				}
+			}
+		change_culture = slovak_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_czech_new_primary
+					has_province_modifier = majority_czech_new_accepted
+					has_province_modifier = majority_czech_new_unaccepted
+				}
+			}
+		change_culture = czech_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_polish_new_primary
+					has_province_modifier = majority_polish_new_accepted
+					has_province_modifier = majority_polish_new_unaccepted
+				}
+			}
+		change_culture = polish_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_schlesian_new_primary
+					has_province_modifier = majority_schlesian_new_accepted
+					has_province_modifier = majority_schlesian_new_unaccepted
+				}
+			}
+		change_culture = schlesian_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_sorbian_new_primary
+					has_province_modifier = majority_sorbian_new_accepted
+					has_province_modifier = majority_sorbian_new_unaccepted
+				}
+			}
+		change_culture = sorbian_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_croatian_new_primary
+					has_province_modifier = majority_croatian_new_accepted
+					has_province_modifier = majority_croatian_new_unaccepted
+				}
+			}
+		change_culture = croatian_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_serbian_new_primary
+					has_province_modifier = majority_serbian_new_accepted
+					has_province_modifier = majority_serbian_new_unaccepted
+				}
+			}
+		change_culture = serbian_new
+	}
+	if = {
+		limit = {
+				OR = {
+					has_province_modifier = majority_slovene_new_primary
+					has_province_modifier = majority_slovene_new_accepted
+					has_province_modifier = majority_slovene_new_unaccepted
+				}
+			}
+		change_culture = slovene_new
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_bosnian_new_primary
+				has_province_modifier = majority_bosnian_new_accepted
+				has_province_modifier = majority_bosnian_new_unaccepted
+			}
+		}
+		change_culture = bosnian_new
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_bulgarian_new_primary
+				has_province_modifier = majority_bulgarian_new_accepted
+				has_province_modifier = majority_bulgarian_new_unaccepted
+			}
+		}
+		change_culture = bulgarian_new
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_estonian_primary
+				has_province_modifier = majority_estonian_accepted
+				has_province_modifier = majority_estonian_unaccepted
+			}
+		}
+		change_culture = estonian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_lithuanian_primary
+				has_province_modifier = majority_lithuanian_accepted
+				has_province_modifier = majority_lithuanian_unaccepted
+			}
+		}
+		change_culture = lithuanian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_latvian_primary
+				has_province_modifier = majority_latvian_accepted
+				has_province_modifier = majority_latvian_unaccepted
+			}
+		}
+		change_culture = latvian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_greek_primary
+				has_province_modifier = majority_greek_accepted
+				has_province_modifier = majority_greek_unaccepted
+			}
+		}
+		change_culture = greek
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_pontic_greek_primary
+				has_province_modifier = majority_pontic_greek_accepted
+				has_province_modifier = majority_pontic_greek_unaccepted
+			}
+		}
+		change_culture = pontic_greek
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_goth_primary
+				has_province_modifier = majority_goth_accepted
+				has_province_modifier = majority_goth_unaccepted
+			}
+		}
+		change_culture = goth
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_georgian_primary
+				has_province_modifier = majority_georgian_accepted
+				has_province_modifier = majority_georgian_unaccepted
+			}
+		}
+		change_culture = georgian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_circassian_primary
+				has_province_modifier = majority_circassian_accepted
+				has_province_modifier = majority_circassian_unaccepted
+			}
+		}
+		change_culture = circassian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_dagestani_primary
+				has_province_modifier = majority_dagestani_accepted
+				has_province_modifier = majority_dagestani_unaccepted
+			}
+		}
+		change_culture = dagestani
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_armenian_primary
+				has_province_modifier = majority_armenian_accepted
+				has_province_modifier = majority_armenian_unaccepted
+			}
+		}
+		change_culture = armenian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_turkish_primary
+				has_province_modifier = majority_turkish_accepted
+				has_province_modifier = majority_turkish_unaccepted
+			}
+		}
+		change_culture = turkish
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_al_misr_arabic_primary
+				has_province_modifier = majority_al_misr_arabic_accepted
+				has_province_modifier = majority_al_misr_arabic_unaccepted
+			}
+		}
+		change_culture = al_misr_arabic
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_al_suryah_arabic_primary
+				has_province_modifier = majority_al_suryah_arabic_accepted
+				has_province_modifier = majority_al_suryah_arabic_unaccepted
+			}
+		}
+		change_culture = al_suryah_arabic
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_al_iraqiya_arabic_primary
+				has_province_modifier = majority_al_iraqiya_arabic_accepted
+				has_province_modifier = majority_al_iraqiya_arabic_unaccepted
+			}
+		}
+		change_culture = al_iraqiya_arabic
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_gulf_arabic_primary
+				has_province_modifier = majority_gulf_arabic_accepted
+				has_province_modifier = majority_gulf_arabic_unaccepted
+			}
+		}
+		change_culture = gulf_arabic
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_bedouin_arabic_primary
+				has_province_modifier = majority_bedouin_arabic_accepted
+				has_province_modifier = majority_bedouin_arabic_unaccepted
+			}
+		}
+		change_culture = bedouin_arabic
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_mahri_culture_primary
+				has_province_modifier = majority_mahri_culture_accepted
+				has_province_modifier = majority_mahri_culture_unaccepted
+			}
+		}
+		change_culture = mahri_culture
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_hejazi_culture_primary
+				has_province_modifier = majority_hejazi_culture_accepted
+				has_province_modifier = majority_hejazi_culture_unaccepted
+			}
+		}
+		change_culture = hejazi_culture
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_omani_culture_primary
+				has_province_modifier = majority_omani_culture_accepted
+				has_province_modifier = majority_omani_culture_unaccepted
+			}
+		}
+		change_culture = omani_culture
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_yemani_culture_primary
+				has_province_modifier = majority_yemani_culture_accepted
+				has_province_modifier = majority_yemani_culture_unaccepted
+			}
+		}
+		change_culture = yemani_culture
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_moroccan_primary
+				has_province_modifier = majority_moroccan_accepted
+				has_province_modifier = majority_moroccan_unaccepted
+			}
+		}
+		change_culture = moroccan
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_tunisian_primary
+				has_province_modifier = majority_tunisian_accepted
+				has_province_modifier = majority_tunisian_unaccepted
+			}
+		}
+		change_culture = tunisian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_algerian_primary
+				has_province_modifier = majority_algerian_accepted
+				has_province_modifier = majority_algerian_unaccepted
+			}
+		}
+		change_culture = algerian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_berber_primary
+				has_province_modifier = majority_berber_accepted
+				has_province_modifier = majority_berber_unaccepted
+			}
+		}
+		change_culture = berber
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_persian_primary
+				has_province_modifier = majority_persian_accepted
+				has_province_modifier = majority_persian_unaccepted
+			}
+		}
+		change_culture = persian
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_luri_primary
+				has_province_modifier = majority_luri_accepted
+				has_province_modifier = majority_luri_unaccepted
+			}
+		}
+		change_culture = luri
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_azerbaijani_primary
+				has_province_modifier = majority_azerbaijani_accepted
+				has_province_modifier = majority_azerbaijani_unaccepted
+			}
+		}
+		change_culture = azerbaijani
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_khorasani_primary
+				has_province_modifier = majority_khorasani_accepted
+				has_province_modifier = majority_khorasani_unaccepted
+			}
+		}
+		change_culture = khorasani
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_baluchi_primary
+				has_province_modifier = majority_baluchi_accepted
+				has_province_modifier = majority_baluchi_unaccepted
+			}
+		}
+		change_culture = baluchi
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_afghani_primary
+				has_province_modifier = majority_afghani_accepted
+				has_province_modifier = majority_afghani_unaccepted
+			}
+		}
+		change_culture = afghani
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_kurdish_primary
+				has_province_modifier = majority_kurdish_accepted
+				has_province_modifier = majority_kurdish_unaccepted
+			}
+		}
+		change_culture = kurdish
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_mazandarani_primary
+				has_province_modifier = majority_mazandarani_accepted
+				has_province_modifier = majority_mazandarani_unaccepted
+			}
+		}
+		change_culture = mazandarani
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_mongol_primary
+				has_province_modifier = majority_mongol_accepted
+				has_province_modifier = majority_mongol_unaccepted
+			}
+		}
+		change_culture = mongol
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_chahar_primary
+				has_province_modifier = majority_chahar_accepted
+				has_province_modifier = majority_chahar_unaccepted
+			}
+		}
+		change_culture = chahar
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_khalkha_primary
+				has_province_modifier = majority_khalkha_accepted
+				has_province_modifier = majority_khalkha_unaccepted
+			}
+		}
+		change_culture = khalkha
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_oirats_primary
+				has_province_modifier = majority_oirats_accepted
+				has_province_modifier = majority_oirats_unaccepted
+			}
+		}
+		change_culture = oirats
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_uzbehk_primary
+				has_province_modifier = majority_uzbehk_accepted
+				has_province_modifier = majority_uzbehk_unaccepted
+			}
+		}
+		change_culture = uzbehk
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_turkmeni_primary
+				has_province_modifier = majority_turkmeni_accepted
+				has_province_modifier = majority_turkmeni_unaccepted
+			}
+		}
+		change_culture = turkmeni
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_uyghur_primary
+				has_province_modifier = majority_uyghur_accepted
+				has_province_modifier = majority_uyghur_unaccepted
+			}
+		}
+		change_culture = uyghur
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_khazak_primary
+				has_province_modifier = majority_khazak_accepted
+				has_province_modifier = majority_khazak_unaccepted
+			}
+		}
+		change_culture = khazak
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_kirgiz_primary
+				has_province_modifier = majority_kirgiz_accepted
+				has_province_modifier = majority_kirgiz_unaccepted
+			}
+		}
+		change_culture = kirgiz
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_aztek_primary
+				has_province_modifier = majority_aztek_accepted
+				has_province_modifier = majority_aztek_unaccepted
+			}
+		}
+		change_culture = aztek
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_totonac_primary
+				has_province_modifier = majority_totonac_accepted
+				has_province_modifier = majority_totonac_unaccepted
+			}
+		}
+		change_culture = totonac
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_purepecha_primary
+				has_province_modifier = majority_purepecha_accepted
+				has_province_modifier = majority_purepecha_unaccepted
+			}
+		}
+		change_culture = purepecha
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_matlatzinca_primary
+				has_province_modifier = majority_matlatzinca_accepted
+				has_province_modifier = majority_matlatzinca_unaccepted
+			}
+		}
+		change_culture = matlatzinca
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_tecos_primary
+				has_province_modifier = majority_tecos_accepted
+				has_province_modifier = majority_tecos_unaccepted
+			}
+		}
+		change_culture = tecos
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_tepic_primary
+				has_province_modifier = majority_tepic_accepted
+				has_province_modifier = majority_tepic_unaccepted
+			}
+		}
+		change_culture = tepic
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_chichimecan_primary
+				has_province_modifier = majority_chichimecan_accepted
+				has_province_modifier = majority_chichimecan_unaccepted
+			}
+		}
+		change_culture = chichimecan
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_guamares_primary
+				has_province_modifier = majority_guamares_accepted
+				has_province_modifier = majority_guamares_unaccepted
+			}
+		}
+		change_culture = guamares
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_otomi_primary
+				has_province_modifier = majority_otomi_accepted
+				has_province_modifier = majority_otomi_unaccepted
+			}
+		}
+		change_culture = otomi
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_yaqui_primary
+				has_province_modifier = majority_yaqui_accepted
+				has_province_modifier = majority_yaqui_unaccepted
+			}
+		}
+		change_culture = yaqui
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_yucatec_primary
+				has_province_modifier = majority_yucatec_accepted
+				has_province_modifier = majority_yucatec_unaccepted
+			}
+		}
+		change_culture = yucatec
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_putun_primary
+				has_province_modifier = majority_putun_accepted
+				has_province_modifier = majority_putun_unaccepted
+			}
+		}
+		change_culture = putun
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_mayan_primary
+				has_province_modifier = majority_mayan_accepted
+				has_province_modifier = majority_mayan_unaccepted
+			}
+		}
+		change_culture = mayan
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_highland_mayan_primary
+				has_province_modifier = majority_highland_mayan_accepted
+				has_province_modifier = majority_highland_mayan_unaccepted
+			}
+		}
+		change_culture = highland_mayan
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_lacandon_primary
+				has_province_modifier = majority_lacandon_accepted
+				has_province_modifier = majority_lacandon_unaccepted
+			}
+		}
+		change_culture = lacandon
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_wastek_primary
+				has_province_modifier = majority_wastek_accepted
+				has_province_modifier = majority_wastek_unaccepted
+			}
+		}
+		change_culture = wastek
+	}
+	if = {
+		limit = {
+			OR = {
+				has_province_modifier = majority_chontales_primary
+				has_province_modifier = majority_chontales_accepted
+				has_province_modifier = majority_chontales_unaccepted
+			}
+		}
+		change_culture = chontales
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_zapotek_primary
+	            has_province_modifier = majority_zapotek_accepted
+	            has_province_modifier = majority_zapotek_unaccepted
+	        }
+	    }
+	    change_culture = zapotek
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mixtec_primary
+	            has_province_modifier = majority_mixtec_accepted
+	            has_province_modifier = majority_mixtec_unaccepted
+	        }
+	    }
+	    change_culture = mixtec
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_tlapanec_primary
+	            has_province_modifier = majority_tlapanec_accepted
+	            has_province_modifier = majority_tlapanec_unaccepted
+	        }
+	    }
+	    change_culture = tlapanec
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_inca_primary
+	            has_province_modifier = majority_inca_accepted
+	            has_province_modifier = majority_inca_unaccepted
+	        }
+	    }
+	    change_culture = inca
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_aimara_primary
+	            has_province_modifier = majority_aimara_accepted
+	            has_province_modifier = majority_aimara_unaccepted
+	        }
+	    }
+	    change_culture = aimara
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_diaguita_primary
+	            has_province_modifier = majority_diaguita_accepted
+	            has_province_modifier = majority_diaguita_unaccepted
+	        }
+	    }
+	    change_culture = diaguita
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_chimuan_primary
+	            has_province_modifier = majority_chimuan_accepted
+	            has_province_modifier = majority_chimuan_unaccepted
+	        }
+	    }
+	    change_culture = chimuan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_tupinamba_primary
+	            has_province_modifier = majority_tupinamba_accepted
+	            has_province_modifier = majority_tupinamba_unaccepted
+	        }
+	    }
+	    change_culture = tupinamba
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_guarani_primary
+	            has_province_modifier = majority_guarani_accepted
+	            has_province_modifier = majority_guarani_unaccepted
+	        }
+	    }
+	    change_culture = guarani
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_charruan_primary
+	            has_province_modifier = majority_charruan_accepted
+	            has_province_modifier = majority_charruan_unaccepted
+	        }
+	    }
+	    change_culture = charruan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_ge_primary
+	            has_province_modifier = majority_ge_accepted
+	            has_province_modifier = majority_ge_unaccepted
+	        }
+	    }
+	    change_culture = ge
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_jivaro_primary
+	            has_province_modifier = majority_jivaro_accepted
+	            has_province_modifier = majority_jivaro_unaccepted
+	        }
+	    }
+	    change_culture = jivaro
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_chachapoyan_primary
+	            has_province_modifier = majority_chachapoyan_accepted
+	            has_province_modifier = majority_chachapoyan_unaccepted
+	        }
+	    }
+	    change_culture = chachapoyan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_muisca_primary
+	            has_province_modifier = majority_muisca_accepted
+	            has_province_modifier = majority_muisca_unaccepted
+	        }
+	    }
+	    change_culture = muisca
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_cara_primary
+	            has_province_modifier = majority_cara_accepted
+	            has_province_modifier = majority_cara_unaccepted
+	        }
+	    }
+	    change_culture = cara
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_miskito_primary
+	            has_province_modifier = majority_miskito_accepted
+	            has_province_modifier = majority_miskito_unaccepted
+	        }
+	    }
+	    change_culture = miskito
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_chacoan_primary
+	            has_province_modifier = majority_chacoan_accepted
+	            has_province_modifier = majority_chacoan_unaccepted
+	        }
+	    }
+	    change_culture = chacoan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mapuche_primary
+	            has_province_modifier = majority_mapuche_accepted
+	            has_province_modifier = majority_mapuche_unaccepted
+	        }
+	    }
+	    change_culture = mapuche
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_patagonian_primary
+	            has_province_modifier = majority_patagonian_accepted
+	            has_province_modifier = majority_patagonian_unaccepted
+	        }
+	    }
+	    change_culture = patagonian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_het_primary
+	            has_province_modifier = majority_het_accepted
+	            has_province_modifier = majority_het_unaccepted
+	        }
+	    }
+	    change_culture = het
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_huarpe_primary
+	            has_province_modifier = majority_huarpe_accepted
+	            has_province_modifier = majority_huarpe_unaccepted
+	        }
+	    }
+	    change_culture = huarpe
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_arawak_primary
+	            has_province_modifier = majority_arawak_accepted
+	            has_province_modifier = majority_arawak_unaccepted
+	        }
+	    }
+	    change_culture = arawak
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_maipurean_primary
+	            has_province_modifier = majority_maipurean_accepted
+	            has_province_modifier = majority_maipurean_unaccepted
+	        }
+	    }
+	    change_culture = maipurean
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_carib_primary
+	            has_province_modifier = majority_carib_accepted
+	            has_province_modifier = majority_carib_unaccepted
+	        }
+	    }
+	    change_culture = carib
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_guajiro_primary
+	            has_province_modifier = majority_guajiro_accepted
+	            has_province_modifier = majority_guajiro_unaccepted
+	        }
+	    }
+	    change_culture = guajiro
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_aleutian_primary
+	            has_province_modifier = majority_aleutian_accepted
+	            has_province_modifier = majority_aleutian_unaccepted
+	        }
+	    }
+	    change_culture = aleutian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_inuit_primary
+	            has_province_modifier = majority_inuit_accepted
+	            has_province_modifier = majority_inuit_unaccepted
+	        }
+	    }
+	    change_culture = inuit
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_shawnee_primary
+	            has_province_modifier = majority_shawnee_accepted
+	            has_province_modifier = majority_shawnee_unaccepted
+	        }
+	    }
+	    change_culture = shawnee
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_illini_primary
+	            has_province_modifier = majority_illini_accepted
+	            has_province_modifier = majority_illini_unaccepted
+	        }
+	    }
+	    change_culture = illini
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_miami_primary
+	            has_province_modifier = majority_miami_accepted
+	            has_province_modifier = majority_miami_unaccepted
+	        }
+	    }
+	    change_culture = miami
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_anishinabe_primary
+	            has_province_modifier = majority_anishinabe_accepted
+	            has_province_modifier = majority_anishinabe_unaccepted
+	        }
+	    }
+	    change_culture = anishinabe
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_algonquin_primary
+	            has_province_modifier = majority_algonquin_accepted
+	            has_province_modifier = majority_algonquin_unaccepted
+	        }
+	    }
+	    change_culture = algonquin
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_cree_primary
+	            has_province_modifier = majority_cree_accepted
+	            has_province_modifier = majority_cree_unaccepted
+	        }
+	    }
+	    change_culture = cree
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_innu_primary
+	            has_province_modifier = majority_innu_accepted
+	            has_province_modifier = majority_innu_unaccepted
+	        }
+	    }
+	    change_culture = innu
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mesquakie_primary
+	            has_province_modifier = majority_mesquakie_accepted
+	            has_province_modifier = majority_mesquakie_unaccepted
+	        }
+	    }
+	    change_culture = mesquakie
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_cheyenne_primary
+	            has_province_modifier = majority_cheyenne_accepted
+	            has_province_modifier = majority_cheyenne_unaccepted
+	        }
+	    }
+	    change_culture = cheyenne
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_blackfoot_primary
+	            has_province_modifier = majority_blackfoot_accepted
+	            has_province_modifier = majority_blackfoot_unaccepted
+	        }
+	    }
+	    change_culture = blackfoot
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_arapaho_primary
+	            has_province_modifier = majority_arapaho_accepted
+	            has_province_modifier = majority_arapaho_unaccepted
+	        }
+	    }
+	    change_culture = arapaho
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_plains_cree_primary
+	            has_province_modifier = majority_plains_cree_accepted
+	            has_province_modifier = majority_plains_cree_unaccepted
+	        }
+	    }
+	    change_culture = plains_cree
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bungi_primary
+	            has_province_modifier = majority_bungi_accepted
+	            has_province_modifier = majority_bungi_unaccepted
+	        }
+	    }
+	    change_culture = bungi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_delaware_primary
+	            has_province_modifier = majority_delaware_accepted
+	            has_province_modifier = majority_delaware_unaccepted
+	        }
+	    }
+	    change_culture = delaware
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_abenaki_primary
+	            has_province_modifier = majority_abenaki_accepted
+	            has_province_modifier = majority_abenaki_unaccepted
+	        }
+	    }
+	    change_culture = abenaki
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mikmaq_primary
+	            has_province_modifier = majority_mikmaq_accepted
+	            has_province_modifier = majority_mikmaq_unaccepted
+	        }
+	    }
+	    change_culture = mikmaq
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_maliseet_primary
+	            has_province_modifier = majority_maliseet_accepted
+	            has_province_modifier = majority_maliseet_unaccepted
+	        }
+	    }
+	    change_culture = maliseet
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mahican_primary
+	            has_province_modifier = majority_mahican_accepted
+	            has_province_modifier = majority_mahican_unaccepted
+	        }
+	    }
+	    change_culture = mahican
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_powhatan_primary
+	            has_province_modifier = majority_powhatan_accepted
+	            has_province_modifier = majority_powhatan_unaccepted
+	        }
+	    }
+	    change_culture = powhatan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_pequot_primary
+	            has_province_modifier = majority_pequot_accepted
+	            has_province_modifier = majority_pequot_unaccepted
+	        }
+	    }
+	    change_culture = pequot
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_massachusset_primary
+	            has_province_modifier = majority_massachusset_accepted
+	            has_province_modifier = majority_massachusset_unaccepted
+	        }
+	    }
+	    change_culture = massachusset
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_iroquoian_primary
+	            has_province_modifier = majority_iroquoian_accepted
+	            has_province_modifier = majority_iroquoian_unaccepted
+	        }
+	    }
+	    change_culture = iroquoian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_cherokee_primary
+	            has_province_modifier = majority_cherokee_accepted
+	            has_province_modifier = majority_cherokee_unaccepted
+	        }
+	    }
+	    change_culture = cherokee
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_huron_primary
+	            has_province_modifier = majority_huron_accepted
+	            has_province_modifier = majority_huron_unaccepted
+	        }
+	    }
+	    change_culture = huron
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_laurentian_primary
+	            has_province_modifier = majority_laurentian_accepted
+	            has_province_modifier = majority_laurentian_unaccepted
+	        }
+	    }
+	    change_culture = laurentian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_tionontate_primary
+	            has_province_modifier = majority_tionontate_accepted
+	            has_province_modifier = majority_tionontate_unaccepted
+	        }
+	    }
+	    change_culture = tionontate
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_susquehannock_primary
+	            has_province_modifier = majority_susquehannock_accepted
+	            has_province_modifier = majority_susquehannock_unaccepted
+	        }
+	    }
+	    change_culture = susquehannock
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_dakota_primary
+	            has_province_modifier = majority_dakota_accepted
+	            has_province_modifier = majority_dakota_unaccepted
+	        }
+	    }
+	    change_culture = dakota
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_nakota_primary
+	            has_province_modifier = majority_nakota_accepted
+	            has_province_modifier = majority_nakota_unaccepted
+	        }
+	    }
+	    change_culture = nakota
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_chiwere_primary
+	            has_province_modifier = majority_chiwere_accepted
+	            has_province_modifier = majority_chiwere_unaccepted
+	        }
+	    }
+	    change_culture = chiwere
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_osage_primary
+	            has_province_modifier = majority_osage_accepted
+	            has_province_modifier = majority_osage_unaccepted
+	        }
+	    }
+	    change_culture = osage
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_wichita_primary
+	            has_province_modifier = majority_wichita_accepted
+	            has_province_modifier = majority_wichita_unaccepted
+	        }
+	    }
+	    change_culture = wichita
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_caddo_primary
+	            has_province_modifier = majority_caddo_accepted
+	            has_province_modifier = majority_caddo_unaccepted
+	        }
+	    }
+	    change_culture = caddo
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_pawnee_primary
+	            has_province_modifier = majority_pawnee_accepted
+	            has_province_modifier = majority_pawnee_unaccepted
+	        }
+	    }
+	    change_culture = pawnee
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_creek_primary
+	            has_province_modifier = majority_creek_accepted
+	            has_province_modifier = majority_creek_unaccepted
+	        }
+	    }
+	    change_culture = creek
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_choctaw_primary
+	            has_province_modifier = majority_choctaw_accepted
+	            has_province_modifier = majority_choctaw_unaccepted
+	        }
+	    }
+	    change_culture = choctaw
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_chickasaw_primary
+	            has_province_modifier = majority_chickasaw_accepted
+	            has_province_modifier = majority_chickasaw_unaccepted
+	        }
+	    }
+	    change_culture = chickasaw
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_yuchi_primary
+	            has_province_modifier = majority_yuchi_accepted
+	            has_province_modifier = majority_yuchi_unaccepted
+	        }
+	    }
+	    change_culture = yuchi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_yoron_primary
+	            has_province_modifier = majority_yoron_accepted
+	            has_province_modifier = majority_yoron_unaccepted
+	        }
+	    }
+	    change_culture = yoron
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_catawba_primary
+	            has_province_modifier = majority_catawba_accepted
+	            has_province_modifier = majority_catawba_unaccepted
+	        }
+	    }
+	    change_culture = catawba
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_natchez_primary
+	            has_province_modifier = majority_natchez_accepted
+	            has_province_modifier = majority_natchez_unaccepted
+	        }
+	    }
+	    change_culture = natchez
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_yamasee_primary
+	            has_province_modifier = majority_yamasee_accepted
+	            has_province_modifier = majority_yamasee_unaccepted
+	        }
+	    }
+	    change_culture = yamasee
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_pueblo_primary
+	            has_province_modifier = majority_pueblo_accepted
+	            has_province_modifier = majority_pueblo_unaccepted
+	        }
+	    }
+	    change_culture = pueblo
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_piman_primary
+	            has_province_modifier = majority_piman_accepted
+	            has_province_modifier = majority_piman_unaccepted
+	        }
+	    }
+	    change_culture = piman
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_shoshone_primary
+	            has_province_modifier = majority_shoshone_accepted
+	            has_province_modifier = majority_shoshone_unaccepted
+	        }
+	    }
+	    change_culture = shoshone
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kiowa_primary
+	            has_province_modifier = majority_kiowa_accepted
+	            has_province_modifier = majority_kiowa_unaccepted
+	        }
+	    }
+	    change_culture = kiowa
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_apache_primary
+	            has_province_modifier = majority_apache_accepted
+	            has_province_modifier = majority_apache_unaccepted
+	        }
+	    }
+	    change_culture = apache
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mescalero_primary
+	            has_province_modifier = majority_mescalero_accepted
+	            has_province_modifier = majority_mescalero_unaccepted
+	        }
+	    }
+	    change_culture = mescalero
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_lipan_primary
+	            has_province_modifier = majority_lipan_accepted
+	            has_province_modifier = majority_lipan_unaccepted
+	        }
+	    }
+	    change_culture = lipan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_navajo_primary
+	            has_province_modifier = majority_navajo_accepted
+	            has_province_modifier = majority_navajo_unaccepted
+	        }
+	    }
+	    change_culture = navajo
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_chipewyan_primary
+	            has_province_modifier = majority_chipewyan_accepted
+	            has_province_modifier = majority_chipewyan_unaccepted
+	        }
+	    }
+	    change_culture = chipewyan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_haida_primary
+	            has_province_modifier = majority_haida_accepted
+	            has_province_modifier = majority_haida_unaccepted
+	        }
+	    }
+	    change_culture = haida
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_athabascan_primary
+	            has_province_modifier = majority_athabascan_accepted
+	            has_province_modifier = majority_athabascan_unaccepted
+	        }
+	    }
+	    change_culture = athabascan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_salish_primary
+	            has_province_modifier = majority_salish_accepted
+	            has_province_modifier = majority_salish_unaccepted
+	        }
+	    }
+	    change_culture = salish
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_chinook_primary
+	            has_province_modifier = majority_chinook_accepted
+	            has_province_modifier = majority_chinook_unaccepted
+	        }
+	    }
+	    change_culture = chinook
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_yokuts_primary
+	            has_province_modifier = majority_yokuts_accepted
+	            has_province_modifier = majority_yokuts_unaccepted
+	        }
+	    }
+	    change_culture = yokuts
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_vietnamese_new_primary
+	            has_province_modifier = majority_vietnamese_new_accepted
+	            has_province_modifier = majority_vietnamese_new_unaccepted
+	        }
+	    }
+	    change_culture = vietnamese_new
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_korean_new_primary
+	            has_province_modifier = majority_korean_new_accepted
+	            has_province_modifier = majority_korean_new_unaccepted
+	        }
+	    }
+	    change_culture = korean_new
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_tibetan_new_primary
+	            has_province_modifier = majority_tibetan_new_accepted
+	            has_province_modifier = majority_tibetan_new_unaccepted
+	        }
+	    }
+	    change_culture = tibetan_new
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_altaic_new_primary
+	            has_province_modifier = majority_altaic_new_accepted
+	            has_province_modifier = majority_altaic_new_unaccepted
+	        }
+	    }
+	    change_culture = altaic_new
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_zhuang_new_primary
+	            has_province_modifier = majority_zhuang_new_accepted
+	            has_province_modifier = majority_zhuang_new_unaccepted
+	        }
+	    }
+	    change_culture = zhuang_new
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_manchu_new_primary
+	            has_province_modifier = majority_manchu_new_accepted
+	            has_province_modifier = majority_manchu_new_unaccepted
+	        }
+	    }
+	    change_culture = manchu_new
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_chihan_primary
+	            has_province_modifier = majority_chihan_accepted
+	            has_province_modifier = majority_chihan_unaccepted
+	        }
+	    }
+	    change_culture = chihan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_cantonese_primary
+	            has_province_modifier = majority_cantonese_accepted
+	            has_province_modifier = majority_cantonese_unaccepted
+	        }
+	    }
+	    change_culture = cantonese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_jin_primary
+	            has_province_modifier = majority_jin_accepted
+	            has_province_modifier = majority_jin_unaccepted
+	        }
+	    }
+	    change_culture = jin
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_wu_primary
+	            has_province_modifier = majority_wu_accepted
+	            has_province_modifier = majority_wu_unaccepted
+	        }
+	    }
+	    change_culture = wu
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_chimin_primary
+	            has_province_modifier = majority_chimin_accepted
+	            has_province_modifier = majority_chimin_unaccepted
+	        }
+	    }
+	    change_culture = chimin
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_hakka_primary
+	            has_province_modifier = majority_hakka_accepted
+	            has_province_modifier = majority_hakka_unaccepted
+	        }
+	    }
+	    change_culture = hakka
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_gan_primary
+	            has_province_modifier = majority_gan_accepted
+	            has_province_modifier = majority_gan_unaccepted
+	        }
+	    }
+	    change_culture = gan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_xiang_primary
+	            has_province_modifier = majority_xiang_accepted
+	            has_province_modifier = majority_xiang_unaccepted
+	        }
+	    }
+	    change_culture = xiang
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_sichuanese_primary
+	            has_province_modifier = majority_sichuanese_accepted
+	            has_province_modifier = majority_sichuanese_unaccepted
+	        }
+	    }
+	    change_culture = sichuanese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_jianghuai_primary
+	            has_province_modifier = majority_jianghuai_accepted
+	            has_province_modifier = majority_jianghuai_unaccepted
+	        }
+	    }
+	    change_culture = jianghuai
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_xibei_primary
+	            has_province_modifier = majority_xibei_accepted
+	            has_province_modifier = majority_xibei_unaccepted
+	        }
+	    }
+	    change_culture = xibei
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_hubei_primary
+	            has_province_modifier = majority_hubei_accepted
+	            has_province_modifier = majority_hubei_unaccepted
+	        }
+	    }
+	    change_culture = hubei
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_zhongyuan_primary
+	            has_province_modifier = majority_zhongyuan_accepted
+	            has_province_modifier = majority_zhongyuan_unaccepted
+	        }
+	    }
+	    change_culture = zhongyuan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_shandong_culture_primary
+	            has_province_modifier = majority_shandong_culture_accepted
+	            has_province_modifier = majority_shandong_culture_unaccepted
+	        }
+	    }
+	    change_culture = shandong_culture
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_korean_primary
+	            has_province_modifier = majority_korean_accepted
+	            has_province_modifier = majority_korean_unaccepted
+	        }
+	    }
+	    change_culture = korean
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_togoku_primary
+	            has_province_modifier = majority_togoku_accepted
+	            has_province_modifier = majority_togoku_unaccepted
+	        }
+	    }
+	    change_culture = togoku
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_japanese_primary
+	            has_province_modifier = majority_japanese_accepted
+	            has_province_modifier = majority_japanese_unaccepted
+	        }
+	    }
+	    change_culture = japanese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kyushuan_primary
+	            has_province_modifier = majority_kyushuan_accepted
+	            has_province_modifier = majority_kyushuan_unaccepted
+	        }
+	    }
+	    change_culture = kyushuan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_tibetan_primary
+	            has_province_modifier = majority_tibetan_accepted
+	            has_province_modifier = majority_tibetan_unaccepted
+	        }
+	    }
+	    change_culture = tibetan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_yi_primary
+	            has_province_modifier = majority_yi_accepted
+	            has_province_modifier = majority_yi_unaccepted
+	        }
+	    }
+	    change_culture = yi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bai_primary
+	            has_province_modifier = majority_bai_accepted
+	            has_province_modifier = majority_bai_unaccepted
+	        }
+	    }
+	    change_culture = bai
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_miao_primary
+	            has_province_modifier = majority_miao_accepted
+	            has_province_modifier = majority_miao_unaccepted
+	        }
+	    }
+	    change_culture = miao
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_malayan_primary
+	            has_province_modifier = majority_malayan_accepted
+	            has_province_modifier = majority_malayan_unaccepted
+	        }
+	    }
+	    change_culture = malayan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_sumatran_primary
+	            has_province_modifier = majority_sumatran_accepted
+	            has_province_modifier = majority_sumatran_unaccepted
+	        }
+	    }
+	    change_culture = sumatran
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_acehnese_primary
+	            has_province_modifier = majority_acehnese_accepted
+	            has_province_modifier = majority_acehnese_unaccepted
+	        }
+	    }
+	    change_culture = acehnese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_javanese_primary
+	            has_province_modifier = majority_javanese_accepted
+	            has_province_modifier = majority_javanese_unaccepted
+	        }
+	    }
+	    change_culture = javanese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_sundanese_primary
+	            has_province_modifier = majority_sundanese_accepted
+	            has_province_modifier = majority_sundanese_unaccepted
+	        }
+	    }
+	    change_culture = sundanese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_filipino_primary
+	            has_province_modifier = majority_filipino_accepted
+	            has_province_modifier = majority_filipino_unaccepted
+	        }
+	    }
+	    change_culture = filipino
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bornean_primary
+	            has_province_modifier = majority_bornean_accepted
+	            has_province_modifier = majority_bornean_unaccepted
+	        }
+	    }
+	    change_culture = bornean
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_madagascan_primary
+	            has_province_modifier = majority_madagascan_accepted
+	            has_province_modifier = majority_madagascan_unaccepted
+	        }
+	    }
+	    change_culture = madagascan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_sulawesi_primary
+	            has_province_modifier = majority_sulawesi_accepted
+	            has_province_modifier = majority_sulawesi_unaccepted
+	        }
+	    }
+	    change_culture = sulawesi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_moluccan_primary
+	            has_province_modifier = majority_moluccan_accepted
+	            has_province_modifier = majority_moluccan_unaccepted
+	        }
+	    }
+	    change_culture = moluccan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_nusa_tenggara_primary
+	            has_province_modifier = majority_nusa_tenggara_accepted
+	            has_province_modifier = majority_nusa_tenggara_unaccepted
+	        }
+	    }
+	    change_culture = nusa_tenggara
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_cham_primary
+	            has_province_modifier = majority_cham_accepted
+	            has_province_modifier = majority_cham_unaccepted
+	        }
+	    }
+	    change_culture = cham
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_central_thai_primary
+	            has_province_modifier = majority_central_thai_accepted
+	            has_province_modifier = majority_central_thai_unaccepted
+	        }
+	    }
+	    change_culture = central_thai
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_northern_thai_primary
+	            has_province_modifier = majority_northern_thai_accepted
+	            has_province_modifier = majority_northern_thai_unaccepted
+	        }
+	    }
+	    change_culture = northern_thai
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_lao_primary
+	            has_province_modifier = majority_lao_accepted
+	            has_province_modifier = majority_lao_unaccepted
+	        }
+	    }
+	    change_culture = lao
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_shan_primary
+	            has_province_modifier = majority_shan_accepted
+	            has_province_modifier = majority_shan_unaccepted
+	        }
+	    }
+	    change_culture = shan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_zhuang_primary
+	            has_province_modifier = majority_zhuang_accepted
+	            has_province_modifier = majority_zhuang_unaccepted
+	        }
+	    }
+	    change_culture = zhuang
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_khmer_primary
+	            has_province_modifier = majority_khmer_accepted
+	            has_province_modifier = majority_khmer_unaccepted
+	        }
+	    }
+	    change_culture = khmer
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mon_primary
+	            has_province_modifier = majority_mon_accepted
+	            has_province_modifier = majority_mon_unaccepted
+	        }
+	    }
+	    change_culture = mon
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_vietnamese_primary
+	            has_province_modifier = majority_vietnamese_accepted
+	            has_province_modifier = majority_vietnamese_unaccepted
+	        }
+	    }
+	    change_culture = vietnamese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_burmese_primary
+	            has_province_modifier = majority_burmese_accepted
+	            has_province_modifier = majority_burmese_unaccepted
+	        }
+	    }
+	    change_culture = burmese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_chin_primary
+	            has_province_modifier = majority_chin_accepted
+	            has_province_modifier = majority_chin_unaccepted
+	        }
+	    }
+	    change_culture = chin
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_karen_primary
+	            has_province_modifier = majority_karen_accepted
+	            has_province_modifier = majority_karen_unaccepted
+	        }
+	    }
+	    change_culture = karen
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kachin_primary
+	            has_province_modifier = majority_kachin_accepted
+	            has_province_modifier = majority_kachin_unaccepted
+	        }
+	    }
+	    change_culture = kachin
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_arakanese_primary
+	            has_province_modifier = majority_arakanese_accepted
+	            has_province_modifier = majority_arakanese_unaccepted
+	        }
+	    }
+	    change_culture = arakanese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_papuan_primary
+	            has_province_modifier = majority_papuan_accepted
+	            has_province_modifier = majority_papuan_unaccepted
+	        }
+	    }
+	    change_culture = papuan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_maori_primary
+	            has_province_modifier = majority_maori_accepted
+	            has_province_modifier = majority_maori_unaccepted
+	        }
+	    }
+	    change_culture = maori
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_melanesian_primary
+	            has_province_modifier = majority_melanesian_accepted
+	            has_province_modifier = majority_melanesian_unaccepted
+	        }
+	    }
+	    change_culture = melanesian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_polynesian_primary
+	            has_province_modifier = majority_polynesian_accepted
+	            has_province_modifier = majority_polynesian_unaccepted
+	        }
+	    }
+	    change_culture = polynesian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_aboriginal_primary
+	            has_province_modifier = majority_aboriginal_accepted
+	            has_province_modifier = majority_aboriginal_unaccepted
+	        }
+	    }
+	    change_culture = aboriginal
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_yura_primary
+	            has_province_modifier = majority_yura_accepted
+	            has_province_modifier = majority_yura_unaccepted
+	        }
+	    }
+	    change_culture = yura
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_paman_primary
+	            has_province_modifier = majority_paman_accepted
+	            has_province_modifier = majority_paman_unaccepted
+	        }
+	    }
+	    change_culture = paman
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_gunwinyguan_primary
+	            has_province_modifier = majority_gunwinyguan_accepted
+	            has_province_modifier = majority_gunwinyguan_unaccepted
+	        }
+	    }
+	    change_culture = gunwinyguan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_palawa_primary
+	            has_province_modifier = majority_palawa_accepted
+	            has_province_modifier = majority_palawa_unaccepted
+	        }
+	    }
+	    change_culture = palawa
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kulin_primary
+	            has_province_modifier = majority_kulin_accepted
+	            has_province_modifier = majority_kulin_unaccepted
+	        }
+	    }
+	    change_culture = kulin
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_gamilaraay_primary
+	            has_province_modifier = majority_gamilaraay_accepted
+	            has_province_modifier = majority_gamilaraay_unaccepted
+	        }
+	    }
+	    change_culture = gamilaraay
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_nyoongah_primary
+	            has_province_modifier = majority_nyoongah_accepted
+	            has_province_modifier = majority_nyoongah_unaccepted
+	        }
+	    }
+	    change_culture = nyoongah
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_assamese_primary
+	            has_province_modifier = majority_assamese_accepted
+	            has_province_modifier = majority_assamese_unaccepted
+	        }
+	    }
+	    change_culture = assamese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bengali_primary
+	            has_province_modifier = majority_bengali_accepted
+	            has_province_modifier = majority_bengali_unaccepted
+	        }
+	    }
+	    change_culture = bengali
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kochi_primary
+	            has_province_modifier = majority_kochi_accepted
+	            has_province_modifier = majority_kochi_unaccepted
+	        }
+	    }
+	    change_culture = kochi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bihari_primary
+	            has_province_modifier = majority_bihari_accepted
+	            has_province_modifier = majority_bihari_unaccepted
+	        }
+	    }
+	    change_culture = bihari
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_pahari_primary
+	            has_province_modifier = majority_pahari_accepted
+	            has_province_modifier = majority_pahari_unaccepted
+	        }
+	    }
+	    change_culture = pahari
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_nepali_primary
+	            has_province_modifier = majority_nepali_accepted
+	            has_province_modifier = majority_nepali_unaccepted
+	        }
+	    }
+	    change_culture = nepali
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_oriya_primary
+	            has_province_modifier = majority_oriya_accepted
+	            has_province_modifier = majority_oriya_unaccepted
+	        }
+	    }
+	    change_culture = oriya
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_sinhala_primary
+	            has_province_modifier = majority_sinhala_accepted
+	            has_province_modifier = majority_sinhala_unaccepted
+	        }
+	    }
+	    change_culture = sinhala
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_avadhi_primary
+	            has_province_modifier = majority_avadhi_accepted
+	            has_province_modifier = majority_avadhi_unaccepted
+	        }
+	    }
+	    change_culture = avadhi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kanauji_primary
+	            has_province_modifier = majority_kanauji_accepted
+	            has_province_modifier = majority_kanauji_unaccepted
+	        }
+	    }
+	    change_culture = kanauji
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_vindhyan_primary
+	            has_province_modifier = majority_vindhyan_accepted
+	            has_province_modifier = majority_vindhyan_unaccepted
+	        }
+	    }
+	    change_culture = vindhyan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_panjabi_primary
+	            has_province_modifier = majority_panjabi_accepted
+	            has_province_modifier = majority_panjabi_unaccepted
+	        }
+	    }
+	    change_culture = panjabi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kashmiri_primary
+	            has_province_modifier = majority_kashmiri_accepted
+	            has_province_modifier = majority_kashmiri_unaccepted
+	        }
+	    }
+	    change_culture = kashmiri
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_gujarati_primary
+	            has_province_modifier = majority_gujarati_accepted
+	            has_province_modifier = majority_gujarati_unaccepted
+	        }
+	    }
+	    change_culture = gujarati
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_parsi_primary
+	            has_province_modifier = majority_parsi_accepted
+	            has_province_modifier = majority_parsi_unaccepted
+	        }
+	    }
+	    change_culture = parsi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_saurashtri_primary
+	            has_province_modifier = majority_saurashtri_accepted
+	            has_province_modifier = majority_saurashtri_unaccepted
+	        }
+	    }
+	    change_culture = saurashtri
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_marathi_primary
+	            has_province_modifier = majority_marathi_accepted
+	            has_province_modifier = majority_marathi_unaccepted
+	        }
+	    }
+	    change_culture = marathi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_sindhi_primary
+	            has_province_modifier = majority_sindhi_accepted
+	            has_province_modifier = majority_sindhi_unaccepted
+	        }
+	    }
+	    change_culture = sindhi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_rajput_primary
+	            has_province_modifier = majority_rajput_accepted
+	            has_province_modifier = majority_rajput_unaccepted
+	        }
+	    }
+	    change_culture = rajput
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_malvi_primary
+	            has_province_modifier = majority_malvi_accepted
+	            has_province_modifier = majority_malvi_unaccepted
+	        }
+	    }
+	    change_culture = malvi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kannada_primary
+	            has_province_modifier = majority_kannada_accepted
+	            has_province_modifier = majority_kannada_unaccepted
+	        }
+	    }
+	    change_culture = kannada
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_malayalam_primary
+	            has_province_modifier = majority_malayalam_accepted
+	            has_province_modifier = majority_malayalam_unaccepted
+	        }
+	    }
+	    change_culture = malayalam
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_tamil_primary
+	            has_province_modifier = majority_tamil_accepted
+	            has_province_modifier = majority_tamil_unaccepted
+	        }
+	    }
+	    change_culture = tamil
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_telegu_primary
+	            has_province_modifier = majority_telegu_accepted
+	            has_province_modifier = majority_telegu_unaccepted
+	        }
+	    }
+	    change_culture = telegu
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_gondi_primary
+	            has_province_modifier = majority_gondi_accepted
+	            has_province_modifier = majority_gondi_unaccepted
+	        }
+	    }
+	    change_culture = gondi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_garjati_primary
+	            has_province_modifier = majority_garjati_accepted
+	            has_province_modifier = majority_garjati_unaccepted
+	        }
+	    }
+	    change_culture = garjati
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_jharkhandi_primary
+	            has_province_modifier = majority_jharkhandi_accepted
+	            has_province_modifier = majority_jharkhandi_unaccepted
+	        }
+	    }
+	    change_culture = jharkhandi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mali_primary
+	            has_province_modifier = majority_mali_accepted
+	            has_province_modifier = majority_mali_unaccepted
+	        }
+	    }
+	    change_culture = mali
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_songhai_primary
+	            has_province_modifier = majority_songhai_accepted
+	            has_province_modifier = majority_songhai_unaccepted
+	        }
+	    }
+	    change_culture = songhai
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_soninke_primary
+	            has_province_modifier = majority_soninke_accepted
+	            has_province_modifier = majority_soninke_unaccepted
+	        }
+	    }
+	    change_culture = soninke
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bambara_primary
+	            has_province_modifier = majority_bambara_accepted
+	            has_province_modifier = majority_bambara_unaccepted
+	        }
+	    }
+	    change_culture = bambara
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bozo_primary
+	            has_province_modifier = majority_bozo_accepted
+	            has_province_modifier = majority_bozo_unaccepted
+	        }
+	    }
+	    change_culture = bozo
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_dyola_primary
+	            has_province_modifier = majority_dyola_accepted
+	            has_province_modifier = majority_dyola_unaccepted
+	        }
+	    }
+	    change_culture = dyola
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_hausa_primary
+	            has_province_modifier = majority_hausa_accepted
+	            has_province_modifier = majority_hausa_unaccepted
+	        }
+	    }
+	    change_culture = hausa
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kanuri_primary
+	            has_province_modifier = majority_kanuri_accepted
+	            has_province_modifier = majority_kanuri_unaccepted
+	        }
+	    }
+	    change_culture = kanuri
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bilala_primary
+	            has_province_modifier = majority_bilala_accepted
+	            has_province_modifier = majority_bilala_unaccepted
+	        }
+	    }
+	    change_culture = bilala
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_tunjur_primary
+	            has_province_modifier = majority_tunjur_accepted
+	            has_province_modifier = majority_tunjur_unaccepted
+	        }
+	    }
+	    change_culture = tunjur
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_tuareg_primary
+	            has_province_modifier = majority_tuareg_accepted
+	            has_province_modifier = majority_tuareg_unaccepted
+	        }
+	    }
+	    change_culture = tuareg
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_senegambian_primary
+	            has_province_modifier = majority_senegambian_accepted
+	            has_province_modifier = majority_senegambian_unaccepted
+	        }
+	    }
+	    change_culture = senegambian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_fulani_primary
+	            has_province_modifier = majority_fulani_accepted
+	            has_province_modifier = majority_fulani_unaccepted
+	        }
+	    }
+	    change_culture = fulani
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_yorumba_primary
+	            has_province_modifier = majority_yorumba_accepted
+	            has_province_modifier = majority_yorumba_unaccepted
+	        }
+	    }
+	    change_culture = yorumba
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_aka_primary
+	            has_province_modifier = majority_aka_accepted
+	            has_province_modifier = majority_aka_unaccepted
+	        }
+	    }
+	    change_culture = aka
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_nupe_primary
+	            has_province_modifier = majority_nupe_accepted
+	            has_province_modifier = majority_nupe_unaccepted
+	        }
+	    }
+	    change_culture = nupe
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_fon_primary
+	            has_province_modifier = majority_fon_accepted
+	            has_province_modifier = majority_fon_unaccepted
+	        }
+	    }
+	    change_culture = fon
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mossi_primary
+	            has_province_modifier = majority_mossi_accepted
+	            has_province_modifier = majority_mossi_unaccepted
+	        }
+	    }
+	    change_culture = mossi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_dagomba_primary
+	            has_province_modifier = majority_dagomba_accepted
+	            has_province_modifier = majority_dagomba_unaccepted
+	        }
+	    }
+	    change_culture = dagomba
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_makua_primary
+	            has_province_modifier = majority_makua_accepted
+	            has_province_modifier = majority_makua_unaccepted
+	        }
+	    }
+	    change_culture = makua
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_nguni_primary
+	            has_province_modifier = majority_nguni_accepted
+	            has_province_modifier = majority_nguni_unaccepted
+	        }
+	    }
+	    change_culture = nguni
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bemba_primary
+	            has_province_modifier = majority_bemba_accepted
+	            has_province_modifier = majority_bemba_unaccepted
+	        }
+	    }
+	    change_culture = bemba
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_khoisan_primary
+	            has_province_modifier = majority_khoisan_accepted
+	            has_province_modifier = majority_khoisan_unaccepted
+	        }
+	    }
+	    change_culture = khoisan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_shona_primary
+	            has_province_modifier = majority_shona_accepted
+	            has_province_modifier = majority_shona_unaccepted
+	        }
+	    }
+	    change_culture = shona
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_nyasa_primary
+	            has_province_modifier = majority_nyasa_accepted
+	            has_province_modifier = majority_nyasa_unaccepted
+	        }
+	    }
+	    change_culture = nyasa
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_lunda_primary
+	            has_province_modifier = majority_lunda_accepted
+	            has_province_modifier = majority_lunda_unaccepted
+	        }
+	    }
+	    change_culture = lunda
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_luba_primary
+	            has_province_modifier = majority_luba_accepted
+	            has_province_modifier = majority_luba_unaccepted
+	        }
+	    }
+	    change_culture = luba
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kongolese_primary
+	            has_province_modifier = majority_kongolese_accepted
+	            has_province_modifier = majority_kongolese_unaccepted
+	        }
+	    }
+	    change_culture = kongolese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_yaka_primary
+	            has_province_modifier = majority_yaka_accepted
+	            has_province_modifier = majority_yaka_unaccepted
+	        }
+	    }
+	    change_culture = yaka
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kuba_primary
+	            has_province_modifier = majority_kuba_accepted
+	            has_province_modifier = majority_kuba_unaccepted
+	        }
+	    }
+	    change_culture = kuba
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mbundu_primary
+	            has_province_modifier = majority_mbundu_accepted
+	            has_province_modifier = majority_mbundu_unaccepted
+	        }
+	    }
+	    change_culture = mbundu
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_chokwe_primary
+	            has_province_modifier = majority_chokwe_accepted
+	            has_province_modifier = majority_chokwe_unaccepted
+	        }
+	    }
+	    change_culture = chokwe
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mbangala_primary
+	            has_province_modifier = majority_mbangala_accepted
+	            has_province_modifier = majority_mbangala_unaccepted
+	        }
+	    }
+	    change_culture = mbangala
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_jukun_primary
+	            has_province_modifier = majority_jukun_accepted
+	            has_province_modifier = majority_jukun_unaccepted
+	        }
+	    }
+	    change_culture = jukun
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_sawabantu_primary
+	            has_province_modifier = majority_sawabantu_accepted
+	            has_province_modifier = majority_sawabantu_unaccepted
+	        }
+	    }
+	    change_culture = sawabantu
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_rwandan_primary
+	            has_province_modifier = majority_rwandan_accepted
+	            has_province_modifier = majority_rwandan_unaccepted
+	        }
+	    }
+	    change_culture = rwandan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_ganda_primary
+	            has_province_modifier = majority_ganda_accepted
+	            has_province_modifier = majority_ganda_unaccepted
+	        }
+	    }
+	    change_culture = ganda
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_masaba_primary
+	            has_province_modifier = majority_masaba_accepted
+	            has_province_modifier = majority_masaba_unaccepted
+	        }
+	    }
+	    change_culture = masaba
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_madagasue_primary
+	            has_province_modifier = majority_madagasue_accepted
+	            has_province_modifier = majority_madagasue_unaccepted
+	        }
+	    }
+	    change_culture = madagasue
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_takama_primary
+	            has_province_modifier = majority_takama_accepted
+	            has_province_modifier = majority_takama_unaccepted
+	        }
+	    }
+	    change_culture = takama
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bena_primary
+	            has_province_modifier = majority_bena_accepted
+	            has_province_modifier = majority_bena_unaccepted
+	        }
+	    }
+	    change_culture = bena
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bantu_primary
+	            has_province_modifier = majority_bantu_accepted
+	            has_province_modifier = majority_bantu_unaccepted
+	        }
+	    }
+	    change_culture = bantu
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_swahili_primary
+	            has_province_modifier = majority_swahili_accepted
+	            has_province_modifier = majority_swahili_unaccepted
+	        }
+	    }
+	    change_culture = swahili
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_somali_primary
+	            has_province_modifier = majority_somali_accepted
+	            has_province_modifier = majority_somali_unaccepted
+	        }
+	    }
+	    change_culture = somali
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_harari_primary
+	            has_province_modifier = majority_harari_accepted
+	            has_province_modifier = majority_harari_unaccepted
+	        }
+	    }
+	    change_culture = harari
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_afar_primary
+	            has_province_modifier = majority_afar_accepted
+	            has_province_modifier = majority_afar_unaccepted
+	        }
+	    }
+	    change_culture = afar
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_oromo_primary
+	            has_province_modifier = majority_oromo_accepted
+	            has_province_modifier = majority_oromo_unaccepted
+	        }
+	    }
+	    change_culture = oromo
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_tigray_primary
+	            has_province_modifier = majority_tigray_accepted
+	            has_province_modifier = majority_tigray_unaccepted
+	        }
+	    }
+	    change_culture = tigray
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_sidamo_primary
+	            has_province_modifier = majority_sidamo_accepted
+	            has_province_modifier = majority_sidamo_unaccepted
+	        }
+	    }
+	    change_culture = sidamo
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_amhara_primary
+	            has_province_modifier = majority_amhara_accepted
+	            has_province_modifier = majority_amhara_unaccepted
+	        }
+	    }
+	    change_culture = amhara
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_acholi_primary
+	            has_province_modifier = majority_acholi_accepted
+	            has_province_modifier = majority_acholi_unaccepted
+	        }
+	    }
+	    change_culture = acholi
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_nubian_primary
+	            has_province_modifier = majority_nubian_accepted
+	            has_province_modifier = majority_nubian_unaccepted
+	        }
+	    }
+	    change_culture = nubian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_beja_primary
+	            has_province_modifier = majority_beja_accepted
+	            has_province_modifier = majority_beja_unaccepted
+	        }
+	    }
+	    change_culture = beja
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_evenk_primary
+	            has_province_modifier = majority_evenk_accepted
+	            has_province_modifier = majority_evenk_unaccepted
+	        }
+	    }
+	    change_culture = evenk
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_yakut_primary
+	            has_province_modifier = majority_yakut_accepted
+	            has_province_modifier = majority_yakut_unaccepted
+	        }
+	    }
+	    change_culture = yakut
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_yukagyr_primary
+	            has_province_modifier = majority_yukagyr_accepted
+	            has_province_modifier = majority_yukagyr_unaccepted
+	        }
+	    }
+	    change_culture = yukagyr
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_buryat_primary
+	            has_province_modifier = majority_buryat_accepted
+	            has_province_modifier = majority_buryat_unaccepted
+	        }
+	    }
+	    change_culture = buryat
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_tungus_primary
+	            has_province_modifier = majority_tungus_accepted
+	            has_province_modifier = majority_tungus_unaccepted
+	        }
+	    }
+	    change_culture = tungus
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_manchu_primary
+	            has_province_modifier = majority_manchu_accepted
+	            has_province_modifier = majority_manchu_unaccepted
+	        }
+	    }
+	    change_culture = manchu
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_ainu_primary
+	            has_province_modifier = majority_ainu_accepted
+	            has_province_modifier = majority_ainu_unaccepted
+	        }
+	    }
+	    change_culture = ainu
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kamchatkan_primary
+	            has_province_modifier = majority_kamchatkan_accepted
+	            has_province_modifier = majority_kamchatkan_unaccepted
+	        }
+	    }
+	    change_culture = kamchatkan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_nivkh_primary
+	            has_province_modifier = majority_nivkh_accepted
+	            has_province_modifier = majority_nivkh_unaccepted
+	        }
+	    }
+	    change_culture = nivkh
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_astrakhani_primary
+	            has_province_modifier = majority_astrakhani_accepted
+	            has_province_modifier = majority_astrakhani_unaccepted
+	        }
+	    }
+	    change_culture = astrakhani
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_bashkir_primary
+	            has_province_modifier = majority_bashkir_accepted
+	            has_province_modifier = majority_bashkir_unaccepted
+	        }
+	    }
+	    change_culture = bashkir
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_crimean_primary
+	            has_province_modifier = majority_crimean_accepted
+	            has_province_modifier = majority_crimean_unaccepted
+	        }
+	    }
+	    change_culture = crimean
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_kazani_primary
+	            has_province_modifier = majority_kazani_accepted
+	            has_province_modifier = majority_kazani_unaccepted
+	        }
+	    }
+	    change_culture = kazani
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_mishary_primary
+	            has_province_modifier = majority_mishary_accepted
+	            has_province_modifier = majority_mishary_unaccepted
+	        }
+	    }
+	    change_culture = mishary
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_nogaybak_primary
+	            has_province_modifier = majority_nogaybak_accepted
+	            has_province_modifier = majority_nogaybak_unaccepted
+	        }
+	    }
+	    change_culture = nogaybak
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_siberian_primary
+	            has_province_modifier = majority_siberian_accepted
+	            has_province_modifier = majority_siberian_unaccepted
+	        }
+	    }
+	    change_culture = siberian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_atlantean_primary
+	            has_province_modifier = majority_atlantean_accepted
+	            has_province_modifier = majority_atlantean_unaccepted
+	        }
+	    }
+	    change_culture = atlantean
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_spartan_primary
+	            has_province_modifier = majority_spartan_accepted
+	            has_province_modifier = majority_spartan_unaccepted
+	        }
+	    }
+	    change_culture = spartan
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_athenian_primary
+	            has_province_modifier = majority_athenian_accepted
+	            has_province_modifier = majority_athenian_unaccepted
+	        }
+	    }
+	    change_culture = athenian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_old_egyptian_primary
+	            has_province_modifier = majority_old_egyptian_accepted
+	            has_province_modifier = majority_old_egyptian_unaccepted
+	        }
+	    }
+	    change_culture = old_egyptian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_roman_primary
+	            has_province_modifier = majority_roman_accepted
+	            has_province_modifier = majority_roman_unaccepted
+	        }
+	    }
+	    change_culture = roman
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_jan_mayenese_primary
+	            has_province_modifier = majority_jan_mayenese_accepted
+	            has_province_modifier = majority_jan_mayenese_unaccepted
+	        }
+	    }
+	    change_culture = jan_mayenese
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_pruthenian_primary
+	            has_province_modifier = majority_pruthenian_accepted
+	            has_province_modifier = majority_pruthenian_unaccepted
+	        }
+	    }
+	    change_culture = pruthenian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_phoenician_primary
+	            has_province_modifier = majority_phoenician_accepted
+	            has_province_modifier = majority_phoenician_unaccepted
+	        }
+	    }
+	    change_culture = phoenician
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_scanian_primary
+	            has_province_modifier = majority_scanian_accepted
+	            has_province_modifier = majority_scanian_unaccepted
+	        }
+	    }
+	    change_culture = scanian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_anglosaxon_primary
+	            has_province_modifier = majority_anglosaxon_accepted
+	            has_province_modifier = majority_anglosaxon_unaccepted
+	        }
+	    }
+	    change_culture = anglosaxon
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_babylonian_primary
+	            has_province_modifier = majority_babylonian_accepted
+	            has_province_modifier = majority_babylonian_unaccepted
+	        }
+	    }
+	    change_culture = babylonian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_etrurian_primary
+	            has_province_modifier = majority_etrurian_accepted
+	            has_province_modifier = majority_etrurian_unaccepted
+	        }
+	    }
+	    change_culture = etrurian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_parthian_primary
+	            has_province_modifier = majority_parthian_accepted
+	            has_province_modifier = majority_parthian_unaccepted
+	        }
+	    }
+	    change_culture = parthian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_aramaic_primary
+	            has_province_modifier = majority_aramaic_accepted
+	            has_province_modifier = majority_aramaic_unaccepted
+	        }
+	    }
+	    change_culture = aramaic
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_hebrew_primary
+	            has_province_modifier = majority_hebrew_accepted
+	            has_province_modifier = majority_hebrew_unaccepted
+	        }
+	    }
+	    change_culture = hebrew
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_scythian_primary
+	            has_province_modifier = majority_scythian_accepted
+	            has_province_modifier = majority_scythian_unaccepted
+	        }
+	    }
+	    change_culture = scythian
+	}
+	if = {
+	    limit = {
+	        OR = {
+	            has_province_modifier = majority_livonian_primary
+	            has_province_modifier = majority_livonian_accepted
+	            has_province_modifier = majority_livonian_unaccepted
+	        }
+	    }
+	    change_culture = livonian
+	}
+}

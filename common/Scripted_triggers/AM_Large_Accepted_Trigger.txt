@@ -1,0 +1,2108 @@
+large_accepted_trigger = {
+	OR = {
+		and = {
+			culture = pommeranian
+			has_province_modifier = large_pommeranian_accepted
+		}
+		
+		and = {
+			culture = prussian
+			has_province_modifier = large_prussian_accepted
+		}
+		
+		and = {
+			culture = baltic_german
+			has_province_modifier = large_baltic_german_accepted
+		}
+		
+		and = {
+			culture = lower_saxon
+			has_province_modifier = large_lower_saxon_accepted
+		}
+		
+		and = {
+			culture = hannoverian
+			has_province_modifier = large_hannoverian_accepted
+		}
+		
+		and = {
+			culture = hessian
+			has_province_modifier = large_hessian_accepted
+		}
+		
+		and = {
+			culture = saxon
+			has_province_modifier = large_saxon_accepted
+		}
+		
+		and = {
+			culture = franconian
+			has_province_modifier = large_franconian_accepted
+		}
+		
+		and = {
+			culture = swabian
+			has_province_modifier = large_swabian_accepted
+		}
+		
+		and = {
+			culture = swiss
+			has_province_modifier = large_swiss_accepted
+		}
+		
+		and = {
+			culture = bavarian
+			has_province_modifier = large_bavarian_accepted
+		}
+		
+		and = {
+			culture = austrian
+			has_province_modifier = large_austrian_accepted
+		}
+		
+		and = {
+			culture = dutch
+			has_province_modifier = large_dutch_accepted
+		}
+		
+		and = {
+			culture = flemish
+			has_province_modifier = large_flemish_accepted
+		}
+		
+		and = {
+			culture = frisian
+			has_province_modifier = large_frisian_accepted
+		}
+		
+		and = {
+			culture = swedish
+			has_province_modifier = large_swedish_accepted
+		}
+		
+		and = {
+			culture = danish
+			has_province_modifier = large_danish_accepted
+		}
+		
+		and = {
+			culture = norwegian
+			has_province_modifier = large_norwegian_accepted
+		}
+		
+		and = {
+			culture = finnish
+			has_province_modifier = large_finnish_accepted
+		}
+		
+		and = {
+			culture = sapmi
+			has_province_modifier = large_sapmi_accepted
+		}
+		
+		and = {
+			culture = karelian
+			has_province_modifier = large_karelian_accepted
+		}
+		
+		and = {
+			culture = icelandic
+			has_province_modifier = large_icelandic_accepted
+		}
+		
+		and = {
+			culture = norse
+			has_province_modifier = large_norse_accepted
+		}
+		
+		and = {
+			culture = english
+			has_province_modifier = large_english_accepted
+		}
+		
+		and = {
+			culture = american
+			has_province_modifier = large_american_accepted
+		}
+		
+		and = {
+			culture = welsh
+			has_province_modifier = large_welsh_accepted
+		}
+		
+		and = {
+			culture = cornish
+			has_province_modifier = large_cornish_accepted
+		}
+		
+		and = {
+			culture = scottish
+			has_province_modifier = large_scottish_accepted
+		}
+		
+		and = {
+			culture = irish
+			has_province_modifier = large_irish_accepted
+		}
+		
+		and = {
+			culture = highland_scottish
+			has_province_modifier = large_highland_scottish_accepted
+		}
+		
+		and = {
+			culture = lombard
+			has_province_modifier = large_lombard_accepted
+		}
+		
+		and = {
+			culture = tuscan
+			has_province_modifier = large_tuscan_accepted
+		}
+		
+		and = {
+			culture = sardinian
+			has_province_modifier = large_sardinian_accepted
+		}
+		
+		and = {
+			culture = romagnan
+			has_province_modifier = large_romagnan_accepted
+		}
+		
+		and = {
+			culture = ligurian
+			has_province_modifier = large_ligurian_accepted
+		}
+		
+		and = {
+			culture = venetian
+			has_province_modifier = large_venetian_accepted
+		}
+		
+		and = {
+			culture = dalmatian
+			has_province_modifier = large_dalmatian_accepted
+		}
+		
+		and = {
+			culture = neapolitan
+			has_province_modifier = large_neapolitan_accepted
+		}
+		
+		and = {
+			culture = piedmontese
+			has_province_modifier = large_piedmontese_accepted
+		}
+		
+		and = {
+			culture = umbrian
+			has_province_modifier = large_umbrian_accepted
+		}
+		
+		and = {
+			culture = sicilian
+			has_province_modifier = large_sicilian_accepted
+		}
+		
+		and = {
+			culture = maltese
+			has_province_modifier = large_maltese_accepted
+		}
+		
+		and = {
+			culture = castillian
+			has_province_modifier = large_castillian_accepted
+		}
+		
+		and = {
+			culture = mexican
+			has_province_modifier = large_mexican_accepted
+		}
+		
+		and = {
+			culture = platinean
+			has_province_modifier = large_platinean_accepted
+		}
+		
+		and = {
+			culture = leonese
+			has_province_modifier = large_leonese_accepted
+		}
+		
+		and = {
+			culture = aragonese
+			has_province_modifier = large_aragonese_accepted
+		}
+		
+		and = {
+			culture = catalan
+			has_province_modifier = large_catalan_accepted
+		}
+		
+		and = {
+			culture = galician
+			has_province_modifier = large_galician_accepted
+		}
+		
+		and = {
+			culture = andalucian
+			has_province_modifier = large_andalucian_accepted
+		}
+		
+		and = {
+			culture = portugese
+			has_province_modifier = large_portugese_accepted
+		}
+		
+		and = {
+			culture = brazilian
+			has_province_modifier = large_brazilian_accepted
+		}
+		
+		and = {
+			culture = basque
+			has_province_modifier = large_basque_accepted
+		}
+		
+		and = {
+			culture = cosmopolitan_french
+			has_province_modifier = large_cosmopolitan_french_accepted
+		}
+		
+		and = {
+			culture = gascon
+			has_province_modifier = large_gascon_accepted
+		}
+		
+		and = {
+			culture = normand
+			has_province_modifier = large_normand_accepted
+		}
+		
+		and = {
+			culture = aquitaine
+			has_province_modifier = large_aquitaine_accepted
+		}
+		
+		and = {
+			culture = burgundian
+			has_province_modifier = large_burgundian_accepted
+		}
+		
+		and = {
+			culture = occitain
+			has_province_modifier = large_occitain_accepted
+		}
+		
+		and = {
+			culture = wallonian
+			has_province_modifier = large_wallonian_accepted
+		}
+		
+		and = {
+			culture = louisianans
+			has_province_modifier = large_louisianans_accepted
+		}
+		
+		and = {
+			culture = quebecois
+			has_province_modifier = large_quebecois_accepted
+		}
+		
+		and = {
+			culture = anglois
+			has_province_modifier = large_anglois_accepted
+		}
+		
+		and = {
+			culture = breton
+			has_province_modifier = large_breton_accepted
+		}
+		
+		and = {
+			culture = uralic
+			has_province_modifier = large_uralic_accepted
+		}
+		
+		and = {
+			culture = samoyed
+			has_province_modifier = large_samoyed_accepted
+		}
+		
+		and = {
+			culture = ostyaki
+			has_province_modifier = large_ostyaki_accepted
+		}
+		
+		and = {
+			culture = ingrian
+			has_province_modifier = large_ingrian_accepted
+		}
+		
+		and = {
+			culture = croatian
+			has_province_modifier = large_croatian_accepted
+		}
+		
+		and = {
+			culture = serbian
+			has_province_modifier = large_serbian_accepted
+		}
+		
+		and = {
+			culture = slovene
+			has_province_modifier = large_slovene_accepted
+		}
+		
+		and = {
+			culture = bosnian
+			has_province_modifier = large_bosnian_accepted
+		}
+		
+		and = {
+			culture = bulgarian
+			has_province_modifier = large_bulgarian_accepted
+		}
+		
+		and = {
+			culture = albanian
+			has_province_modifier = large_albanian_accepted
+		}
+		
+		and = {
+			culture = czech
+			has_province_modifier = large_czech_accepted
+		}
+		
+		and = {
+			culture = polish
+			has_province_modifier = large_polish_accepted
+		}
+		
+		and = {
+			culture = schlesian
+			has_province_modifier = large_schlesian_accepted
+		}
+		
+		and = {
+			culture = sorbian
+			has_province_modifier = large_sorbian_accepted
+		}
+		
+		and = {
+			culture = slovak
+			has_province_modifier = large_slovak_accepted
+		}
+		
+		and = {
+			culture = transylvanian
+			has_province_modifier = large_transylvanian_accepted
+		}
+		
+		and = {
+			culture = romanian
+			has_province_modifier = large_romanian_accepted
+		}
+		
+		and = {
+			culture = hungarian
+			has_province_modifier = large_hungarian_accepted
+		}
+		
+		and = {
+			culture = russian
+			has_province_modifier = large_russian_accepted
+		}
+		
+		and = {
+			culture = novgorodian
+			has_province_modifier = large_novgorodian_accepted
+		}
+		
+		and = {
+			culture = ryzanian
+			has_province_modifier = large_ryzanian_accepted
+		}
+		
+		and = {
+			culture = byelorussian
+			has_province_modifier = large_byelorussian_accepted
+		}
+		
+		and = {
+			culture = ruthenian
+			has_province_modifier = large_ruthenian_accepted
+		}
+		
+		and = {
+			culture = russian_new
+			has_province_modifier = large_russian_new_accepted
+		}
+		
+		and = {
+			culture = novgorodian_new
+			has_province_modifier = large_novgorodian_new_accepted
+		}
+		
+		and = {
+			culture = ryazanian_new
+			has_province_modifier = large_ryazanian_new_accepted
+		}
+		
+		and = {
+			culture = byelorussian_new
+			has_province_modifier = large_byelorussian_new_accepted
+		}
+		
+		and = {
+			culture = ruthenian_new
+			has_province_modifier = large_ruthenian_new_accepted
+		}
+		
+		and = {
+			culture = slovak_new
+			has_province_modifier = large_slovak_new_accepted
+		}
+		
+		and = {
+			culture = czech_new
+			has_province_modifier = large_czech_new_accepted
+		}
+		
+		and = {
+			culture = polish_new
+			has_province_modifier = large_polish_new_accepted
+		}
+		
+		and = {
+			culture = schlesian_new
+			has_province_modifier = large_schlesian_new_accepted
+		}
+		
+		and = {
+			culture = sorbian_new
+			has_province_modifier = large_sorbian_new_accepted
+		}
+		
+		and = {
+			culture = croatian_new
+			has_province_modifier = large_croatian_new_accepted
+		}
+		
+		and = {
+			culture = serbian_new
+			has_province_modifier = large_serbian_new_accepted
+		}
+		
+		and = {
+			culture = slovene_new
+			has_province_modifier = large_slovene_new_accepted
+		}
+		
+		and = {
+			culture = bosnian_new
+			has_province_modifier = large_bosnian_new_accepted
+		}
+		
+		and = {
+			culture = bulgarian_new
+			has_province_modifier = large_bulgarian_new_accepted
+		}
+		
+		and = {
+			culture = estonian
+			has_province_modifier = large_estonian_accepted
+		}
+		
+		and = {
+			culture = lithuanian
+			has_province_modifier = large_lithuanian_accepted
+		}
+		
+		and = {
+			culture = latvian
+			has_province_modifier = large_latvian_accepted
+		}
+		
+		and = {
+			culture = greek
+			has_province_modifier = large_greek_accepted
+		}
+		
+		and = {
+			culture = pontic_greek
+			has_province_modifier = large_pontic_greek_accepted
+		}
+		
+		and = {
+			culture = goths
+			has_province_modifier = large_goths_accepted
+		}
+		
+		and = {
+			culture = georgian
+			has_province_modifier = large_georgian_accepted
+		}
+		
+		and = {
+			culture = circassian
+			has_province_modifier = large_circassian_accepted
+		}
+		
+		and = {
+			culture = dagestani
+			has_province_modifier = large_dagestani_accepted
+		}
+		
+		and = {
+			culture = armenian
+			has_province_modifier = large_armenian_accepted
+		}
+		
+		and = {
+			culture = turkish
+			has_province_modifier = large_turkish_accepted
+		}
+		
+		and = {
+			culture = al_misr_arabic
+			has_province_modifier = large_al_misr_arabic_accepted
+		}
+		
+		and = {
+			culture = al_suryah_arabic
+			has_province_modifier = large_al_suryah_arabic_accepted
+		}
+		
+		and = {
+			culture = al_iraqiya_arabic
+			has_province_modifier = large_al_iraqiya_arabic_accepted
+		}
+		
+		and = {
+			culture = gulf_arabic
+			has_province_modifier = large_gulf_arabic_accepted
+		}
+		
+		and = {
+			culture = bedouin_arabic
+			has_province_modifier = large_bedouin_arabic_accepted
+		}
+		
+		and = {
+			culture = mahri_culture
+			has_province_modifier = large_mahri_culture_accepted
+		}
+		
+		and = {
+			culture = hejazi_culture
+			has_province_modifier = large_hejazi_culture_accepted
+		}
+		
+		and = {
+			culture = omani_culture
+			has_province_modifier = large_omani_culture_accepted
+		}
+		
+		and = {
+			culture = yemani_culture
+			has_province_modifier = large_yemani_culture_accepted
+		}
+		
+		and = {
+			culture = moroccan
+			has_province_modifier = large_moroccan_accepted
+		}
+		
+		and = {
+			culture = tunisian
+			has_province_modifier = large_tunisian_accepted
+		}
+		
+		and = {
+			culture = algerian
+			has_province_modifier = large_algerian_accepted
+		}
+		
+		and = {
+			culture = berber
+			has_province_modifier = large_berber_accepted
+		}
+		
+		and = {
+			culture = persian
+			has_province_modifier = large_persian_accepted
+		}
+		
+		and = {
+			culture = luri
+			has_province_modifier = large_luri_accepted
+		}
+		
+		and = {
+			culture = azerbaijani
+			has_province_modifier = large_azerbaijani_accepted
+		}
+		
+		and = {
+			culture = khorasani
+			has_province_modifier = large_khorasani_accepted
+		}
+		
+		and = {
+			culture = baluchi
+			has_province_modifier = large_baluchi_accepted
+		}
+		
+		and = {
+			culture = afghani
+			has_province_modifier = large_afghani_accepted
+		}
+		
+		and = {
+			culture = kurdish
+			has_province_modifier = large_kurdish_accepted
+		}
+		
+		and = {
+			culture = mazandarani
+			has_province_modifier = large_mazandarani_accepted
+		}
+		
+		and = {
+			culture = mongol
+			has_province_modifier = large_mongol_accepted
+		}
+		
+		and = {
+			culture = chahar
+			has_province_modifier = large_chahar_accepted
+		}
+		
+		and = {
+			culture = khalkha
+			has_province_modifier = large_khalkha_accepted
+		}
+		
+		and = {
+			culture = oirats
+			has_province_modifier = large_oirats_accepted
+		}
+		
+		and = {
+			culture = uzbehk
+			has_province_modifier = large_uzbehk_accepted
+		}
+		
+		and = {
+			culture = turkmeni
+			has_province_modifier = large_turkmeni_accepted
+		}
+		
+		and = {
+			culture = uyghur
+			has_province_modifier = large_uyghur_accepted
+		}
+		
+		and = {
+			culture = khazak
+			has_province_modifier = large_khazak_accepted
+		}
+		
+		and = {
+			culture = kirgiz
+			has_province_modifier = large_kirgiz_accepted
+		}
+		
+		and = {
+			culture = aztek
+			has_province_modifier = large_aztek_accepted
+		}
+		
+		and = {
+			culture = totonac
+			has_province_modifier = large_totonac_accepted
+		}
+		
+		and = {
+			culture = purepecha
+			has_province_modifier = large_purepecha_accepted
+		}
+		
+		and = {
+			culture = matlatzinca
+			has_province_modifier = large_matlatzinca_accepted
+		}
+		
+		and = {
+			culture = tecos
+			has_province_modifier = large_tecos_accepted
+		}
+		
+		and = {
+			culture = tepic
+			has_province_modifier = large_tepic_accepted
+		}
+		
+		and = {
+			culture = chichimecan
+			has_province_modifier = large_chichimecan_accepted
+		}
+		
+		and = {
+			culture = guamares
+			has_province_modifier = large_guamares_accepted
+		}
+		
+		and = {
+			culture = otomi
+			has_province_modifier = large_otomi_accepted
+		}
+		
+		and = {
+			culture = yaqui
+			has_province_modifier = large_yaqui_accepted
+		}
+		
+		and = {
+			culture = yucatec
+			has_province_modifier = large_yucatec_accepted
+		}
+		
+		and = {
+			culture = putun
+			has_province_modifier = large_putun_accepted
+		}
+		
+		and = {
+			culture = mayan
+			has_province_modifier = large_mayan_accepted
+		}
+		
+		and = {
+			culture = highland_mayan
+			has_province_modifier = large_highland_mayan_accepted
+		}
+		
+		and = {
+			culture = lacandon
+			has_province_modifier = large_lacandon_accepted
+		}
+		
+		and = {
+			culture = wastek
+			has_province_modifier = large_wastek_accepted
+		}
+		
+		and = {
+			culture = chontales
+			has_province_modifier = large_chontales_accepted
+		}
+		
+		and = {
+			culture = zapotek
+			has_province_modifier = large_zapotek_accepted
+		}
+		
+		and = {
+			culture = mixtec
+			has_province_modifier = large_mixtec_accepted
+		}
+		
+		and = {
+			culture = tlapanec
+			has_province_modifier = large_tlapanec_accepted
+		}
+		
+		and = {
+			culture = inca
+			has_province_modifier = large_inca_accepted
+		}
+		
+		and = {
+			culture = aimara
+			has_province_modifier = large_aimara_accepted
+		}
+		
+		and = {
+			culture = diaguita
+			has_province_modifier = large_diaguita_accepted
+		}
+		
+		and = {
+			culture = chimuan
+			has_province_modifier = large_chimuan_accepted
+		}
+		
+		and = {
+			culture = tupinamba
+			has_province_modifier = large_tupinamba_accepted
+		}
+		
+		and = {
+			culture = guarani
+			has_province_modifier = large_guarani_accepted
+		}
+		
+		and = {
+			culture = charruan
+			has_province_modifier = large_charruan_accepted
+		}
+		
+		and = {
+			culture = ge
+			has_province_modifier = large_ge_accepted
+		}
+		
+		and = {
+			culture = jivaro
+			has_province_modifier = large_jivaro_accepted
+		}
+		
+		and = {
+			culture = chachapoyan
+			has_province_modifier = large_chachapoyan_accepted
+		}
+		
+		and = {
+			culture = muisca
+			has_province_modifier = large_muisca_accepted
+		}
+		
+		and = {
+			culture = cara
+			has_province_modifier = large_cara_accepted
+		}
+		
+		and = {
+			culture = miskito
+			has_province_modifier = large_miskito_accepted
+		}
+		
+		and = {
+			culture = chacoan
+			has_province_modifier = large_chacoan_accepted
+		}
+		
+		and = {
+			culture = mapuche
+			has_province_modifier = large_mapuche_accepted
+		}
+		
+		and = {
+			culture = patagonian
+			has_province_modifier = large_patagonian_accepted
+		}
+		
+		and = {
+			culture = het
+			has_province_modifier = large_het_accepted
+		}
+		
+		and = {
+			culture = huarpe
+			has_province_modifier = large_huarpe_accepted
+		}
+		
+		and = {
+			culture = arawak
+			has_province_modifier = large_arawak_accepted
+		}
+		
+		and = {
+			culture = maipurean
+			has_province_modifier = large_maipurean_accepted
+		}
+		
+		and = {
+			culture = carib
+			has_province_modifier = large_carib_accepted
+		}
+		
+		and = {
+			culture = guajiro
+			has_province_modifier = large_guajiro_accepted
+		}
+		
+		and = {
+			culture = aleutian
+			has_province_modifier = large_aleutian_accepted
+		}
+		
+		and = {
+			culture = inuit
+			has_province_modifier = large_inuit_accepted
+		}
+		
+		and = {
+			culture = shawnee
+			has_province_modifier = large_shawnee_accepted
+		}
+		
+		and = {
+			culture = illini
+			has_province_modifier = large_illini_accepted
+		}
+		
+		and = {
+			culture = miami
+			has_province_modifier = large_miami_accepted
+		}
+		
+		and = {
+			culture = anishinabe
+			has_province_modifier = large_anishinabe_accepted
+		}
+		
+		and = {
+			culture = algonquin
+			has_province_modifier = large_algonquin_accepted
+		}
+		
+		and = {
+			culture = cree
+			has_province_modifier = large_cree_accepted
+		}
+		
+		and = {
+			culture = innu
+			has_province_modifier = large_innu_accepted
+		}
+		
+		and = {
+			culture = mesquakie
+			has_province_modifier = large_mesquakie_accepted
+		}
+		
+		and = {
+			culture = cheyenne
+			has_province_modifier = large_cheyenne_accepted
+		}
+		
+		and = {
+			culture = blackfoot
+			has_province_modifier = large_blackfoot_accepted
+		}
+		
+		and = {
+			culture = arapaho
+			has_province_modifier = large_arapaho_accepted
+		}
+		
+		and = {
+			culture = plains_cree
+			has_province_modifier = large_plains_cree_accepted
+		}
+		
+		and = {
+			culture = bungi
+			has_province_modifier = large_bungi_accepted
+		}
+		
+		and = {
+			culture = delaware
+			has_province_modifier = large_delaware_accepted
+		}
+		
+		and = {
+			culture = abenaki
+			has_province_modifier = large_abenaki_accepted
+		}
+		
+		and = {
+			culture = mikmaq
+			has_province_modifier = large_mikmaq_accepted
+		}
+		
+		and = {
+			culture = maliseet
+			has_province_modifier = large_maliseet_accepted
+		}
+		
+		and = {
+			culture = mahican
+			has_province_modifier = large_mahican_accepted
+		}
+		
+		and = {
+			culture = powhatan
+			has_province_modifier = large_powhatan_accepted
+		}
+		
+		and = {
+			culture = pequot
+			has_province_modifier = large_pequot_accepted
+		}
+		
+		and = {
+			culture = massachusset
+			has_province_modifier = large_massachusset_accepted
+		}
+		
+		and = {
+			culture = iroquoian
+			has_province_modifier = large_iroquoian_accepted
+		}
+		
+		and = {
+			culture = cherokee
+			has_province_modifier = large_cherokee_accepted
+		}
+		
+		and = {
+			culture = huron
+			has_province_modifier = large_huron_accepted
+		}
+		
+		and = {
+			culture = laurentian
+			has_province_modifier = large_laurentian_accepted
+		}
+		
+		and = {
+			culture = tionontate
+			has_province_modifier = large_tionontate_accepted
+		}
+		
+		and = {
+			culture = susquehannock
+			has_province_modifier = large_susquehannock_accepted
+		}
+		
+		and = {
+			culture = dakota
+			has_province_modifier = large_dakota_accepted
+		}
+		
+		and = {
+			culture = nakota
+			has_province_modifier = large_nakota_accepted
+		}
+		
+		and = {
+			culture = chiwere
+			has_province_modifier = large_chiwere_accepted
+		}
+		
+		and = {
+			culture = osage
+			has_province_modifier = large_osage_accepted
+		}
+		
+		and = {
+			culture = wichita
+			has_province_modifier = large_wichita_accepted
+		}
+		
+		and = {
+			culture = caddo
+			has_province_modifier = large_caddo_accepted
+		}
+		
+		and = {
+			culture = pawnee
+			has_province_modifier = large_pawnee_accepted
+		}
+		
+		and = {
+			culture = creek
+			has_province_modifier = large_creek_accepted
+		}
+		
+		and = {
+			culture = choctaw
+			has_province_modifier = large_choctaw_accepted
+		}
+		
+		and = {
+			culture = chickasaw
+			has_province_modifier = large_chickasaw_accepted
+		}
+		
+		and = {
+			culture = yuchi
+			has_province_modifier = large_yuchi_accepted
+		}
+		
+		and = {
+			culture = yoron
+			has_province_modifier = large_yoron_accepted
+		}
+		
+		and = {
+			culture = catawba
+			has_province_modifier = large_catawba_accepted
+		}
+		
+		and = {
+			culture = natchez
+			has_province_modifier = large_natchez_accepted
+		}
+		
+		and = {
+			culture = yamasee
+			has_province_modifier = large_yamasee_accepted
+		}
+		
+		and = {
+			culture = pueblo
+			has_province_modifier = large_pueblo_accepted
+		}
+		
+		and = {
+			culture = piman
+			has_province_modifier = large_piman_accepted
+		}
+		
+		and = {
+			culture = shoshone
+			has_province_modifier = large_shoshone_accepted
+		}
+		
+		and = {
+			culture = kiowa
+			has_province_modifier = large_kiowa_accepted
+		}
+		
+		and = {
+			culture = apache
+			has_province_modifier = large_apache_accepted
+		}
+		
+		and = {
+			culture = mescalero
+			has_province_modifier = large_mescalero_accepted
+		}
+		
+		and = {
+			culture = lipan
+			has_province_modifier = large_lipan_accepted
+		}
+		
+		and = {
+			culture = navajo
+			has_province_modifier = large_navajo_accepted
+		}
+		
+		and = {
+			culture = chipewyan
+			has_province_modifier = large_chipewyan_accepted
+		}
+		
+		and = {
+			culture = haida
+			has_province_modifier = large_haida_accepted
+		}
+		
+		and = {
+			culture = athabascan
+			has_province_modifier = large_athabascan_accepted
+		}
+		
+		and = {
+			culture = salish
+			has_province_modifier = large_salish_accepted
+		}
+		
+		and = {
+			culture = chinook
+			has_province_modifier = large_chinook_accepted
+		}
+		
+		and = {
+			culture = yokuts
+			has_province_modifier = large_yokuts_accepted
+		}
+		
+		and = {
+			culture = vietnamese_new
+			has_province_modifier = large_vietnamese_new_accepted
+		}
+		
+		and = {
+			culture = korean_new
+			has_province_modifier = large_korean_new_accepted
+		}
+		
+		and = {
+			culture = tibetan_new
+			has_province_modifier = large_tibetan_new_accepted
+		}
+		
+		and = {
+			culture = altaic_new
+			has_province_modifier = large_altaic_new_accepted
+		}
+		
+		and = {
+			culture = zhuang_new
+			has_province_modifier = large_zhuang_new_accepted
+		}
+		
+		and = {
+			culture = manchu_new
+			has_province_modifier = large_manchu_new_accepted
+		}
+		
+		and = {
+			culture = chihan
+			has_province_modifier = large_chihan_accepted
+		}
+		
+		and = {
+			culture = cantonese
+			has_province_modifier = large_cantonese_accepted
+		}
+		
+		and = {
+			culture = jin
+			has_province_modifier = large_jin_accepted
+		}
+		
+		and = {
+			culture = wu
+			has_province_modifier = large_wu_accepted
+		}
+		
+		and = {
+			culture = chimin
+			has_province_modifier = large_chimin_accepted
+		}
+		
+		and = {
+			culture = hakka
+			has_province_modifier = large_hakka_accepted
+		}
+		
+		and = {
+			culture = gan
+			has_province_modifier = large_gan_accepted
+		}
+		
+		and = {
+			culture = xiang
+			has_province_modifier = large_xiang_accepted
+		}
+		
+		and = {
+			culture = sichuanese
+			has_province_modifier = large_sichuanese_accepted
+		}
+		
+		and = {
+			culture = jianghuai
+			has_province_modifier = large_jianghuai_accepted
+		}
+		
+		and = {
+			culture = xibei
+			has_province_modifier = large_xibei_accepted
+		}
+		
+		and = {
+			culture = hubei
+			has_province_modifier = large_hubei_accepted
+		}
+		
+		and = {
+			culture = zhongyuan
+			has_province_modifier = large_zhongyuan_accepted
+		}
+		
+		and = {
+			culture = shandong_culture
+			has_province_modifier = large_shandong_culture_accepted
+		}
+		
+		and = {
+			culture = korean
+			has_province_modifier = large_korean_accepted
+		}
+		
+		and = {
+			culture = togoku
+			has_province_modifier = large_togoku_accepted
+		}
+		
+		and = {
+			culture = japanese
+			has_province_modifier = large_japanese_accepted
+		}
+		
+		and = {
+			culture = kyushuan
+			has_province_modifier = large_kyushuan_accepted
+		}
+		
+		and = {
+			culture = tibetan
+			has_province_modifier = large_tibetan_accepted
+		}
+		
+		and = {
+			culture = yi
+			has_province_modifier = large_yi_accepted
+		}
+		
+		and = {
+			culture = bai
+			has_province_modifier = large_bai_accepted
+		}
+		
+		and = {
+			culture = miao
+			has_province_modifier = large_miao_accepted
+		}
+		
+		and = {
+			culture = malayan
+			has_province_modifier = large_malayan_accepted
+		}
+		
+		and = {
+			culture = sumatran
+			has_province_modifier = large_sumatran_accepted
+		}
+		
+		and = {
+			culture = acehnese
+			has_province_modifier = large_acehnese_accepted
+		}
+		
+		and = {
+			culture = javanese
+			has_province_modifier = large_javanese_accepted
+		}
+		
+		and = {
+			culture = sundanese
+			has_province_modifier = large_sundanese_accepted
+		}
+		
+		and = {
+			culture = filipino
+			has_province_modifier = large_filipino_accepted
+		}
+		
+		and = {
+			culture = bornean
+			has_province_modifier = large_bornean_accepted
+		}
+		
+		and = {
+			culture = madagascan
+			has_province_modifier = large_madagascan_accepted
+		}
+		
+		and = {
+			culture = sulawesi
+			has_province_modifier = large_sulawesi_accepted
+		}
+		
+		and = {
+			culture = moluccan
+			has_province_modifier = large_moluccan_accepted
+		}
+		
+		and = {
+			culture = nusa_tenggara
+			has_province_modifier = large_nusa_tenggara_accepted
+		}
+		
+		and = {
+			culture = cham
+			has_province_modifier = large_cham_accepted
+		}
+		
+		and = {
+			culture = central_thai
+			has_province_modifier = large_central_thai_accepted
+		}
+		
+		and = {
+			culture = northern_thai
+			has_province_modifier = large_northern_thai_accepted
+		}
+		
+		and = {
+			culture = lao
+			has_province_modifier = large_lao_accepted
+		}
+		
+		and = {
+			culture = shan
+			has_province_modifier = large_shan_accepted
+		}
+		
+		and = {
+			culture = zhuang
+			has_province_modifier = large_zhuang_accepted
+		}
+		
+		and = {
+			culture = khmer
+			has_province_modifier = large_khmer_accepted
+		}
+		
+		and = {
+			culture = mon
+			has_province_modifier = large_mon_accepted
+		}
+		
+		and = {
+			culture = vietnamese
+			has_province_modifier = large_vietnamese_accepted
+		}
+		
+		and = {
+			culture = burmese
+			has_province_modifier = large_burmese_accepted
+		}
+		
+		and = {
+			culture = chin
+			has_province_modifier = large_chin_accepted
+		}
+		
+		and = {
+			culture = karen
+			has_province_modifier = large_karen_accepted
+		}
+		
+		and = {
+			culture = kachin
+			has_province_modifier = large_kachin_accepted
+		}
+		
+		and = {
+			culture = arakanese
+			has_province_modifier = large_arakanese_accepted
+		}
+		
+		and = {
+			culture = papuan
+			has_province_modifier = large_papuan_accepted
+		}
+		
+		and = {
+			culture = maori
+			has_province_modifier = large_maori_accepted
+		}
+		
+		and = {
+			culture = melanesian
+			has_province_modifier = large_melanesian_accepted
+		}
+		
+		and = {
+			culture = polynesian
+			has_province_modifier = large_polynesian_accepted
+		}
+		
+		and = {
+			culture = aboriginal
+			has_province_modifier = large_aboriginal_accepted
+		}
+		
+		and = {
+			culture = yura
+			has_province_modifier = large_yura_accepted
+		}
+		
+		and = {
+			culture = paman
+			has_province_modifier = large_paman_accepted
+		}
+		
+		and = {
+			culture = gunwinyguan
+			has_province_modifier = large_gunwinyguan_accepted
+		}
+		
+		and = {
+			culture = palawa
+			has_province_modifier = large_palawa_accepted
+		}
+		
+		and = {
+			culture = kulin
+			has_province_modifier = large_kulin_accepted
+		}
+		
+		and = {
+			culture = gamilaraay
+			has_province_modifier = large_gamilaraay_accepted
+		}
+		
+		and = {
+			culture = nyoongah
+			has_province_modifier = large_nyoongah_accepted
+		}
+		
+		and = {
+			culture = assamese
+			has_province_modifier = large_assamese_accepted
+		}
+		
+		and = {
+			culture = bengali
+			has_province_modifier = large_bengali_accepted
+		}
+		
+		and = {
+			culture = kochi
+			has_province_modifier = large_kochi_accepted
+		}
+		
+		and = {
+			culture = bihari
+			has_province_modifier = large_bihari_accepted
+		}
+		
+		and = {
+			culture = pahari
+			has_province_modifier = large_pahari_accepted
+		}
+		
+		and = {
+			culture = nepali
+			has_province_modifier = large_nepali_accepted
+		}
+		
+		and = {
+			culture = oriya
+			has_province_modifier = large_oriya_accepted
+		}
+		
+		and = {
+			culture = sinhala
+			has_province_modifier = large_sinhala_accepted
+		}
+		
+		and = {
+			culture = avadhi
+			has_province_modifier = large_avadhi_accepted
+		}
+		
+		and = {
+			culture = kanauji
+			has_province_modifier = large_kanauji_accepted
+		}
+		
+		and = {
+			culture = vindhyan
+			has_province_modifier = large_vindhyan_accepted
+		}
+		
+		and = {
+			culture = panjabi
+			has_province_modifier = large_panjabi_accepted
+		}
+		
+		and = {
+			culture = kashmiri
+			has_province_modifier = large_kashmiri_accepted
+		}
+		
+		and = {
+			culture = gujarati
+			has_province_modifier = large_gujarati_accepted
+		}
+		
+		and = {
+			culture = parsi
+			has_province_modifier = large_parsi_accepted
+		}
+		
+		and = {
+			culture = saurashtri
+			has_province_modifier = large_saurashtri_accepted
+		}
+		
+		and = {
+			culture = marathi
+			has_province_modifier = large_marathi_accepted
+		}
+		
+		and = {
+			culture = sindhi
+			has_province_modifier = large_sindhi_accepted
+		}
+		
+		and = {
+			culture = rajput
+			has_province_modifier = large_rajput_accepted
+		}
+		
+		and = {
+			culture = malvi
+			has_province_modifier = large_malvi_accepted
+		}
+		
+		and = {
+			culture = kannada
+			has_province_modifier = large_kannada_accepted
+		}
+		
+		and = {
+			culture = malayalam
+			has_province_modifier = large_malayalam_accepted
+		}
+		
+		and = {
+			culture = tamil
+			has_province_modifier = large_tamil_accepted
+		}
+		
+		and = {
+			culture = telegu
+			has_province_modifier = large_telegu_accepted
+		}
+		
+		and = {
+			culture = gondi
+			has_province_modifier = large_gondi_accepted
+		}
+		
+		and = {
+			culture = garjati
+			has_province_modifier = large_garjati_accepted
+		}
+		
+		and = {
+			culture = jharkhandi
+			has_province_modifier = large_jharkhandi_accepted
+		}
+		
+		and = {
+			culture = mali
+			has_province_modifier = large_mali_accepted
+		}
+		
+		and = {
+			culture = songhai
+			has_province_modifier = large_songhai_accepted
+		}
+		
+		and = {
+			culture = soninke
+			has_province_modifier = large_soninke_accepted
+		}
+		
+		and = {
+			culture = bambara
+			has_province_modifier = large_bambara_accepted
+		}
+		
+		and = {
+			culture = bozo
+			has_province_modifier = large_bozo_accepted
+		}
+		
+		and = {
+			culture = dyola
+			has_province_modifier = large_dyola_accepted
+		}
+		
+		and = {
+			culture = hausa
+			has_province_modifier = large_hausa_accepted
+		}
+		
+		and = {
+			culture = kanuri
+			has_province_modifier = large_kanuri_accepted
+		}
+		
+		and = {
+			culture = bilala
+			has_province_modifier = large_bilala_accepted
+		}
+		
+		and = {
+			culture = tunjur
+			has_province_modifier = large_tunjur_accepted
+		}
+		
+		and = {
+			culture = tuareg
+			has_province_modifier = large_tuareg_accepted
+		}
+		
+		and = {
+			culture = senegambian
+			has_province_modifier = large_senegambian_accepted
+		}
+		
+		and = {
+			culture = fulani
+			has_province_modifier = large_fulani_accepted
+		}
+		
+		and = {
+			culture = yorumba
+			has_province_modifier = large_yorumba_accepted
+		}
+		
+		and = {
+			culture = aka
+			has_province_modifier = large_aka_accepted
+		}
+		
+		and = {
+			culture = nupe
+			has_province_modifier = large_nupe_accepted
+		}
+		
+		and = {
+			culture = fon
+			has_province_modifier = large_fon_accepted
+		}
+		
+		and = {
+			culture = mossi
+			has_province_modifier = large_mossi_accepted
+		}
+		
+		and = {
+			culture = dagomba
+			has_province_modifier = large_dagomba_accepted
+		}
+		
+		and = {
+			culture = makua
+			has_province_modifier = large_makua_accepted
+		}
+		
+		and = {
+			culture = nguni
+			has_province_modifier = large_nguni_accepted
+		}
+		
+		and = {
+			culture = bemba
+			has_province_modifier = large_bemba_accepted
+		}
+		
+		and = {
+			culture = khoisan
+			has_province_modifier = large_khoisan_accepted
+		}
+		
+		and = {
+			culture = shona
+			has_province_modifier = large_shona_accepted
+		}
+		
+		and = {
+			culture = nyasa
+			has_province_modifier = large_nyasa_accepted
+		}
+		
+		and = {
+			culture = lunda
+			has_province_modifier = large_lunda_accepted
+		}
+		
+		and = {
+			culture = luba
+			has_province_modifier = large_luba_accepted
+		}
+		
+		and = {
+			culture = kongolese
+			has_province_modifier = large_kongolese_accepted
+		}
+		
+		and = {
+			culture = yaka
+			has_province_modifier = large_yaka_accepted
+		}
+		
+		and = {
+			culture = kuba
+			has_province_modifier = large_kuba_accepted
+		}
+		
+		and = {
+			culture = mbundu
+			has_province_modifier = large_mbundu_accepted
+		}
+		
+		and = {
+			culture = chokwe
+			has_province_modifier = large_chokwe_accepted
+		}
+		
+		and = {
+			culture = mbangala
+			has_province_modifier = large_mbangala_accepted
+		}
+		
+		and = {
+			culture = jukun
+			has_province_modifier = large_jukun_accepted
+		}
+		
+		and = {
+			culture = sawabantu
+			has_province_modifier = large_sawabantu_accepted
+		}
+		
+		and = {
+			culture = rwandan
+			has_province_modifier = large_rwandan_accepted
+		}
+		
+		and = {
+			culture = ganda
+			has_province_modifier = large_ganda_accepted
+		}
+		
+		and = {
+			culture = masaba
+			has_province_modifier = large_masaba_accepted
+		}
+		
+		and = {
+			culture = madagasue
+			has_province_modifier = large_madagasue_accepted
+		}
+		
+		and = {
+			culture = takama
+			has_province_modifier = large_takama_accepted
+		}
+		
+		and = {
+			culture = bena
+			has_province_modifier = large_bena_accepted
+		}
+		
+		and = {
+			culture = bantu
+			has_province_modifier = large_bantu_accepted
+		}
+		
+		and = {
+			culture = swahili
+			has_province_modifier = large_swahili_accepted
+		}
+		
+		and = {
+			culture = somali
+			has_province_modifier = large_somali_accepted
+		}
+		
+		and = {
+			culture = harari
+			has_province_modifier = large_harari_accepted
+		}
+		
+		and = {
+			culture = afar
+			has_province_modifier = large_afar_accepted
+		}
+		
+		and = {
+			culture = oromo
+			has_province_modifier = large_oromo_accepted
+		}
+		
+		and = {
+			culture = tigray
+			has_province_modifier = large_tigray_accepted
+		}
+		
+		and = {
+			culture = sidamo
+			has_province_modifier = large_sidamo_accepted
+		}
+		
+		and = {
+			culture = amhara
+			has_province_modifier = large_amhara_accepted
+		}
+		
+		and = {
+			culture = acholi
+			has_province_modifier = large_acholi_accepted
+		}
+		
+		and = {
+			culture = nubian
+			has_province_modifier = large_nubian_accepted
+		}
+		
+		and = {
+			culture = beja
+			has_province_modifier = large_beja_accepted
+		}
+		
+		and = {
+			culture = evenk
+			has_province_modifier = large_evenk_accepted
+		}
+		
+		and = {
+			culture = yakut
+			has_province_modifier = large_yakut_accepted
+		}
+		
+		and = {
+			culture = yukagyr
+			has_province_modifier = large_yukagyr_accepted
+		}
+		
+		and = {
+			culture = buryat
+			has_province_modifier = large_buryat_accepted
+		}
+		
+		and = {
+			culture = tungus
+			has_province_modifier = large_tungus_accepted
+		}
+		
+		and = {
+			culture = manchu
+			has_province_modifier = large_manchu_accepted
+		}
+		
+		and = {
+			culture = ainu
+			has_province_modifier = large_ainu_accepted
+		}
+		
+		and = {
+			culture = kamchatkan
+			has_province_modifier = large_kamchatkan_accepted
+		}
+		
+		and = {
+			culture = nivkh
+			has_province_modifier = large_nivkh_accepted
+		}
+		
+		and = {
+			culture = astrakhani
+			has_province_modifier = large_astrakhani_accepted
+		}
+		
+		and = {
+			culture = bashkir
+			has_province_modifier = large_bashkir_accepted
+		}
+		
+		and = {
+			culture = crimean
+			has_province_modifier = large_crimean_accepted
+		}
+		
+		and = {
+			culture = kazani
+			has_province_modifier = large_kazani_accepted
+		}
+		
+		and = {
+			culture = mishary
+			has_province_modifier = large_mishary_accepted
+		}
+		
+		and = {
+			culture = nogaybak
+			has_province_modifier = large_nogaybak_accepted
+		}
+		
+		and = {
+			culture = siberian
+			has_province_modifier = large_siberian_accepted
+		}
+		
+		and = {
+			culture = atlantean
+			has_province_modifier = large_atlantean_accepted
+		}
+		
+		and = {
+			culture = spartan
+			has_province_modifier = large_spartan_accepted
+		}
+		
+		and = {
+			culture = athenian
+			has_province_modifier = large_athenian_accepted
+		}
+		
+		and = {
+			culture = old_egyptian
+			has_province_modifier = large_old_egyptian_accepted
+		}
+		
+		and = {
+			culture = roman
+			has_province_modifier = large_roman_accepted
+		}
+		
+		and = {
+			culture = jan_mayenese
+			has_province_modifier = large_jan_mayenese_accepted
+		}
+		
+		and = {
+			culture = pruthenian
+			has_province_modifier = large_pruthenian_accepted
+		}
+		
+		and = {
+			culture = phoenician
+			has_province_modifier = large_phoenician_accepted
+		}
+		
+		and = {
+			culture = scanian
+			has_province_modifier = large_scanian_accepted
+		}
+		
+		and = {
+			culture = anglosaxon
+			has_province_modifier = large_anglosaxon_accepted
+		}
+		
+		and = {
+			culture = babylonian
+			has_province_modifier = large_babylonian_accepted
+		}
+		
+		and = {
+			culture = etrurian
+			has_province_modifier = large_etrurian_accepted
+		}
+		
+		and = {
+			culture = parthian
+			has_province_modifier = large_parthian_accepted
+		}
+		
+		and = {
+			culture = aramaic
+			has_province_modifier = large_aramaic_accepted
+		}
+		
+		and = {
+			culture = hebrew
+			has_province_modifier = large_hebrew_accepted
+		}
+		
+		and = {
+			culture = scythian
+			has_province_modifier = large_scythian_accepted
+		}
+		
+		and = {
+			culture = livonian
+			has_province_modifier = large_livonian_accepted
+		}
+		
+}

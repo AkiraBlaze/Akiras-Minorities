@@ -1,0 +1,184 @@
+#cheyenne
+small_cheyenne_primary = {
+	#small_primary
+}
+
+large_cheyenne_primary = {
+	#large_primary
+}
+
+majority_cheyenne_primary = {
+	#majority_primary
+}
+
+small_cheyenne_accepted = {
+	#small_accepted
+}
+
+large_cheyenne_accepted = {
+	#large_accepted
+}
+
+majority_cheyenne_accepted = {
+	#majority_accepted
+}
+
+small_cheyenne_unaccepted = {
+	#small_unaccepted
+}
+
+large_cheyenne_unaccepted = {
+	#large_unaccepted
+}
+
+majority_cheyenne_unaccepted = {
+	#majority_unaccepted
+}
+
+#blackfoot
+small_blackfoot_primary = {
+	#small_primary
+}
+
+large_blackfoot_primary = {
+	#large_primary
+}
+
+majority_blackfoot_primary = {
+	#majority_primary
+}
+
+small_blackfoot_accepted = {
+	#small_accepted
+}
+
+large_blackfoot_accepted = {
+	#large_accepted
+}
+
+majority_blackfoot_accepted = {
+	#majority_accepted
+}
+
+small_blackfoot_unaccepted = {
+	#small_unaccepted
+}
+
+large_blackfoot_unaccepted = {
+	#large_unaccepted
+}
+
+majority_blackfoot_unaccepted = {
+	#majority_unaccepted
+}
+
+#arapaho
+small_arapaho_primary = {
+	#small_primary
+}
+
+large_arapaho_primary = {
+	#large_primary
+}
+
+majority_arapaho_primary = {
+	#majority_primary
+}
+
+small_arapaho_accepted = {
+	#small_accepted
+}
+
+large_arapaho_accepted = {
+	#large_accepted
+}
+
+majority_arapaho_accepted = {
+	#majority_accepted
+}
+
+small_arapaho_unaccepted = {
+	#small_unaccepted
+}
+
+large_arapaho_unaccepted = {
+	#large_unaccepted
+}
+
+majority_arapaho_unaccepted = {
+	#majority_unaccepted
+}
+
+#plains_cree
+small_plains_cree_primary = {
+	#small_primary
+}
+
+large_plains_cree_primary = {
+	#large_primary
+}
+
+majority_plains_cree_primary = {
+	#majority_primary
+}
+
+small_plains_cree_accepted = {
+	#small_accepted
+}
+
+large_plains_cree_accepted = {
+	#large_accepted
+}
+
+majority_plains_cree_accepted = {
+	#majority_accepted
+}
+
+small_plains_cree_unaccepted = {
+	#small_unaccepted
+}
+
+large_plains_cree_unaccepted = {
+	#large_unaccepted
+}
+
+majority_plains_cree_unaccepted = {
+	#majority_unaccepted
+}
+
+#bungi
+small_bungi_primary = {
+	#small_primary
+}
+
+large_bungi_primary = {
+	#large_primary
+}
+
+majority_bungi_primary = {
+	#majority_primary
+}
+
+small_bungi_accepted = {
+	#small_accepted
+}
+
+large_bungi_accepted = {
+	#large_accepted
+}
+
+majority_bungi_accepted = {
+	#majority_accepted
+}
+
+small_bungi_unaccepted = {
+	#small_unaccepted
+}
+
+large_bungi_unaccepted = {
+	#large_unaccepted
+}
+
+majority_bungi_unaccepted = {
+	#majority_unaccepted
+}

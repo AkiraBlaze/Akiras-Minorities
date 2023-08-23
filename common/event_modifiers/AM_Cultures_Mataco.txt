@@ -1,0 +1,36 @@
+#chacoan
+small_chacoan_primary = {
+	#small_primary
+}
+
+large_chacoan_primary = {
+	#large_primary
+}
+
+majority_chacoan_primary = {
+	#majority_primary
+}
+
+small_chacoan_accepted = {
+	#small_accepted
+}
+
+large_chacoan_accepted = {
+	#large_accepted
+}
+
+majority_chacoan_accepted = {
+	#majority_accepted
+}
+
+small_chacoan_unaccepted = {
+	#small_unaccepted
+}
+
+large_chacoan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_chacoan_unaccepted = {
+	#majority_unaccepted
+}

@@ -1,0 +1,295 @@
+#assamese
+small_assamese_primary = {
+	#small_primary
+}
+
+large_assamese_primary = {
+	#large_primary
+}
+
+majority_assamese_primary = {
+	#majority_primary
+}
+
+small_assamese_accepted = {
+	#small_accepted
+}
+
+large_assamese_accepted = {
+	#large_accepted
+}
+
+majority_assamese_accepted = {
+	#majority_accepted
+}
+
+small_assamese_unaccepted = {
+	#small_unaccepted
+}
+
+large_assamese_unaccepted = {
+	#large_unaccepted
+}
+
+majority_assamese_unaccepted = {
+	#majority_unaccepted
+}
+
+#bengali
+small_bengali_primary = {
+	#small_primary
+}
+
+large_bengali_primary = {
+	#large_primary
+}
+
+majority_bengali_primary = {
+	#majority_primary
+}
+
+small_bengali_accepted = {
+	#small_accepted
+}
+
+large_bengali_accepted = {
+	#large_accepted
+}
+
+majority_bengali_accepted = {
+	#majority_accepted
+}
+
+small_bengali_unaccepted = {
+	#small_unaccepted
+}
+
+large_bengali_unaccepted = {
+	#large_unaccepted
+}
+
+majority_bengali_unaccepted = {
+	#majority_unaccepted
+}
+
+#kochi
+small_kochi_primary = {
+	#small_primary
+}
+
+large_kochi_primary = {
+	#large_primary
+}
+
+majority_kochi_primary = {
+	#majority_primary
+}
+
+small_kochi_accepted = {
+	#small_accepted
+}
+
+large_kochi_accepted = {
+	#large_accepted
+}
+
+majority_kochi_accepted = {
+	#majority_accepted
+}
+
+small_kochi_unaccepted = {
+	#small_unaccepted
+}
+
+large_kochi_unaccepted = {
+	#large_unaccepted
+}
+
+majority_kochi_unaccepted = {
+	#majority_unaccepted
+}
+
+#bihari
+small_bihari_primary = {
+	#small_primary
+}
+
+large_bihari_primary = {
+	#large_primary
+}
+
+majority_bihari_primary = {
+	#majority_primary
+}
+
+small_bihari_accepted = {
+	#small_accepted
+}
+
+large_bihari_accepted = {
+	#large_accepted
+}
+
+majority_bihari_accepted = {
+	#majority_accepted
+}
+
+small_bihari_unaccepted = {
+	#small_unaccepted
+}
+
+large_bihari_unaccepted = {
+	#large_unaccepted
+}
+
+majority_bihari_unaccepted = {
+	#majority_unaccepted
+}
+
+#pahari
+small_pahari_primary = {
+	#small_primary
+}
+
+large_pahari_primary = {
+	#large_primary
+}
+
+majority_pahari_primary = {
+	#majority_primary
+}
+
+small_pahari_accepted = {
+	#small_accepted
+}
+
+large_pahari_accepted = {
+	#large_accepted
+}
+
+majority_pahari_accepted = {
+	#majority_accepted
+}
+
+small_pahari_unaccepted = {
+	#small_unaccepted
+}
+
+large_pahari_unaccepted = {
+	#large_unaccepted
+}
+
+majority_pahari_unaccepted = {
+	#majority_unaccepted
+}
+
+#nepali
+small_nepali_primary = {
+	#small_primary
+}
+
+large_nepali_primary = {
+	#large_primary
+}
+
+majority_nepali_primary = {
+	#majority_primary
+}
+
+small_nepali_accepted = {
+	#small_accepted
+}
+
+large_nepali_accepted = {
+	#large_accepted
+}
+
+majority_nepali_accepted = {
+	#majority_accepted
+}
+
+small_nepali_unaccepted = {
+	#small_unaccepted
+}
+
+large_nepali_unaccepted = {
+	#large_unaccepted
+}
+
+majority_nepali_unaccepted = {
+	#majority_unaccepted
+}
+
+#oriya
+small_oriya_primary = {
+	#small_primary
+}
+
+large_oriya_primary = {
+	#large_primary
+}
+
+majority_oriya_primary = {
+	#majority_primary
+}
+
+small_oriya_accepted = {
+	#small_accepted
+}
+
+large_oriya_accepted = {
+	#large_accepted
+}
+
+majority_oriya_accepted = {
+	#majority_accepted
+}
+
+small_oriya_unaccepted = {
+	#small_unaccepted
+}
+
+large_oriya_unaccepted = {
+	#large_unaccepted
+}
+
+majority_oriya_unaccepted = {
+	#majority_unaccepted
+}
+
+#sinhala
+small_sinhala_primary = {
+	#small_primary
+}
+
+large_sinhala_primary = {
+	#large_primary
+}
+
+majority_sinhala_primary = {
+	#majority_primary
+}
+
+small_sinhala_accepted = {
+	#small_accepted
+}
+
+large_sinhala_accepted = {
+	#large_accepted
+}
+
+majority_sinhala_accepted = {
+	#majority_accepted
+}
+
+small_sinhala_unaccepted = {
+	#small_unaccepted
+}
+
+large_sinhala_unaccepted = {
+	#large_unaccepted
+}
+
+majority_sinhala_unaccepted = {
+	#majority_unaccepted
+}

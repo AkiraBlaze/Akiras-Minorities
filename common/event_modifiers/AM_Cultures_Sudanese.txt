@@ -1,0 +1,110 @@
+#acholi
+small_acholi_primary = {
+	#small_primary
+}
+
+large_acholi_primary = {
+	#large_primary
+}
+
+majority_acholi_primary = {
+	#majority_primary
+}
+
+small_acholi_accepted = {
+	#small_accepted
+}
+
+large_acholi_accepted = {
+	#large_accepted
+}
+
+majority_acholi_accepted = {
+	#majority_accepted
+}
+
+small_acholi_unaccepted = {
+	#small_unaccepted
+}
+
+large_acholi_unaccepted = {
+	#large_unaccepted
+}
+
+majority_acholi_unaccepted = {
+	#majority_unaccepted
+}
+
+#nubian
+small_nubian_primary = {
+	#small_primary
+}
+
+large_nubian_primary = {
+	#large_primary
+}
+
+majority_nubian_primary = {
+	#majority_primary
+}
+
+small_nubian_accepted = {
+	#small_accepted
+}
+
+large_nubian_accepted = {
+	#large_accepted
+}
+
+majority_nubian_accepted = {
+	#majority_accepted
+}
+
+small_nubian_unaccepted = {
+	#small_unaccepted
+}
+
+large_nubian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_nubian_unaccepted = {
+	#majority_unaccepted
+}
+
+#beja
+small_beja_primary = {
+	#small_primary
+}
+
+large_beja_primary = {
+	#large_primary
+}
+
+majority_beja_primary = {
+	#majority_primary
+}
+
+small_beja_accepted = {
+	#small_accepted
+}
+
+large_beja_accepted = {
+	#large_accepted
+}
+
+majority_beja_accepted = {
+	#majority_accepted
+}
+
+small_beja_unaccepted = {
+	#small_unaccepted
+}
+
+large_beja_unaccepted = {
+	#large_unaccepted
+}
+
+majority_beja_unaccepted = {
+	#majority_unaccepted
+}

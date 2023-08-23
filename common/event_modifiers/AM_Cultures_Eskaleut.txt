@@ -1,0 +1,73 @@
+#aleutian
+small_aleutian_primary = {
+	#small_primary
+}
+
+large_aleutian_primary = {
+	#large_primary
+}
+
+majority_aleutian_primary = {
+	#majority_primary
+}
+
+small_aleutian_accepted = {
+	#small_accepted
+}
+
+large_aleutian_accepted = {
+	#large_accepted
+}
+
+majority_aleutian_accepted = {
+	#majority_accepted
+}
+
+small_aleutian_unaccepted = {
+	#small_unaccepted
+}
+
+large_aleutian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_aleutian_unaccepted = {
+	#majority_unaccepted
+}
+
+#inuit
+small_inuit_primary = {
+	#small_primary
+}
+
+large_inuit_primary = {
+	#large_primary
+}
+
+majority_inuit_primary = {
+	#majority_primary
+}
+
+small_inuit_accepted = {
+	#small_accepted
+}
+
+large_inuit_accepted = {
+	#large_accepted
+}
+
+majority_inuit_accepted = {
+	#majority_accepted
+}
+
+small_inuit_unaccepted = {
+	#small_unaccepted
+}
+
+large_inuit_unaccepted = {
+	#large_unaccepted
+}
+
+majority_inuit_unaccepted = {
+	#majority_unaccepted
+}

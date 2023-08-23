@@ -1,0 +1,184 @@
+#avadhi
+small_avadhi_primary = {
+	#small_primary
+}
+
+large_avadhi_primary = {
+	#large_primary
+}
+
+majority_avadhi_primary = {
+	#majority_primary
+}
+
+small_avadhi_accepted = {
+	#small_accepted
+}
+
+large_avadhi_accepted = {
+	#large_accepted
+}
+
+majority_avadhi_accepted = {
+	#majority_accepted
+}
+
+small_avadhi_unaccepted = {
+	#small_unaccepted
+}
+
+large_avadhi_unaccepted = {
+	#large_unaccepted
+}
+
+majority_avadhi_unaccepted = {
+	#majority_unaccepted
+}
+
+#kanauji
+small_kanauji_primary = {
+	#small_primary
+}
+
+large_kanauji_primary = {
+	#large_primary
+}
+
+majority_kanauji_primary = {
+	#majority_primary
+}
+
+small_kanauji_accepted = {
+	#small_accepted
+}
+
+large_kanauji_accepted = {
+	#large_accepted
+}
+
+majority_kanauji_accepted = {
+	#majority_accepted
+}
+
+small_kanauji_unaccepted = {
+	#small_unaccepted
+}
+
+large_kanauji_unaccepted = {
+	#large_unaccepted
+}
+
+majority_kanauji_unaccepted = {
+	#majority_unaccepted
+}
+
+#vindhyan
+small_vindhyan_primary = {
+	#small_primary
+}
+
+large_vindhyan_primary = {
+	#large_primary
+}
+
+majority_vindhyan_primary = {
+	#majority_primary
+}
+
+small_vindhyan_accepted = {
+	#small_accepted
+}
+
+large_vindhyan_accepted = {
+	#large_accepted
+}
+
+majority_vindhyan_accepted = {
+	#majority_accepted
+}
+
+small_vindhyan_unaccepted = {
+	#small_unaccepted
+}
+
+large_vindhyan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_vindhyan_unaccepted = {
+	#majority_unaccepted
+}
+
+#panjabi
+small_panjabi_primary = {
+	#small_primary
+}
+
+large_panjabi_primary = {
+	#large_primary
+}
+
+majority_panjabi_primary = {
+	#majority_primary
+}
+
+small_panjabi_accepted = {
+	#small_accepted
+}
+
+large_panjabi_accepted = {
+	#large_accepted
+}
+
+majority_panjabi_accepted = {
+	#majority_accepted
+}
+
+small_panjabi_unaccepted = {
+	#small_unaccepted
+}
+
+large_panjabi_unaccepted = {
+	#large_unaccepted
+}
+
+majority_panjabi_unaccepted = {
+	#majority_unaccepted
+}
+
+#kashmiri
+small_kashmiri_primary = {
+	#small_primary
+}
+
+large_kashmiri_primary = {
+	#large_primary
+}
+
+majority_kashmiri_primary = {
+	#majority_primary
+}
+
+small_kashmiri_accepted = {
+	#small_accepted
+}
+
+large_kashmiri_accepted = {
+	#large_accepted
+}
+
+majority_kashmiri_accepted = {
+	#majority_accepted
+}
+
+small_kashmiri_unaccepted = {
+	#small_unaccepted
+}
+
+large_kashmiri_unaccepted = {
+	#large_unaccepted
+}
+
+majority_kashmiri_unaccepted = {
+	#majority_unaccepted
+}

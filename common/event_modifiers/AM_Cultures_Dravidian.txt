@@ -1,0 +1,147 @@
+#kannada
+small_kannada_primary = {
+	#small_primary
+}
+
+large_kannada_primary = {
+	#large_primary
+}
+
+majority_kannada_primary = {
+	#majority_primary
+}
+
+small_kannada_accepted = {
+	#small_accepted
+}
+
+large_kannada_accepted = {
+	#large_accepted
+}
+
+majority_kannada_accepted = {
+	#majority_accepted
+}
+
+small_kannada_unaccepted = {
+	#small_unaccepted
+}
+
+large_kannada_unaccepted = {
+	#large_unaccepted
+}
+
+majority_kannada_unaccepted = {
+	#majority_unaccepted
+}
+
+#malayalam
+small_malayalam_primary = {
+	#small_primary
+}
+
+large_malayalam_primary = {
+	#large_primary
+}
+
+majority_malayalam_primary = {
+	#majority_primary
+}
+
+small_malayalam_accepted = {
+	#small_accepted
+}
+
+large_malayalam_accepted = {
+	#large_accepted
+}
+
+majority_malayalam_accepted = {
+	#majority_accepted
+}
+
+small_malayalam_unaccepted = {
+	#small_unaccepted
+}
+
+large_malayalam_unaccepted = {
+	#large_unaccepted
+}
+
+majority_malayalam_unaccepted = {
+	#majority_unaccepted
+}
+
+#tamil
+small_tamil_primary = {
+	#small_primary
+}
+
+large_tamil_primary = {
+	#large_primary
+}
+
+majority_tamil_primary = {
+	#majority_primary
+}
+
+small_tamil_accepted = {
+	#small_accepted
+}
+
+large_tamil_accepted = {
+	#large_accepted
+}
+
+majority_tamil_accepted = {
+	#majority_accepted
+}
+
+small_tamil_unaccepted = {
+	#small_unaccepted
+}
+
+large_tamil_unaccepted = {
+	#large_unaccepted
+}
+
+majority_tamil_unaccepted = {
+	#majority_unaccepted
+}
+
+#telegu
+small_telegu_primary = {
+	#small_primary
+}
+
+large_telegu_primary = {
+	#large_primary
+}
+
+majority_telegu_primary = {
+	#majority_primary
+}
+
+small_telegu_accepted = {
+	#small_accepted
+}
+
+large_telegu_accepted = {
+	#large_accepted
+}
+
+majority_telegu_accepted = {
+	#majority_accepted
+}
+
+small_telegu_unaccepted = {
+	#small_unaccepted
+}
+
+large_telegu_unaccepted = {
+	#large_unaccepted
+}
+
+majority_telegu_unaccepted = {
+	#majority_unaccepted
+}

@@ -1,0 +1,110 @@
+#ainu
+small_ainu_primary = {
+	#small_primary
+}
+
+large_ainu_primary = {
+	#large_primary
+}
+
+majority_ainu_primary = {
+	#majority_primary
+}
+
+small_ainu_accepted = {
+	#small_accepted
+}
+
+large_ainu_accepted = {
+	#large_accepted
+}
+
+majority_ainu_accepted = {
+	#majority_accepted
+}
+
+small_ainu_unaccepted = {
+	#small_unaccepted
+}
+
+large_ainu_unaccepted = {
+	#large_unaccepted
+}
+
+majority_ainu_unaccepted = {
+	#majority_unaccepted
+}
+
+#kamchatkan
+small_kamchatkan_primary = {
+	#small_primary
+}
+
+large_kamchatkan_primary = {
+	#large_primary
+}
+
+majority_kamchatkan_primary = {
+	#majority_primary
+}
+
+small_kamchatkan_accepted = {
+	#small_accepted
+}
+
+large_kamchatkan_accepted = {
+	#large_accepted
+}
+
+majority_kamchatkan_accepted = {
+	#majority_accepted
+}
+
+small_kamchatkan_unaccepted = {
+	#small_unaccepted
+}
+
+large_kamchatkan_unaccepted = {
+	#large_unaccepted
+}
+
+majority_kamchatkan_unaccepted = {
+	#majority_unaccepted
+}
+
+#nivkh
+small_nivkh_primary = {
+	#small_primary
+}
+
+large_nivkh_primary = {
+	#large_primary
+}
+
+majority_nivkh_primary = {
+	#majority_primary
+}
+
+small_nivkh_accepted = {
+	#small_accepted
+}
+
+large_nivkh_accepted = {
+	#large_accepted
+}
+
+majority_nivkh_accepted = {
+	#majority_accepted
+}
+
+small_nivkh_unaccepted = {
+	#small_unaccepted
+}
+
+large_nivkh_unaccepted = {
+	#large_unaccepted
+}
+
+majority_nivkh_unaccepted = {
+	#majority_unaccepted
+}

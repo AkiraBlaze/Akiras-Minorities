@@ -1,0 +1,369 @@
+#turkish
+small_turkish_primary = {
+	#small_primary
+}
+
+large_turkish_primary = {
+	#large_primary
+}
+
+majority_turkish_primary = {
+	#majority_primary
+}
+
+small_turkish_accepted = {
+	#small_accepted
+}
+
+large_turkish_accepted = {
+	#large_accepted
+}
+
+majority_turkish_accepted = {
+	#majority_accepted
+}
+
+small_turkish_unaccepted = {
+	#small_unaccepted
+}
+
+large_turkish_unaccepted = {
+	#large_unaccepted
+}
+
+majority_turkish_unaccepted = {
+	#majority_unaccepted
+}
+
+#al_misr_arabic
+small_al_misr_arabic_primary = {
+	#small_primary
+}
+
+large_al_misr_arabic_primary = {
+	#large_primary
+}
+
+majority_al_misr_arabic_primary = {
+	#majority_primary
+}
+
+small_al_misr_arabic_accepted = {
+	#small_accepted
+}
+
+large_al_misr_arabic_accepted = {
+	#large_accepted
+}
+
+majority_al_misr_arabic_accepted = {
+	#majority_accepted
+}
+
+small_al_misr_arabic_unaccepted = {
+	#small_unaccepted
+}
+
+large_al_misr_arabic_unaccepted = {
+	#large_unaccepted
+}
+
+majority_al_misr_arabic_unaccepted = {
+	#majority_unaccepted
+}
+
+#al_suryah_arabic
+small_al_suryah_arabic_primary = {
+	#small_primary
+}
+
+large_al_suryah_arabic_primary = {
+	#large_primary
+}
+
+majority_al_suryah_arabic_primary = {
+	#majority_primary
+}
+
+small_al_suryah_arabic_accepted = {
+	#small_accepted
+}
+
+large_al_suryah_arabic_accepted = {
+	#large_accepted
+}
+
+majority_al_suryah_arabic_accepted = {
+	#majority_accepted
+}
+
+small_al_suryah_arabic_unaccepted = {
+	#small_unaccepted
+}
+
+large_al_suryah_arabic_unaccepted = {
+	#large_unaccepted
+}
+
+majority_al_suryah_arabic_unaccepted = {
+	#majority_unaccepted
+}
+
+#al_iraqiya_arabic
+small_al_iraqiya_arabic_primary = {
+	#small_primary
+}
+
+large_al_iraqiya_arabic_primary = {
+	#large_primary
+}
+
+majority_al_iraqiya_arabic_primary = {
+	#majority_primary
+}
+
+small_al_iraqiya_arabic_accepted = {
+	#small_accepted
+}
+
+large_al_iraqiya_arabic_accepted = {
+	#large_accepted
+}
+
+majority_al_iraqiya_arabic_accepted = {
+	#majority_accepted
+}
+
+small_al_iraqiya_arabic_unaccepted = {
+	#small_unaccepted
+}
+
+large_al_iraqiya_arabic_unaccepted = {
+	#large_unaccepted
+}
+
+majority_al_iraqiya_arabic_unaccepted = {
+	#majority_unaccepted
+}
+
+#gulf_arabic
+small_gulf_arabic_primary = {
+	#small_primary
+}
+
+large_gulf_arabic_primary = {
+	#large_primary
+}
+
+majority_gulf_arabic_primary = {
+	#majority_primary
+}
+
+small_gulf_arabic_accepted = {
+	#small_accepted
+}
+
+large_gulf_arabic_accepted = {
+	#large_accepted
+}
+
+majority_gulf_arabic_accepted = {
+	#majority_accepted
+}
+
+small_gulf_arabic_unaccepted = {
+	#small_unaccepted
+}
+
+large_gulf_arabic_unaccepted = {
+	#large_unaccepted
+}
+
+majority_gulf_arabic_unaccepted = {
+	#majority_unaccepted
+}
+
+#bedouin_arabic
+small_bedouin_arabic_primary = {
+	#small_primary
+}
+
+large_bedouin_arabic_primary = {
+	#large_primary
+}
+
+majority_bedouin_arabic_primary = {
+	#majority_primary
+}
+
+small_bedouin_arabic_accepted = {
+	#small_accepted
+}
+
+large_bedouin_arabic_accepted = {
+	#large_accepted
+}
+
+majority_bedouin_arabic_accepted = {
+	#majority_accepted
+}
+
+small_bedouin_arabic_unaccepted = {
+	#small_unaccepted
+}
+
+large_bedouin_arabic_unaccepted = {
+	#large_unaccepted
+}
+
+majority_bedouin_arabic_unaccepted = {
+	#majority_unaccepted
+}
+
+#mahri_culture
+small_mahri_culture_primary = {
+	#small_primary
+}
+
+large_mahri_culture_primary = {
+	#large_primary
+}
+
+majority_mahri_culture_primary = {
+	#majority_primary
+}
+
+small_mahri_culture_accepted = {
+	#small_accepted
+}
+
+large_mahri_culture_accepted = {
+	#large_accepted
+}
+
+majority_mahri_culture_accepted = {
+	#majority_accepted
+}
+
+small_mahri_culture_unaccepted = {
+	#small_unaccepted
+}
+
+large_mahri_culture_unaccepted = {
+	#large_unaccepted
+}
+
+majority_mahri_culture_unaccepted = {
+	#majority_unaccepted
+}
+
+#hejazi_culture
+small_hejazi_culture_primary = {
+	#small_primary
+}
+
+large_hejazi_culture_primary = {
+	#large_primary
+}
+
+majority_hejazi_culture_primary = {
+	#majority_primary
+}
+
+small_hejazi_culture_accepted = {
+	#small_accepted
+}
+
+large_hejazi_culture_accepted = {
+	#large_accepted
+}
+
+majority_hejazi_culture_accepted = {
+	#majority_accepted
+}
+
+small_hejazi_culture_unaccepted = {
+	#small_unaccepted
+}
+
+large_hejazi_culture_unaccepted = {
+	#large_unaccepted
+}
+
+majority_hejazi_culture_unaccepted = {
+	#majority_unaccepted
+}
+
+#omani_culture
+small_omani_culture_primary = {
+	#small_primary
+}
+
+large_omani_culture_primary = {
+	#large_primary
+}
+
+majority_omani_culture_primary = {
+	#majority_primary
+}
+
+small_omani_culture_accepted = {
+	#small_accepted
+}
+
+large_omani_culture_accepted = {
+	#large_accepted
+}
+
+majority_omani_culture_accepted = {
+	#majority_accepted
+}
+
+small_omani_culture_unaccepted = {
+	#small_unaccepted
+}
+
+large_omani_culture_unaccepted = {
+	#large_unaccepted
+}
+
+majority_omani_culture_unaccepted = {
+	#majority_unaccepted
+}
+
+#yemani_culture
+small_yemani_culture_primary = {
+	#small_primary
+}
+
+large_yemani_culture_primary = {
+	#large_primary
+}
+
+majority_yemani_culture_primary = {
+	#majority_primary
+}
+
+small_yemani_culture_accepted = {
+	#small_accepted
+}
+
+large_yemani_culture_accepted = {
+	#large_accepted
+}
+
+majority_yemani_culture_accepted = {
+	#majority_accepted
+}
+
+small_yemani_culture_unaccepted = {
+	#small_unaccepted
+}
+
+large_yemani_culture_unaccepted = {
+	#large_unaccepted
+}
+
+majority_yemani_culture_unaccepted = {
+	#majority_unaccepted
+}

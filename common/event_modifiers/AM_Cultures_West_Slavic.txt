@@ -1,0 +1,184 @@
+#czech
+small_czech_primary = {
+	#small_primary
+}
+
+large_czech_primary = {
+	#large_primary
+}
+
+majority_czech_primary = {
+	#majority_primary
+}
+
+small_czech_accepted = {
+	#small_accepted
+}
+
+large_czech_accepted = {
+	#large_accepted
+}
+
+majority_czech_accepted = {
+	#majority_accepted
+}
+
+small_czech_unaccepted = {
+	#small_unaccepted
+}
+
+large_czech_unaccepted = {
+	#large_unaccepted
+}
+
+majority_czech_unaccepted = {
+	#majority_unaccepted
+}
+
+#polish
+small_polish_primary = {
+	#small_primary
+}
+
+large_polish_primary = {
+	#large_primary
+}
+
+majority_polish_primary = {
+	#majority_primary
+}
+
+small_polish_accepted = {
+	#small_accepted
+}
+
+large_polish_accepted = {
+	#large_accepted
+}
+
+majority_polish_accepted = {
+	#majority_accepted
+}
+
+small_polish_unaccepted = {
+	#small_unaccepted
+}
+
+large_polish_unaccepted = {
+	#large_unaccepted
+}
+
+majority_polish_unaccepted = {
+	#majority_unaccepted
+}
+
+#schlesian
+small_schlesian_primary = {
+	#small_primary
+}
+
+large_schlesian_primary = {
+	#large_primary
+}
+
+majority_schlesian_primary = {
+	#majority_primary
+}
+
+small_schlesian_accepted = {
+	#small_accepted
+}
+
+large_schlesian_accepted = {
+	#large_accepted
+}
+
+majority_schlesian_accepted = {
+	#majority_accepted
+}
+
+small_schlesian_unaccepted = {
+	#small_unaccepted
+}
+
+large_schlesian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_schlesian_unaccepted = {
+	#majority_unaccepted
+}
+
+#sorbian
+small_sorbian_primary = {
+	#small_primary
+}
+
+large_sorbian_primary = {
+	#large_primary
+}
+
+majority_sorbian_primary = {
+	#majority_primary
+}
+
+small_sorbian_accepted = {
+	#small_accepted
+}
+
+large_sorbian_accepted = {
+	#large_accepted
+}
+
+majority_sorbian_accepted = {
+	#majority_accepted
+}
+
+small_sorbian_unaccepted = {
+	#small_unaccepted
+}
+
+large_sorbian_unaccepted = {
+	#large_unaccepted
+}
+
+majority_sorbian_unaccepted = {
+	#majority_unaccepted
+}
+
+#slovak
+small_slovak_primary = {
+	#small_primary
+}
+
+large_slovak_primary = {
+	#large_primary
+}
+
+majority_slovak_primary = {
+	#majority_primary
+}
+
+small_slovak_accepted = {
+	#small_accepted
+}
+
+large_slovak_accepted = {
+	#large_accepted
+}
+
+majority_slovak_accepted = {
+	#majority_accepted
+}
+
+small_slovak_unaccepted = {
+	#small_unaccepted
+}
+
+large_slovak_unaccepted = {
+	#large_unaccepted
+}
+
+majority_slovak_unaccepted = {
+	#majority_unaccepted
+}

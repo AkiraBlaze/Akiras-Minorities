@@ -1,0 +1,192 @@
+on_province_owner_change = {
+	events = {
+		japan.1			#Fall of the current Shogun
+		flavor_tur.207	#Victory over the Knights
+		culture_owner_change.1
+	}
+	on_province_owner_change_government_effect = yes
+
+	if = {
+		limit = {
+			owned_by = SRU
+			exists = ARA
+		}
+		ARA = {
+			set_country_flag = ARA_defeat_saruhan
+		}
+	}
+	if = {
+		limit = {
+			NOT = { owner = { religion_group = muslim } }
+			has_province_modifier = sufi_shrine
+		}
+		remove_province_modifier = sufi_shrine
+	}
+	on_province_owner_change_estate_privileges_effect = yes
+	imperial_modifiers_on_province_change_culture_or_change_owner_effect = yes
+	
+	if = {
+		limit = {
+			region = indo_china_region
+			has_building = farm_estate
+			trade_goods = grain
+			owner = {
+				has_mission = mnd_khm_irrigation 
+				NOT = {
+					OR = {
+						has_estate = estate_vaisyas
+						has_estate = estate_burghers
+					}
+				}
+			}
+		}
+		add_province_modifier = {
+			name = grain_production_improved
+			duration = 7300
+		}
+	}
+
+	if = {
+		limit = {
+			trade_goods = gold
+			NOT = { has_province_modifier = estate_burghers_control_over_gold_mine }
+			owner = {
+				has_estate_privilege = estate_burghers_control_over_the_mint
+			}
+		}
+		add_province_modifier = {
+			name = estate_burghers_control_over_gold_mine
+			duration = -1
+		}
+	}
+	
+	if = {
+		limit = {
+			province_id = 379
+			owner = {
+				NOT = { religion = jewish }
+			}
+		}
+		remove_country_modifier = third_temple_country_modifier
+	}
+	if = {
+		limit = {
+			owner = {
+				has_country_modifier = son_fetishism_as_secondary_religion
+			}
+			religion = shamanism
+			NOT = { has_province_modifier = son_fetishism_as_secondary_religion_province }
+		}
+		add_province_modifier = {
+			name = son_fetishism_as_secondary_religion_province
+			duration = -1
+			desc = son_fetishism_as_secondary_religion_province_desc
+		}
+	}
+	else_if = {
+		limit = {
+			OR = {
+				owner = {
+					NOT = { has_country_modifier = son_fetishism_as_secondary_religion }
+				}
+				NOT = { religion = shamanism }
+			}
+			has_province_modifier = son_fetishism_as_secondary_religion_province
+		}
+		remove_province_modifier = son_fetishism_as_secondary_religion_province
+	}
+	if = { 
+		limit = { 
+			owner = { NOT = { has_reform = jap_gokaido_reform } }
+		}
+		remove_province_modifier = jap_gokaido_modifier
+	}
+	if = {
+		limit = { 
+			owner = { 
+				has_government_attribute = more_15_manpower_in_heathen_provinces
+			}
+			NOT ={ religion_group = owner }
+			NOT = { has_province_modifier = ottoman_siyasah_tax_reform_manpower }
+		}
+		add_province_modifier = {
+			name = ottoman_siyasah_tax_reform_manpower
+			duration = -1
+		}
+	}
+	if = {
+		limit = { 
+			owner = { 
+				has_government_attribute = more_15_manpower_in_heathen_provinces
+			}
+			NOT ={ religion_group = owner }
+			NOT = { has_province_modifier = ottoman_siyasah_tax_reform_manpower }
+		}
+		add_province_modifier = {
+			name = ottoman_siyasah_tax_reform_manpower
+			duration = -1
+		}
+	}
+}
+
+on_province_culture_converted = {
+	events = {
+		culture_conversion.1
+	}
+	on_province_culture_converted_estate_privilges_effect = yes
+	judaism_on_province_culture_converted_effect = yes
+	imperial_modifiers_on_province_change_culture_or_change_owner_effect = yes
+	on_province_culture_change_effect = yes
+}
+
+on_culture_promoted = {
+	events = {
+		culture_accepted.1
+	}
+	on_culture_promoted_estate_privileges_effect = yes
+	judaism_on_culture_country_effect = yes
+	imperial_modifiers_on_culture_country_effect = yes
+	
+	if = { 
+		limit = { has_country_flag = reduce_ae_from_prom_cultures_flag }
+		every_country = {
+			add_aggressive_expansion = {
+				who = ROOT 
+				value = -3
+				apply_calc = no 
+			}
+		}
+	}
+}
+
+on_culture_demoted = {
+	events = {
+		id = culture_unaccepted.1
+	}
+	on_culture_demoted_estate_privileges_effect = yes
+	judaism_on_culture_country_effect = yes
+	imperial_modifiers_on_culture_country_effect = yes
+	on_culture_demoted_effect = yes
+}
+
+on_primary_culture_changed = {
+	on_primary_culture_changed_privileges_effect = yes
+	judaism_on_culture_country_effect = yes
+	imperial_modifiers_on_primary_culture_change_effect = yes
+}
+
+on_primary_culture_changed = {
+	on_primary_culture_changed_privileges_effect = yes
+	judaism_on_culture_country_effect = yes
+	imperial_modifiers_on_primary_culture_change_effect = yes
+}
+
+on_startup = {
+	if = {
+		limit = {
+			current_age = age_of_discovery
+			province_id = 4126
+		}
+		change_culture = basque
+	}
+}
