@@ -4,2105 +4,2041 @@ small_primary_trigger = {
 			culture = pommeranian
 			has_province_modifier = small_pommeranian_primary
 		}
-		
 		and = {
 			culture = prussian
 			has_province_modifier = small_prussian_primary
 		}
-		
 		and = {
 			culture = baltic_german
 			has_province_modifier = small_baltic_german_primary
 		}
-		
 		and = {
 			culture = lower_saxon
 			has_province_modifier = small_lower_saxon_primary
 		}
-		
 		and = {
 			culture = hannoverian
 			has_province_modifier = small_hannoverian_primary
 		}
-		
 		and = {
 			culture = hessian
 			has_province_modifier = small_hessian_primary
 		}
-		
 		and = {
 			culture = saxon
 			has_province_modifier = small_saxon_primary
 		}
-		
 		and = {
 			culture = franconian
 			has_province_modifier = small_franconian_primary
 		}
-		
 		and = {
 			culture = swabian
 			has_province_modifier = small_swabian_primary
 		}
-		
 		and = {
 			culture = swiss
 			has_province_modifier = small_swiss_primary
 		}
-		
 		and = {
 			culture = bavarian
 			has_province_modifier = small_bavarian_primary
 		}
-		
 		and = {
 			culture = austrian
 			has_province_modifier = small_austrian_primary
 		}
-		
 		and = {
 			culture = dutch
 			has_province_modifier = small_dutch_primary
 		}
-		
 		and = {
 			culture = flemish
 			has_province_modifier = small_flemish_primary
 		}
-		
 		and = {
 			culture = frisian
 			has_province_modifier = small_frisian_primary
 		}
-		
 		and = {
 			culture = swedish
 			has_province_modifier = small_swedish_primary
 		}
-		
 		and = {
 			culture = danish
 			has_province_modifier = small_danish_primary
 		}
-		
 		and = {
 			culture = norwegian
 			has_province_modifier = small_norwegian_primary
 		}
-		
 		and = {
 			culture = finnish
 			has_province_modifier = small_finnish_primary
 		}
-		
 		and = {
 			culture = sapmi
 			has_province_modifier = small_sapmi_primary
 		}
-		
 		and = {
 			culture = karelian
 			has_province_modifier = small_karelian_primary
 		}
-		
 		and = {
 			culture = icelandic
 			has_province_modifier = small_icelandic_primary
 		}
-		
 		and = {
 			culture = norse
 			has_province_modifier = small_norse_primary
 		}
-		
 		and = {
 			culture = english
 			has_province_modifier = small_english_primary
 		}
-		
 		and = {
 			culture = american
 			has_province_modifier = small_american_primary
 		}
-		
 		and = {
 			culture = welsh
 			has_province_modifier = small_welsh_primary
 		}
-		
 		and = {
 			culture = cornish
 			has_province_modifier = small_cornish_primary
 		}
-		
 		and = {
 			culture = scottish
 			has_province_modifier = small_scottish_primary
 		}
-		
 		and = {
 			culture = irish
 			has_province_modifier = small_irish_primary
 		}
-		
 		and = {
 			culture = highland_scottish
 			has_province_modifier = small_highland_scottish_primary
 		}
-		
 		and = {
 			culture = lombard
 			has_province_modifier = small_lombard_primary
 		}
-		
 		and = {
 			culture = tuscan
 			has_province_modifier = small_tuscan_primary
 		}
-		
 		and = {
 			culture = sardinian
 			has_province_modifier = small_sardinian_primary
 		}
-		
 		and = {
 			culture = romagnan
 			has_province_modifier = small_romagnan_primary
 		}
-		
 		and = {
 			culture = ligurian
 			has_province_modifier = small_ligurian_primary
 		}
-		
 		and = {
 			culture = venetian
 			has_province_modifier = small_venetian_primary
 		}
-		
 		and = {
 			culture = dalmatian
 			has_province_modifier = small_dalmatian_primary
 		}
-		
 		and = {
 			culture = neapolitan
 			has_province_modifier = small_neapolitan_primary
 		}
-		
 		and = {
 			culture = piedmontese
 			has_province_modifier = small_piedmontese_primary
 		}
-		
 		and = {
 			culture = umbrian
 			has_province_modifier = small_umbrian_primary
 		}
-		
 		and = {
 			culture = sicilian
 			has_province_modifier = small_sicilian_primary
 		}
-		
 		and = {
 			culture = maltese
 			has_province_modifier = small_maltese_primary
 		}
-		
 		and = {
 			culture = castillian
 			has_province_modifier = small_castillian_primary
 		}
-		
 		and = {
 			culture = mexican
 			has_province_modifier = small_mexican_primary
 		}
-		
 		and = {
 			culture = platinean
 			has_province_modifier = small_platinean_primary
 		}
-		
 		and = {
 			culture = leonese
 			has_province_modifier = small_leonese_primary
 		}
-		
 		and = {
 			culture = aragonese
 			has_province_modifier = small_aragonese_primary
 		}
-		
 		and = {
 			culture = catalan
 			has_province_modifier = small_catalan_primary
 		}
-		
 		and = {
 			culture = galician
 			has_province_modifier = small_galician_primary
 		}
-		
 		and = {
 			culture = andalucian
 			has_province_modifier = small_andalucian_primary
 		}
-		
 		and = {
 			culture = portugese
 			has_province_modifier = small_portugese_primary
 		}
-		
 		and = {
 			culture = brazilian
 			has_province_modifier = small_brazilian_primary
 		}
-		
 		and = {
 			culture = basque
 			has_province_modifier = small_basque_primary
 		}
-		
 		and = {
 			culture = cosmopolitan_french
 			has_province_modifier = small_cosmopolitan_french_primary
 		}
-		
 		and = {
 			culture = gascon
 			has_province_modifier = small_gascon_primary
 		}
-		
 		and = {
 			culture = normand
 			has_province_modifier = small_normand_primary
 		}
-		
 		and = {
 			culture = aquitaine
 			has_province_modifier = small_aquitaine_primary
 		}
-		
 		and = {
 			culture = burgundian
 			has_province_modifier = small_burgundian_primary
 		}
-		
 		and = {
 			culture = occitain
 			has_province_modifier = small_occitain_primary
 		}
-		
 		and = {
 			culture = wallonian
 			has_province_modifier = small_wallonian_primary
 		}
-		
 		and = {
 			culture = louisianans
 			has_province_modifier = small_louisianans_primary
 		}
-		
 		and = {
 			culture = quebecois
 			has_province_modifier = small_quebecois_primary
 		}
-		
 		and = {
 			culture = anglois
 			has_province_modifier = small_anglois_primary
 		}
-		
 		and = {
 			culture = breton
 			has_province_modifier = small_breton_primary
 		}
-		
 		and = {
 			culture = uralic
 			has_province_modifier = small_uralic_primary
 		}
-		
 		and = {
 			culture = samoyed
 			has_province_modifier = small_samoyed_primary
 		}
-		
 		and = {
 			culture = ostyaki
 			has_province_modifier = small_ostyaki_primary
 		}
-		
 		and = {
 			culture = ingrian
 			has_province_modifier = small_ingrian_primary
 		}
-		
 		and = {
 			culture = croatian
 			has_province_modifier = small_croatian_primary
 		}
-		
 		and = {
 			culture = serbian
 			has_province_modifier = small_serbian_primary
 		}
-		
 		and = {
 			culture = slovene
 			has_province_modifier = small_slovene_primary
 		}
-		
 		and = {
 			culture = bosnian
 			has_province_modifier = small_bosnian_primary
 		}
-		
 		and = {
 			culture = bulgarian
 			has_province_modifier = small_bulgarian_primary
 		}
-		
 		and = {
 			culture = albanian
 			has_province_modifier = small_albanian_primary
 		}
-		
 		and = {
 			culture = czech
 			has_province_modifier = small_czech_primary
 		}
-		
 		and = {
 			culture = polish
 			has_province_modifier = small_polish_primary
 		}
-		
 		and = {
 			culture = schlesian
 			has_province_modifier = small_schlesian_primary
 		}
-		
 		and = {
 			culture = sorbian
 			has_province_modifier = small_sorbian_primary
 		}
-		
 		and = {
 			culture = slovak
 			has_province_modifier = small_slovak_primary
 		}
-		
 		and = {
 			culture = transylvanian
 			has_province_modifier = small_transylvanian_primary
 		}
-		
 		and = {
 			culture = romanian
 			has_province_modifier = small_romanian_primary
 		}
-		
 		and = {
 			culture = hungarian
 			has_province_modifier = small_hungarian_primary
 		}
-		
 		and = {
 			culture = russian
 			has_province_modifier = small_russian_primary
 		}
-		
 		and = {
 			culture = novgorodian
 			has_province_modifier = small_novgorodian_primary
 		}
-		
 		and = {
 			culture = ryzanian
 			has_province_modifier = small_ryzanian_primary
 		}
-		
 		and = {
 			culture = byelorussian
 			has_province_modifier = small_byelorussian_primary
 		}
-		
 		and = {
 			culture = ruthenian
 			has_province_modifier = small_ruthenian_primary
 		}
-		
 		and = {
 			culture = russian_new
 			has_province_modifier = small_russian_new_primary
 		}
-		
 		and = {
 			culture = novgorodian_new
 			has_province_modifier = small_novgorodian_new_primary
 		}
-		
 		and = {
 			culture = ryazanian_new
 			has_province_modifier = small_ryazanian_new_primary
 		}
-		
 		and = {
 			culture = byelorussian_new
 			has_province_modifier = small_byelorussian_new_primary
 		}
-		
 		and = {
 			culture = ruthenian_new
 			has_province_modifier = small_ruthenian_new_primary
 		}
-		
 		and = {
 			culture = slovak_new
 			has_province_modifier = small_slovak_new_primary
 		}
-		
 		and = {
 			culture = czech_new
 			has_province_modifier = small_czech_new_primary
 		}
-		
 		and = {
 			culture = polish_new
 			has_province_modifier = small_polish_new_primary
 		}
-		
 		and = {
 			culture = schlesian_new
 			has_province_modifier = small_schlesian_new_primary
 		}
-		
 		and = {
 			culture = sorbian_new
 			has_province_modifier = small_sorbian_new_primary
 		}
-		
 		and = {
 			culture = croatian_new
 			has_province_modifier = small_croatian_new_primary
 		}
-		
 		and = {
 			culture = serbian_new
 			has_province_modifier = small_serbian_new_primary
 		}
-		
 		and = {
 			culture = slovene_new
 			has_province_modifier = small_slovene_new_primary
 		}
-		
 		and = {
 			culture = bosnian_new
 			has_province_modifier = small_bosnian_new_primary
 		}
-		
 		and = {
 			culture = bulgarian_new
 			has_province_modifier = small_bulgarian_new_primary
 		}
-		
 		and = {
 			culture = estonian
 			has_province_modifier = small_estonian_primary
 		}
-		
 		and = {
 			culture = lithuanian
 			has_province_modifier = small_lithuanian_primary
 		}
-		
 		and = {
 			culture = latvian
 			has_province_modifier = small_latvian_primary
 		}
-		
 		and = {
 			culture = greek
 			has_province_modifier = small_greek_primary
 		}
-		
 		and = {
 			culture = pontic_greek
 			has_province_modifier = small_pontic_greek_primary
 		}
-		
 		and = {
 			culture = goths
 			has_province_modifier = small_goths_primary
 		}
-		
 		and = {
 			culture = georgian
 			has_province_modifier = small_georgian_primary
 		}
-		
 		and = {
 			culture = circassian
 			has_province_modifier = small_circassian_primary
 		}
-		
 		and = {
 			culture = dagestani
 			has_province_modifier = small_dagestani_primary
 		}
-		
 		and = {
 			culture = armenian
 			has_province_modifier = small_armenian_primary
 		}
-		
 		and = {
 			culture = turkish
 			has_province_modifier = small_turkish_primary
 		}
-		
 		and = {
 			culture = al_misr_arabic
 			has_province_modifier = small_al_misr_arabic_primary
 		}
-		
 		and = {
 			culture = al_suryah_arabic
 			has_province_modifier = small_al_suryah_arabic_primary
 		}
-		
 		and = {
 			culture = al_iraqiya_arabic
 			has_province_modifier = small_al_iraqiya_arabic_primary
 		}
-		
 		and = {
 			culture = gulf_arabic
 			has_province_modifier = small_gulf_arabic_primary
 		}
-		
 		and = {
 			culture = bedouin_arabic
 			has_province_modifier = small_bedouin_arabic_primary
 		}
-		
 		and = {
 			culture = mahri_culture
 			has_province_modifier = small_mahri_culture_primary
 		}
-		
 		and = {
 			culture = hejazi_culture
 			has_province_modifier = small_hejazi_culture_primary
 		}
-		
 		and = {
 			culture = omani_culture
 			has_province_modifier = small_omani_culture_primary
 		}
-		
 		and = {
 			culture = yemani_culture
 			has_province_modifier = small_yemani_culture_primary
 		}
-		
 		and = {
 			culture = moroccan
 			has_province_modifier = small_moroccan_primary
 		}
-		
 		and = {
 			culture = tunisian
 			has_province_modifier = small_tunisian_primary
 		}
-		
 		and = {
 			culture = algerian
 			has_province_modifier = small_algerian_primary
 		}
-		
 		and = {
 			culture = berber
 			has_province_modifier = small_berber_primary
 		}
-		
 		and = {
 			culture = persian
 			has_province_modifier = small_persian_primary
 		}
-		
 		and = {
 			culture = luri
 			has_province_modifier = small_luri_primary
 		}
-		
 		and = {
 			culture = azerbaijani
 			has_province_modifier = small_azerbaijani_primary
 		}
-		
 		and = {
 			culture = khorasani
 			has_province_modifier = small_khorasani_primary
 		}
-		
 		and = {
 			culture = baluchi
 			has_province_modifier = small_baluchi_primary
 		}
-		
 		and = {
 			culture = afghani
 			has_province_modifier = small_afghani_primary
 		}
-		
 		and = {
 			culture = kurdish
 			has_province_modifier = small_kurdish_primary
 		}
-		
 		and = {
 			culture = mazandarani
 			has_province_modifier = small_mazandarani_primary
 		}
-		
 		and = {
 			culture = mongol
 			has_province_modifier = small_mongol_primary
 		}
-		
 		and = {
 			culture = chahar
 			has_province_modifier = small_chahar_primary
 		}
-		
 		and = {
 			culture = khalkha
 			has_province_modifier = small_khalkha_primary
 		}
-		
 		and = {
 			culture = oirats
 			has_province_modifier = small_oirats_primary
 		}
-		
 		and = {
 			culture = uzbehk
 			has_province_modifier = small_uzbehk_primary
 		}
-		
 		and = {
 			culture = turkmeni
 			has_province_modifier = small_turkmeni_primary
 		}
-		
 		and = {
 			culture = uyghur
 			has_province_modifier = small_uyghur_primary
 		}
-		
 		and = {
 			culture = khazak
 			has_province_modifier = small_khazak_primary
 		}
-		
 		and = {
 			culture = kirgiz
 			has_province_modifier = small_kirgiz_primary
 		}
-		
 		and = {
 			culture = aztek
 			has_province_modifier = small_aztek_primary
 		}
-		
 		and = {
 			culture = totonac
 			has_province_modifier = small_totonac_primary
 		}
-		
 		and = {
 			culture = purepecha
 			has_province_modifier = small_purepecha_primary
 		}
-		
 		and = {
 			culture = matlatzinca
 			has_province_modifier = small_matlatzinca_primary
 		}
-		
 		and = {
 			culture = tecos
 			has_province_modifier = small_tecos_primary
 		}
-		
 		and = {
 			culture = tepic
 			has_province_modifier = small_tepic_primary
 		}
-		
 		and = {
 			culture = chichimecan
 			has_province_modifier = small_chichimecan_primary
 		}
-		
 		and = {
 			culture = guamares
 			has_province_modifier = small_guamares_primary
 		}
-		
 		and = {
 			culture = otomi
 			has_province_modifier = small_otomi_primary
 		}
-		
 		and = {
 			culture = yaqui
 			has_province_modifier = small_yaqui_primary
 		}
-		
 		and = {
 			culture = yucatec
 			has_province_modifier = small_yucatec_primary
 		}
-		
 		and = {
 			culture = putun
 			has_province_modifier = small_putun_primary
 		}
-		
 		and = {
 			culture = mayan
 			has_province_modifier = small_mayan_primary
 		}
-		
 		and = {
 			culture = highland_mayan
 			has_province_modifier = small_highland_mayan_primary
 		}
-		
 		and = {
 			culture = lacandon
 			has_province_modifier = small_lacandon_primary
 		}
-		
 		and = {
 			culture = wastek
 			has_province_modifier = small_wastek_primary
 		}
-		
 		and = {
 			culture = chontales
 			has_province_modifier = small_chontales_primary
 		}
-		
 		and = {
 			culture = zapotek
 			has_province_modifier = small_zapotek_primary
 		}
-		
 		and = {
 			culture = mixtec
 			has_province_modifier = small_mixtec_primary
 		}
-		
 		and = {
 			culture = tlapanec
 			has_province_modifier = small_tlapanec_primary
 		}
-		
 		and = {
 			culture = inca
 			has_province_modifier = small_inca_primary
 		}
-		
 		and = {
 			culture = aimara
 			has_province_modifier = small_aimara_primary
 		}
-		
 		and = {
 			culture = diaguita
 			has_province_modifier = small_diaguita_primary
 		}
-		
 		and = {
 			culture = chimuan
 			has_province_modifier = small_chimuan_primary
 		}
-		
 		and = {
 			culture = tupinamba
 			has_province_modifier = small_tupinamba_primary
 		}
-		
 		and = {
 			culture = guarani
 			has_province_modifier = small_guarani_primary
 		}
-		
 		and = {
 			culture = charruan
 			has_province_modifier = small_charruan_primary
 		}
-		
 		and = {
 			culture = ge
 			has_province_modifier = small_ge_primary
 		}
-		
 		and = {
 			culture = jivaro
 			has_province_modifier = small_jivaro_primary
 		}
-		
 		and = {
 			culture = chachapoyan
 			has_province_modifier = small_chachapoyan_primary
 		}
-		
 		and = {
 			culture = muisca
 			has_province_modifier = small_muisca_primary
 		}
-		
 		and = {
 			culture = cara
 			has_province_modifier = small_cara_primary
 		}
-		
 		and = {
 			culture = miskito
 			has_province_modifier = small_miskito_primary
 		}
-		
 		and = {
 			culture = chacoan
 			has_province_modifier = small_chacoan_primary
 		}
-		
 		and = {
 			culture = mapuche
 			has_province_modifier = small_mapuche_primary
 		}
-		
 		and = {
 			culture = patagonian
 			has_province_modifier = small_patagonian_primary
 		}
-		
 		and = {
 			culture = het
 			has_province_modifier = small_het_primary
 		}
-		
 		and = {
 			culture = huarpe
 			has_province_modifier = small_huarpe_primary
 		}
-		
 		and = {
 			culture = arawak
 			has_province_modifier = small_arawak_primary
 		}
-		
 		and = {
 			culture = maipurean
 			has_province_modifier = small_maipurean_primary
 		}
-		
 		and = {
 			culture = carib
 			has_province_modifier = small_carib_primary
 		}
-		
 		and = {
 			culture = guajiro
 			has_province_modifier = small_guajiro_primary
 		}
-		
 		and = {
 			culture = aleutian
 			has_province_modifier = small_aleutian_primary
 		}
-		
 		and = {
 			culture = inuit
 			has_province_modifier = small_inuit_primary
 		}
-		
 		and = {
 			culture = shawnee
 			has_province_modifier = small_shawnee_primary
 		}
-		
 		and = {
 			culture = illini
 			has_province_modifier = small_illini_primary
 		}
-		
 		and = {
 			culture = miami
 			has_province_modifier = small_miami_primary
 		}
-		
 		and = {
 			culture = anishinabe
 			has_province_modifier = small_anishinabe_primary
 		}
-		
 		and = {
 			culture = algonquin
 			has_province_modifier = small_algonquin_primary
 		}
-		
 		and = {
 			culture = cree
 			has_province_modifier = small_cree_primary
 		}
-		
 		and = {
 			culture = innu
 			has_province_modifier = small_innu_primary
 		}
-		
 		and = {
 			culture = mesquakie
 			has_province_modifier = small_mesquakie_primary
 		}
-		
 		and = {
 			culture = cheyenne
 			has_province_modifier = small_cheyenne_primary
 		}
-		
 		and = {
 			culture = blackfoot
 			has_province_modifier = small_blackfoot_primary
 		}
-		
 		and = {
 			culture = arapaho
 			has_province_modifier = small_arapaho_primary
 		}
-		
 		and = {
 			culture = plains_cree
 			has_province_modifier = small_plains_cree_primary
 		}
-		
 		and = {
 			culture = bungi
 			has_province_modifier = small_bungi_primary
 		}
-		
 		and = {
 			culture = delaware
 			has_province_modifier = small_delaware_primary
 		}
-		
 		and = {
 			culture = abenaki
 			has_province_modifier = small_abenaki_primary
 		}
-		
 		and = {
 			culture = mikmaq
 			has_province_modifier = small_mikmaq_primary
 		}
-		
 		and = {
 			culture = maliseet
 			has_province_modifier = small_maliseet_primary
 		}
-		
 		and = {
 			culture = mahican
 			has_province_modifier = small_mahican_primary
 		}
-		
 		and = {
 			culture = powhatan
 			has_province_modifier = small_powhatan_primary
 		}
-		
 		and = {
 			culture = pequot
 			has_province_modifier = small_pequot_primary
 		}
-		
 		and = {
 			culture = massachusset
 			has_province_modifier = small_massachusset_primary
 		}
-		
 		and = {
 			culture = iroquoian
 			has_province_modifier = small_iroquoian_primary
 		}
-		
 		and = {
 			culture = cherokee
 			has_province_modifier = small_cherokee_primary
 		}
-		
 		and = {
 			culture = huron
 			has_province_modifier = small_huron_primary
 		}
-		
 		and = {
 			culture = laurentian
 			has_province_modifier = small_laurentian_primary
 		}
-		
 		and = {
 			culture = tionontate
 			has_province_modifier = small_tionontate_primary
 		}
-		
 		and = {
 			culture = susquehannock
 			has_province_modifier = small_susquehannock_primary
 		}
-		
 		and = {
 			culture = dakota
 			has_province_modifier = small_dakota_primary
 		}
-		
 		and = {
 			culture = nakota
 			has_province_modifier = small_nakota_primary
 		}
-		
 		and = {
 			culture = chiwere
 			has_province_modifier = small_chiwere_primary
 		}
-		
 		and = {
 			culture = osage
 			has_province_modifier = small_osage_primary
 		}
-		
 		and = {
 			culture = wichita
 			has_province_modifier = small_wichita_primary
 		}
-		
 		and = {
 			culture = caddo
 			has_province_modifier = small_caddo_primary
 		}
-		
 		and = {
 			culture = pawnee
 			has_province_modifier = small_pawnee_primary
 		}
-		
 		and = {
 			culture = creek
 			has_province_modifier = small_creek_primary
 		}
-		
 		and = {
 			culture = choctaw
 			has_province_modifier = small_choctaw_primary
 		}
-		
 		and = {
 			culture = chickasaw
 			has_province_modifier = small_chickasaw_primary
 		}
-		
 		and = {
 			culture = yuchi
 			has_province_modifier = small_yuchi_primary
 		}
-		
 		and = {
 			culture = yoron
 			has_province_modifier = small_yoron_primary
 		}
-		
 		and = {
 			culture = catawba
 			has_province_modifier = small_catawba_primary
 		}
-		
 		and = {
 			culture = natchez
 			has_province_modifier = small_natchez_primary
 		}
-		
 		and = {
 			culture = yamasee
 			has_province_modifier = small_yamasee_primary
 		}
-		
 		and = {
 			culture = pueblo
 			has_province_modifier = small_pueblo_primary
 		}
-		
 		and = {
 			culture = piman
 			has_province_modifier = small_piman_primary
 		}
-		
 		and = {
 			culture = shoshone
 			has_province_modifier = small_shoshone_primary
 		}
-		
 		and = {
 			culture = kiowa
 			has_province_modifier = small_kiowa_primary
 		}
-		
 		and = {
 			culture = apache
 			has_province_modifier = small_apache_primary
 		}
-		
 		and = {
 			culture = mescalero
 			has_province_modifier = small_mescalero_primary
 		}
-		
 		and = {
 			culture = lipan
 			has_province_modifier = small_lipan_primary
 		}
-		
 		and = {
 			culture = navajo
 			has_province_modifier = small_navajo_primary
 		}
-		
 		and = {
 			culture = chipewyan
 			has_province_modifier = small_chipewyan_primary
 		}
-		
 		and = {
 			culture = haida
 			has_province_modifier = small_haida_primary
 		}
-		
 		and = {
 			culture = athabascan
 			has_province_modifier = small_athabascan_primary
 		}
-		
 		and = {
 			culture = salish
 			has_province_modifier = small_salish_primary
 		}
-		
 		and = {
 			culture = chinook
 			has_province_modifier = small_chinook_primary
 		}
-		
 		and = {
 			culture = yokuts
 			has_province_modifier = small_yokuts_primary
 		}
-		
 		and = {
 			culture = vietnamese_new
 			has_province_modifier = small_vietnamese_new_primary
 		}
-		
 		and = {
 			culture = korean_new
 			has_province_modifier = small_korean_new_primary
 		}
-		
 		and = {
 			culture = tibetan_new
 			has_province_modifier = small_tibetan_new_primary
 		}
-		
 		and = {
 			culture = altaic_new
 			has_province_modifier = small_altaic_new_primary
 		}
-		
 		and = {
 			culture = zhuang_new
 			has_province_modifier = small_zhuang_new_primary
 		}
-		
 		and = {
 			culture = manchu_new
 			has_province_modifier = small_manchu_new_primary
 		}
-		
 		and = {
 			culture = chihan
 			has_province_modifier = small_chihan_primary
 		}
-		
 		and = {
 			culture = cantonese
 			has_province_modifier = small_cantonese_primary
 		}
-		
 		and = {
 			culture = jin
 			has_province_modifier = small_jin_primary
 		}
-		
 		and = {
 			culture = wu
 			has_province_modifier = small_wu_primary
 		}
-		
 		and = {
 			culture = chimin
 			has_province_modifier = small_chimin_primary
 		}
-		
 		and = {
 			culture = hakka
 			has_province_modifier = small_hakka_primary
 		}
-		
 		and = {
 			culture = gan
 			has_province_modifier = small_gan_primary
 		}
-		
 		and = {
 			culture = xiang
 			has_province_modifier = small_xiang_primary
 		}
-		
 		and = {
 			culture = sichuanese
 			has_province_modifier = small_sichuanese_primary
 		}
-		
 		and = {
 			culture = jianghuai
 			has_province_modifier = small_jianghuai_primary
 		}
-		
 		and = {
 			culture = xibei
 			has_province_modifier = small_xibei_primary
 		}
-		
 		and = {
 			culture = hubei
 			has_province_modifier = small_hubei_primary
 		}
-		
 		and = {
 			culture = zhongyuan
 			has_province_modifier = small_zhongyuan_primary
 		}
-		
 		and = {
 			culture = shandong_culture
 			has_province_modifier = small_shandong_culture_primary
 		}
-		
 		and = {
 			culture = korean
 			has_province_modifier = small_korean_primary
 		}
-		
 		and = {
 			culture = togoku
 			has_province_modifier = small_togoku_primary
 		}
-		
 		and = {
 			culture = japanese
 			has_province_modifier = small_japanese_primary
 		}
-		
 		and = {
 			culture = kyushuan
 			has_province_modifier = small_kyushuan_primary
 		}
-		
 		and = {
 			culture = tibetan
 			has_province_modifier = small_tibetan_primary
 		}
-		
 		and = {
 			culture = yi
 			has_province_modifier = small_yi_primary
 		}
-		
 		and = {
 			culture = bai
 			has_province_modifier = small_bai_primary
 		}
-		
 		and = {
 			culture = miao
 			has_province_modifier = small_miao_primary
 		}
-		
 		and = {
 			culture = malayan
 			has_province_modifier = small_malayan_primary
 		}
-		
 		and = {
 			culture = sumatran
 			has_province_modifier = small_sumatran_primary
 		}
-		
 		and = {
 			culture = acehnese
 			has_province_modifier = small_acehnese_primary
 		}
-		
 		and = {
 			culture = javanese
 			has_province_modifier = small_javanese_primary
 		}
-		
 		and = {
 			culture = sundanese
 			has_province_modifier = small_sundanese_primary
 		}
-		
 		and = {
 			culture = filipino
 			has_province_modifier = small_filipino_primary
 		}
-		
 		and = {
 			culture = bornean
 			has_province_modifier = small_bornean_primary
 		}
-		
 		and = {
 			culture = madagascan
 			has_province_modifier = small_madagascan_primary
 		}
-		
 		and = {
 			culture = sulawesi
 			has_province_modifier = small_sulawesi_primary
 		}
-		
 		and = {
 			culture = moluccan
 			has_province_modifier = small_moluccan_primary
 		}
-		
 		and = {
 			culture = nusa_tenggara
 			has_province_modifier = small_nusa_tenggara_primary
 		}
-		
 		and = {
 			culture = cham
 			has_province_modifier = small_cham_primary
 		}
-		
 		and = {
 			culture = central_thai
 			has_province_modifier = small_central_thai_primary
 		}
-		
 		and = {
 			culture = northern_thai
 			has_province_modifier = small_northern_thai_primary
 		}
-		
 		and = {
 			culture = lao
 			has_province_modifier = small_lao_primary
 		}
-		
 		and = {
 			culture = shan
 			has_province_modifier = small_shan_primary
 		}
-		
 		and = {
 			culture = zhuang
 			has_province_modifier = small_zhuang_primary
 		}
-		
 		and = {
 			culture = khmer
 			has_province_modifier = small_khmer_primary
 		}
-		
 		and = {
 			culture = mon
 			has_province_modifier = small_mon_primary
 		}
-		
 		and = {
 			culture = vietnamese
 			has_province_modifier = small_vietnamese_primary
 		}
-		
 		and = {
 			culture = burmese
 			has_province_modifier = small_burmese_primary
 		}
-		
 		and = {
 			culture = chin
 			has_province_modifier = small_chin_primary
 		}
-		
 		and = {
 			culture = karen
 			has_province_modifier = small_karen_primary
 		}
-		
 		and = {
 			culture = kachin
 			has_province_modifier = small_kachin_primary
 		}
-		
 		and = {
 			culture = arakanese
 			has_province_modifier = small_arakanese_primary
 		}
-		
 		and = {
 			culture = papuan
 			has_province_modifier = small_papuan_primary
 		}
-		
 		and = {
 			culture = maori
 			has_province_modifier = small_maori_primary
 		}
-		
 		and = {
 			culture = melanesian
 			has_province_modifier = small_melanesian_primary
 		}
-		
 		and = {
 			culture = polynesian
 			has_province_modifier = small_polynesian_primary
 		}
-		
 		and = {
 			culture = aboriginal
 			has_province_modifier = small_aboriginal_primary
 		}
-		
 		and = {
 			culture = yura
 			has_province_modifier = small_yura_primary
 		}
-		
 		and = {
 			culture = paman
 			has_province_modifier = small_paman_primary
 		}
-		
 		and = {
 			culture = gunwinyguan
 			has_province_modifier = small_gunwinyguan_primary
 		}
-		
 		and = {
 			culture = palawa
 			has_province_modifier = small_palawa_primary
 		}
-		
 		and = {
 			culture = kulin
 			has_province_modifier = small_kulin_primary
 		}
-		
 		and = {
 			culture = gamilaraay
 			has_province_modifier = small_gamilaraay_primary
 		}
-		
 		and = {
 			culture = nyoongah
 			has_province_modifier = small_nyoongah_primary
 		}
-		
 		and = {
 			culture = assamese
 			has_province_modifier = small_assamese_primary
 		}
-		
 		and = {
 			culture = bengali
 			has_province_modifier = small_bengali_primary
 		}
-		
 		and = {
 			culture = kochi
 			has_province_modifier = small_kochi_primary
 		}
-		
 		and = {
 			culture = bihari
 			has_province_modifier = small_bihari_primary
 		}
-		
 		and = {
 			culture = pahari
 			has_province_modifier = small_pahari_primary
 		}
-		
 		and = {
 			culture = nepali
 			has_province_modifier = small_nepali_primary
 		}
-		
 		and = {
 			culture = oriya
 			has_province_modifier = small_oriya_primary
 		}
-		
 		and = {
 			culture = sinhala
 			has_province_modifier = small_sinhala_primary
 		}
-		
 		and = {
 			culture = avadhi
 			has_province_modifier = small_avadhi_primary
 		}
-		
 		and = {
 			culture = kanauji
 			has_province_modifier = small_kanauji_primary
 		}
-		
 		and = {
 			culture = vindhyan
 			has_province_modifier = small_vindhyan_primary
 		}
-		
 		and = {
 			culture = panjabi
 			has_province_modifier = small_panjabi_primary
 		}
-		
 		and = {
 			culture = kashmiri
 			has_province_modifier = small_kashmiri_primary
 		}
-		
 		and = {
 			culture = gujarati
 			has_province_modifier = small_gujarati_primary
 		}
-		
 		and = {
 			culture = parsi
 			has_province_modifier = small_parsi_primary
 		}
-		
 		and = {
 			culture = saurashtri
 			has_province_modifier = small_saurashtri_primary
 		}
-		
 		and = {
 			culture = marathi
 			has_province_modifier = small_marathi_primary
 		}
-		
 		and = {
 			culture = sindhi
 			has_province_modifier = small_sindhi_primary
 		}
-		
 		and = {
 			culture = rajput
 			has_province_modifier = small_rajput_primary
 		}
-		
 		and = {
 			culture = malvi
 			has_province_modifier = small_malvi_primary
 		}
-		
 		and = {
 			culture = kannada
 			has_province_modifier = small_kannada_primary
 		}
-		
 		and = {
 			culture = malayalam
 			has_province_modifier = small_malayalam_primary
 		}
-		
 		and = {
 			culture = tamil
 			has_province_modifier = small_tamil_primary
 		}
-		
 		and = {
 			culture = telegu
 			has_province_modifier = small_telegu_primary
 		}
-		
 		and = {
 			culture = gondi
 			has_province_modifier = small_gondi_primary
 		}
-		
 		and = {
 			culture = garjati
 			has_province_modifier = small_garjati_primary
 		}
-		
 		and = {
 			culture = jharkhandi
 			has_province_modifier = small_jharkhandi_primary
 		}
-		
 		and = {
 			culture = mali
 			has_province_modifier = small_mali_primary
 		}
-		
 		and = {
 			culture = songhai
 			has_province_modifier = small_songhai_primary
 		}
-		
 		and = {
 			culture = soninke
 			has_province_modifier = small_soninke_primary
 		}
-		
 		and = {
 			culture = bambara
 			has_province_modifier = small_bambara_primary
 		}
-		
 		and = {
 			culture = bozo
 			has_province_modifier = small_bozo_primary
 		}
-		
 		and = {
 			culture = dyola
 			has_province_modifier = small_dyola_primary
 		}
-		
 		and = {
 			culture = hausa
 			has_province_modifier = small_hausa_primary
 		}
-		
 		and = {
 			culture = kanuri
 			has_province_modifier = small_kanuri_primary
 		}
-		
 		and = {
 			culture = bilala
 			has_province_modifier = small_bilala_primary
 		}
-		
 		and = {
 			culture = tunjur
 			has_province_modifier = small_tunjur_primary
 		}
-		
 		and = {
 			culture = tuareg
 			has_province_modifier = small_tuareg_primary
 		}
-		
 		and = {
 			culture = senegambian
 			has_province_modifier = small_senegambian_primary
 		}
-		
 		and = {
 			culture = fulani
 			has_province_modifier = small_fulani_primary
 		}
-		
 		and = {
 			culture = yorumba
 			has_province_modifier = small_yorumba_primary
 		}
-		
 		and = {
 			culture = aka
 			has_province_modifier = small_aka_primary
 		}
-		
 		and = {
 			culture = nupe
 			has_province_modifier = small_nupe_primary
 		}
-		
 		and = {
 			culture = fon
 			has_province_modifier = small_fon_primary
 		}
-		
 		and = {
 			culture = mossi
 			has_province_modifier = small_mossi_primary
 		}
-		
 		and = {
 			culture = dagomba
 			has_province_modifier = small_dagomba_primary
 		}
-		
 		and = {
 			culture = makua
 			has_province_modifier = small_makua_primary
 		}
-		
 		and = {
 			culture = nguni
 			has_province_modifier = small_nguni_primary
 		}
-		
 		and = {
 			culture = bemba
 			has_province_modifier = small_bemba_primary
 		}
-		
 		and = {
 			culture = khoisan
 			has_province_modifier = small_khoisan_primary
 		}
-		
 		and = {
 			culture = shona
 			has_province_modifier = small_shona_primary
 		}
-		
 		and = {
 			culture = nyasa
 			has_province_modifier = small_nyasa_primary
 		}
-		
 		and = {
 			culture = lunda
 			has_province_modifier = small_lunda_primary
 		}
-		
 		and = {
 			culture = luba
 			has_province_modifier = small_luba_primary
 		}
-		
 		and = {
 			culture = kongolese
 			has_province_modifier = small_kongolese_primary
 		}
-		
 		and = {
 			culture = yaka
 			has_province_modifier = small_yaka_primary
 		}
-		
 		and = {
 			culture = kuba
 			has_province_modifier = small_kuba_primary
 		}
-		
 		and = {
 			culture = mbundu
 			has_province_modifier = small_mbundu_primary
 		}
-		
 		and = {
 			culture = chokwe
 			has_province_modifier = small_chokwe_primary
 		}
-		
 		and = {
 			culture = mbangala
 			has_province_modifier = small_mbangala_primary
 		}
-		
 		and = {
 			culture = jukun
 			has_province_modifier = small_jukun_primary
 		}
-		
 		and = {
 			culture = sawabantu
 			has_province_modifier = small_sawabantu_primary
 		}
-		
 		and = {
 			culture = rwandan
 			has_province_modifier = small_rwandan_primary
 		}
-		
 		and = {
 			culture = ganda
 			has_province_modifier = small_ganda_primary
 		}
-		
 		and = {
 			culture = masaba
 			has_province_modifier = small_masaba_primary
 		}
-		
 		and = {
 			culture = madagasue
 			has_province_modifier = small_madagasue_primary
 		}
-		
 		and = {
 			culture = takama
 			has_province_modifier = small_takama_primary
 		}
-		
 		and = {
 			culture = bena
 			has_province_modifier = small_bena_primary
 		}
-		
 		and = {
 			culture = bantu
 			has_province_modifier = small_bantu_primary
 		}
-		
 		and = {
 			culture = swahili
 			has_province_modifier = small_swahili_primary
 		}
-		
 		and = {
 			culture = somali
 			has_province_modifier = small_somali_primary
 		}
-		
 		and = {
 			culture = harari
 			has_province_modifier = small_harari_primary
 		}
-		
 		and = {
 			culture = afar
 			has_province_modifier = small_afar_primary
 		}
-		
 		and = {
 			culture = oromo
 			has_province_modifier = small_oromo_primary
 		}
-		
 		and = {
 			culture = tigray
 			has_province_modifier = small_tigray_primary
 		}
-		
 		and = {
 			culture = sidamo
 			has_province_modifier = small_sidamo_primary
 		}
-		
 		and = {
 			culture = amhara
 			has_province_modifier = small_amhara_primary
 		}
-		
 		and = {
 			culture = acholi
 			has_province_modifier = small_acholi_primary
 		}
-		
 		and = {
 			culture = nubian
 			has_province_modifier = small_nubian_primary
 		}
-		
 		and = {
 			culture = beja
 			has_province_modifier = small_beja_primary
 		}
-		
 		and = {
 			culture = evenk
 			has_province_modifier = small_evenk_primary
 		}
-		
 		and = {
 			culture = yakut
 			has_province_modifier = small_yakut_primary
 		}
-		
 		and = {
 			culture = yukagyr
 			has_province_modifier = small_yukagyr_primary
 		}
-		
 		and = {
 			culture = buryat
 			has_province_modifier = small_buryat_primary
 		}
-		
 		and = {
 			culture = tungus
 			has_province_modifier = small_tungus_primary
 		}
-		
 		and = {
 			culture = manchu
 			has_province_modifier = small_manchu_primary
 		}
-		
 		and = {
 			culture = ainu
 			has_province_modifier = small_ainu_primary
 		}
-		
 		and = {
 			culture = kamchatkan
 			has_province_modifier = small_kamchatkan_primary
 		}
-		
 		and = {
 			culture = nivkh
 			has_province_modifier = small_nivkh_primary
 		}
-		
 		and = {
 			culture = astrakhani
 			has_province_modifier = small_astrakhani_primary
 		}
-		
 		and = {
 			culture = bashkir
 			has_province_modifier = small_bashkir_primary
 		}
-		
 		and = {
 			culture = crimean
 			has_province_modifier = small_crimean_primary
 		}
-		
 		and = {
 			culture = kazani
 			has_province_modifier = small_kazani_primary
 		}
-		
 		and = {
 			culture = mishary
 			has_province_modifier = small_mishary_primary
 		}
-		
 		and = {
 			culture = nogaybak
 			has_province_modifier = small_nogaybak_primary
 		}
-		
 		and = {
 			culture = siberian
 			has_province_modifier = small_siberian_primary
 		}
-		
 		and = {
 			culture = atlantean
 			has_province_modifier = small_atlantean_primary
 		}
-		
 		and = {
 			culture = spartan
 			has_province_modifier = small_spartan_primary
 		}
-		
 		and = {
 			culture = athenian
 			has_province_modifier = small_athenian_primary
 		}
-		
 		and = {
 			culture = old_egyptian
 			has_province_modifier = small_old_egyptian_primary
 		}
-		
 		and = {
 			culture = roman
 			has_province_modifier = small_roman_primary
 		}
-		
 		and = {
 			culture = jan_mayenese
 			has_province_modifier = small_jan_mayenese_primary
 		}
-		
 		and = {
 			culture = pruthenian
 			has_province_modifier = small_pruthenian_primary
 		}
-		
 		and = {
 			culture = phoenician
 			has_province_modifier = small_phoenician_primary
 		}
-		
 		and = {
 			culture = scanian
 			has_province_modifier = small_scanian_primary
 		}
-		
 		and = {
 			culture = anglosaxon
 			has_province_modifier = small_anglosaxon_primary
 		}
-		
 		and = {
 			culture = babylonian
 			has_province_modifier = small_babylonian_primary
 		}
-		
 		and = {
 			culture = etrurian
 			has_province_modifier = small_etrurian_primary
 		}
-		
 		and = {
 			culture = parthian
 			has_province_modifier = small_parthian_primary
 		}
-		
 		and = {
 			culture = aramaic
 			has_province_modifier = small_aramaic_primary
 		}
-		
 		and = {
 			culture = hebrew
 			has_province_modifier = small_hebrew_primary
 		}
-		
 		and = {
 			culture = scythian
 			has_province_modifier = small_scythian_primary
 		}
-		
 		and = {
 			culture = livonian
 			has_province_modifier = small_livonian_primary
 		}
-		
+		and = {
+			culture = arpitan
+			has_province_modifier = small_arpitan_primary
+		}
+		and = {
+			culture = angevin
+			has_province_modifier = small_angevin_primary
+		}
+		and = {
+			culture = poitevin
+			has_province_modifier = small_poitevin_primary
+		}
+		and = {
+			culture = picard
+			has_province_modifier = small_picard_primary
+		}
+		and = {
+			culture = lorrain
+			has_province_modifier = small_lorrain_primary
+		}
+		and = {
+			culture = auvergnant
+			has_province_modifier = small_auvergnant_primary
+		}
+		and = {
+			culture = limousin
+			has_province_modifier = small_limousin_primary
+		}
+		and = {
+			culture = provencal
+			has_province_modifier = small_provencal_primary
+		}
+		and = {
+			culture = languedocian
+			has_province_modifier = small_languedocian_primary
+		}
+		and = {
+			culture = margravian
+			has_province_modifier = small_margravian_primary
+		}
+		and = {
+			culture = german_silesian
+			has_province_modifier = small_german_silesian_primary
+		}
+		and = {
+			culture = transyvanian_saxon
+			has_province_modifier = small_transyvanian_saxon_primary
+		}
+		and = {
+			culture = ingerlander
+			has_province_modifier = small_ingerlander_primary
+		}
+		and = {
+			culture = syriac
+			has_province_modifier = small_syriac_primary
+		}
+		and = {
+			culture = assyrian
+			has_province_modifier = small_assyrian_primary
+		}
+		and = {
+			culture = mandaic
+			has_province_modifier = small_mandaic_primary
+		}
+		and = {
+			culture = chaldean
+			has_province_modifier = small_chaldean_primary
+		}
+		and = {
+			culture = moldavian
+			has_province_modifier = small_moldavian_primary
+		}
+		and = {
+			culture = tuvan
+			has_province_modifier = small_tuvan_primary
+		}
+		and = {
+			culture = yenisei_kyrgyz
+			has_province_modifier = small_yenisei_kyrgyz_primary
+		}
+		and = {
+			culture = altaj
+			has_province_modifier = small_altaj_primary
+		}
+		and = {
+			culture = uygur
+			has_province_modifier = small_uygur_primary
+		}
+		and = {
+			culture = naga
+			has_province_modifier = small_naga_primary
+		}
+		and = {
+			culture = meitei
+			has_province_modifier = small_meitei_primary
+		}
+		and = {
+			culture = tripuri
+			has_province_modifier = small_tripuri_primary
+		}
+		and = {
+			culture = kachari
+			has_province_modifier = small_kachari_primary
+		}
+		and = {
+			culture = gilaki
+			has_province_modifier = small_gilaki_primary
+		}
+		and = {
+			culture = hazara
+			has_province_modifier = small_hazara_primary
+		}
+		and = {
+			culture = tajiki
+			has_province_modifier = small_tajiki_primary
+		}
+		and = {
+			culture = tat
+			has_province_modifier = small_tat_primary
+		}
+		and = {
+			culture = tati
+			has_province_modifier = small_tati_primary
+		}
+		and = {
+			culture = adhari
+			has_province_modifier = small_adhari_primary
+		}
+		and = {
+			culture = talysh
+			has_province_modifier = small_talysh_primary
+		}
+		and = {
+			culture = pamiri
+			has_province_modifier = small_pamiri_primary
+		}
+		and = {
+			culture = ossetian
+			has_province_modifier = small_ossetian_primary
+		}
+		and = {
+			culture = szekely
+			has_province_modifier = small_szekely_primary
+		}
+		and = {
+			culture = cilician
+			has_province_modifier = small_cilician_primary
+		}
+		and = {
+			culture = kabardin
+			has_province_modifier = small_kabardin_primary
+		}
+		and = {
+			culture = abkhaz
+			has_province_modifier = small_abkhaz_primary
+		}
+		and = {
+			culture = pomorian
+			has_province_modifier = small_pomorian_primary
+		}
+		and = {
+			culture = polabian
+			has_province_modifier = small_polabian_primary
+		}
+		and = {
+			culture = cappadocian_greek
+			has_province_modifier = small_cappadocian_greek_primary
+		}
+		and = {
+			culture = laki
+			has_province_modifier = small_laki_primary
+		}
+		and = {
+			culture = avaric
+			has_province_modifier = small_avaric_primary
+		}
+		and = {
+			culture = kutchi
+			has_province_modifier = small_kutchi_primary
+		}
+		and = {
+			culture = siraiki
+			has_province_modifier = small_siraiki_primary
+		}
+		and = {
+			culture = hindko
+			has_province_modifier = small_hindko_primary
+		}
+		and = {
+			culture = yogur
+			has_province_modifier = small_yogur_primary
+		}
+		and = {
+			culture = konkani
+			has_province_modifier = small_konkani_primary
+		}
+		and = {
+			culture = bhil
+			has_province_modifier = small_bhil_primary
+		}
+		and = {
+			culture = khandeshi
+			has_province_modifier = small_khandeshi_primary
+		}
+		and = {
+			culture = ladakhi
+			has_province_modifier = small_ladakhi_primary
+		}
+		and = {
+			culture = baltic_germanshina
+			has_province_modifier = small_baltic_germanshina_primary
+		}
+		and = {
+			culture = khowar
+			has_province_modifier = small_khowar_primary
+		}
+		and = {
+			culture = nuristani
+			has_province_modifier = small_nuristani_primary
+		}
+		and = {
+			culture = avarian
+			has_province_modifier = small_avarian_primary
+		}
+		and = {
+			culture = chuvash
+			has_province_modifier = small_chuvash_primary
+		}
+		and = {
+			culture = bulgar
+			has_province_modifier = small_bulgar_primary
+		}
+		and = {
+			culture = udmurt
+			has_province_modifier = small_udmurt_primary
+		}
+		and = {
+			culture = sipsongtai
+			has_province_modifier = small_sipsongtai_primary
+		}
+		and = {
+			culture = lue
+			has_province_modifier = small_lue_primary
+		}
+		and = {
+			culture = pak_thai
+			has_province_modifier = small_pak_thai_primary
+		}
+		and = {
+			culture = hlai
+			has_province_modifier = small_hlai_primary
+		}
+		and = {
+			culture = lawa
+			has_province_modifier = small_lawa_primary
+		}
+		and = {
+			culture = waic
+			has_province_modifier = small_waic_primary
+		}
+		and = {
+			culture = oyic
+			has_province_modifier = small_oyic_primary
+		}
+		and = {
+			culture = katu
+			has_province_modifier = small_katu_primary
+		}
+		and = {
+			culture = mnong
+			has_province_modifier = small_mnong_primary
+		}
+		and = {
+			culture = charau
+			has_province_modifier = small_charau_primary
+		}
+		and = {
+			culture = bahnar
+			has_province_modifier = small_bahnar_primary
+		}
+		and = {
+			culture = khmu
+			has_province_modifier = small_khmu_primary
+		}
+		and = {
+			culture = aslian
+			has_province_modifier = small_aslian_primary
+		}
+		and = {
+			culture = kuy
+			has_province_modifier = small_kuy_primary
+		}
+		and = {
+			culture = pearic
+			has_province_modifier = small_pearic_primary
+		}
+		and = {
+			culture = nyah_kur
+			has_province_modifier = small_nyah_kur_primary
+		}
+		and = {
+			culture = nicobarese
+			has_province_modifier = small_nicobarese_primary
+		}
+		and = {
+			culture = khasi
+			has_province_modifier = small_khasi_primary
+		}
+		and = {
+			culture = tulu
+			has_province_modifier = small_tulu_primary
+		}
+		and = {
+			culture = brahui
+			has_province_modifier = small_brahui_primary
+		}
+		and = {
+			culture = kurukh
+			has_province_modifier = small_kurukh_primary
+		}
+		and = {
+			culture = gondi
+			has_province_modifier = small_gondi_primary
+		}
+		and = {
+			culture = kui
+			has_province_modifier = small_kui_primary
+		}
+		and = {
+			culture = hani
+			has_province_modifier = small_hani_primary
+		}
+		and = {
+			culture = lisu
+			has_province_modifier = small_lisu_primary
+		}
+		and = {
+			culture = yao
+			has_province_modifier = small_yao_primary
+		}
+		and = {
+			culture = qaraqalpak
+			has_province_modifier = small_qaraqalpak_primary
+		}
+		and = {
+			culture = munda
+			has_province_modifier = small_munda_primary
+		}
+		and = {
+			culture = xinan
+			has_province_modifier = small_xinan_primary
+		}
+		and = {
+			culture = jaraic
+			has_province_modifier = small_jaraic_primary
+		}
+	}
 }

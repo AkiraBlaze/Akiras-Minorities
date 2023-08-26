@@ -1,5 +1,4 @@
-accepted_culture_effect = {
-	
+accepted_culture_effect = {	
 	if = {
         limit = {
             culture = pommeranian

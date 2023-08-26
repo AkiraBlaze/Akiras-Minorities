@@ -8,6 +8,8 @@ country_event = {
 	is_triggered_only = yes
 	hidden = yes
 
+	
+	
 	option = {
 		name = primary_changed.1.a
 		trigger = { primary_culture = pommeranian }
@@ -17,7 +19,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.2.a
 		trigger = { primary_culture = prussian }
@@ -27,7 +28,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.3.a
 		trigger = { primary_culture = baltic_german }
@@ -37,7 +37,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.4.a
 		trigger = { primary_culture = lower_saxon }
@@ -47,7 +46,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.5.a
 		trigger = { primary_culture = hannoverian }
@@ -57,7 +55,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.6.a
 		trigger = { primary_culture = hessian }
@@ -67,7 +64,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.7.a
 		trigger = { primary_culture = saxon }
@@ -77,7 +73,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.8.a
 		trigger = { primary_culture = franconian }
@@ -87,7 +82,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.9.a
 		trigger = { primary_culture = swabian }
@@ -97,7 +91,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.10.a
 		trigger = { primary_culture = swiss }
@@ -107,7 +100,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.11.a
 		trigger = { primary_culture = bavarian }
@@ -117,7 +109,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.12.a
 		trigger = { primary_culture = austrian }
@@ -127,7 +118,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.13.a
 		trigger = { primary_culture = dutch }
@@ -137,7 +127,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.14.a
 		trigger = { primary_culture = flemish }
@@ -147,7 +136,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.15.a
 		trigger = { primary_culture = frisian }
@@ -157,7 +145,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.16.a
 		trigger = { primary_culture = swedish }
@@ -167,7 +154,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.17.a
 		trigger = { primary_culture = danish }
@@ -177,7 +163,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.18.a
 		trigger = { primary_culture = norwegian }
@@ -187,7 +172,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.19.a
 		trigger = { primary_culture = finnish }
@@ -197,7 +181,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.20.a
 		trigger = { primary_culture = sapmi }
@@ -207,7 +190,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.21.a
 		trigger = { primary_culture = karelian }
@@ -217,7 +199,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.22.a
 		trigger = { primary_culture = icelandic }
@@ -227,7 +208,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.23.a
 		trigger = { primary_culture = norse }
@@ -237,7 +217,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.24.a
 		trigger = { primary_culture = english }
@@ -247,7 +226,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.25.a
 		trigger = { primary_culture = american }
@@ -257,7 +235,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.26.a
 		trigger = { primary_culture = welsh }
@@ -267,7 +244,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.27.a
 		trigger = { primary_culture = cornish }
@@ -277,7 +253,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.28.a
 		trigger = { primary_culture = scottish }
@@ -287,7 +262,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.29.a
 		trigger = { primary_culture = irish }
@@ -297,7 +271,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.30.a
 		trigger = { primary_culture = highland_scottish }
@@ -307,7 +280,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.31.a
 		trigger = { primary_culture = lombard }
@@ -317,7 +289,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.32.a
 		trigger = { primary_culture = tuscan }
@@ -327,7 +298,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.33.a
 		trigger = { primary_culture = sardinian }
@@ -337,7 +307,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.34.a
 		trigger = { primary_culture = romagnan }
@@ -347,7 +316,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.35.a
 		trigger = { primary_culture = ligurian }
@@ -357,7 +325,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.36.a
 		trigger = { primary_culture = venetian }
@@ -367,7 +334,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.37.a
 		trigger = { primary_culture = dalmatian }
@@ -377,7 +343,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.38.a
 		trigger = { primary_culture = neapolitan }
@@ -387,7 +352,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.39.a
 		trigger = { primary_culture = piedmontese }
@@ -397,7 +361,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.40.a
 		trigger = { primary_culture = umbrian }
@@ -407,7 +370,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.41.a
 		trigger = { primary_culture = sicilian }
@@ -417,7 +379,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.42.a
 		trigger = { primary_culture = maltese }
@@ -427,7 +388,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.43.a
 		trigger = { primary_culture = castillian }
@@ -437,7 +397,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.44.a
 		trigger = { primary_culture = mexican }
@@ -447,7 +406,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.45.a
 		trigger = { primary_culture = platinean }
@@ -457,7 +415,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.46.a
 		trigger = { primary_culture = leonese }
@@ -467,7 +424,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.47.a
 		trigger = { primary_culture = aragonese }
@@ -477,7 +433,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.48.a
 		trigger = { primary_culture = catalan }
@@ -487,7 +442,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.49.a
 		trigger = { primary_culture = galician }
@@ -497,7 +451,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.50.a
 		trigger = { primary_culture = andalucian }
@@ -507,7 +460,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.51.a
 		trigger = { primary_culture = portugese }
@@ -517,7 +469,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.52.a
 		trigger = { primary_culture = brazilian }
@@ -527,7 +478,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.53.a
 		trigger = { primary_culture = basque }
@@ -537,7 +487,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.54.a
 		trigger = { primary_culture = cosmopolitan_french }
@@ -547,7 +496,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.55.a
 		trigger = { primary_culture = gascon }
@@ -557,7 +505,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.56.a
 		trigger = { primary_culture = normand }
@@ -567,7 +514,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.57.a
 		trigger = { primary_culture = aquitaine }
@@ -577,7 +523,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.58.a
 		trigger = { primary_culture = burgundian }
@@ -587,7 +532,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.59.a
 		trigger = { primary_culture = occitain }
@@ -597,7 +541,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.60.a
 		trigger = { primary_culture = wallonian }
@@ -607,7 +550,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.61.a
 		trigger = { primary_culture = louisianans }
@@ -617,7 +559,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.62.a
 		trigger = { primary_culture = quebecois }
@@ -627,7 +568,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.63.a
 		trigger = { primary_culture = anglois }
@@ -637,7 +577,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.64.a
 		trigger = { primary_culture = breton }
@@ -647,7 +586,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.65.a
 		trigger = { primary_culture = uralic }
@@ -657,7 +595,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.66.a
 		trigger = { primary_culture = samoyed }
@@ -667,7 +604,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.67.a
 		trigger = { primary_culture = ostyaki }
@@ -677,7 +613,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.68.a
 		trigger = { primary_culture = ingrian }
@@ -687,7 +622,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.69.a
 		trigger = { primary_culture = croatian }
@@ -697,7 +631,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.70.a
 		trigger = { primary_culture = serbian }
@@ -707,7 +640,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.71.a
 		trigger = { primary_culture = slovene }
@@ -717,7 +649,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.72.a
 		trigger = { primary_culture = bosnian }
@@ -727,7 +658,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.73.a
 		trigger = { primary_culture = bulgarian }
@@ -737,7 +667,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.74.a
 		trigger = { primary_culture = albanian }
@@ -747,7 +676,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.75.a
 		trigger = { primary_culture = czech }
@@ -757,7 +685,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.76.a
 		trigger = { primary_culture = polish }
@@ -767,7 +694,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.77.a
 		trigger = { primary_culture = schlesian }
@@ -777,7 +703,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.78.a
 		trigger = { primary_culture = sorbian }
@@ -787,7 +712,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.79.a
 		trigger = { primary_culture = slovak }
@@ -797,7 +721,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.80.a
 		trigger = { primary_culture = transylvanian }
@@ -807,7 +730,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.81.a
 		trigger = { primary_culture = romanian }
@@ -817,7 +739,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.82.a
 		trigger = { primary_culture = hungarian }
@@ -827,7 +748,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.83.a
 		trigger = { primary_culture = russian }
@@ -837,7 +757,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.84.a
 		trigger = { primary_culture = novgorodian }
@@ -847,7 +766,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.85.a
 		trigger = { primary_culture = ryzanian }
@@ -857,7 +775,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.86.a
 		trigger = { primary_culture = byelorussian }
@@ -867,7 +784,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.87.a
 		trigger = { primary_culture = ruthenian }
@@ -877,7 +793,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.88.a
 		trigger = { primary_culture = russian_new }
@@ -887,7 +802,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.89.a
 		trigger = { primary_culture = novgorodian_new }
@@ -897,7 +811,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.90.a
 		trigger = { primary_culture = ryazanian_new }
@@ -907,7 +820,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.91.a
 		trigger = { primary_culture = byelorussian_new }
@@ -917,7 +829,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.92.a
 		trigger = { primary_culture = ruthenian_new }
@@ -927,7 +838,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.93.a
 		trigger = { primary_culture = slovak_new }
@@ -937,7 +847,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.94.a
 		trigger = { primary_culture = czech_new }
@@ -947,7 +856,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.95.a
 		trigger = { primary_culture = polish_new }
@@ -957,7 +865,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.96.a
 		trigger = { primary_culture = schlesian_new }
@@ -967,7 +874,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.97.a
 		trigger = { primary_culture = sorbian_new }
@@ -977,7 +883,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.98.a
 		trigger = { primary_culture = croatian_new }
@@ -987,7 +892,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.99.a
 		trigger = { primary_culture = serbian_new }
@@ -997,7 +901,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.100.a
 		trigger = { primary_culture = slovene_new }
@@ -1007,7 +910,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.101.a
 		trigger = { primary_culture = bosnian_new }
@@ -1017,7 +919,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.102.a
 		trigger = { primary_culture = bulgarian_new }
@@ -1027,7 +928,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.103.a
 		trigger = { primary_culture = estonian }
@@ -1037,7 +937,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.104.a
 		trigger = { primary_culture = lithuanian }
@@ -1047,7 +946,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.105.a
 		trigger = { primary_culture = latvian }
@@ -1057,7 +955,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.106.a
 		trigger = { primary_culture = greek }
@@ -1067,7 +964,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.107.a
 		trigger = { primary_culture = pontic_greek }
@@ -1077,7 +973,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.108.a
 		trigger = { primary_culture = goths }
@@ -1087,7 +982,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.109.a
 		trigger = { primary_culture = georgian }
@@ -1097,7 +991,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.110.a
 		trigger = { primary_culture = circassian }
@@ -1107,7 +1000,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.111.a
 		trigger = { primary_culture = dagestani }
@@ -1117,7 +1009,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.112.a
 		trigger = { primary_culture = armenian }
@@ -1127,7 +1018,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.113.a
 		trigger = { primary_culture = turkish }
@@ -1137,7 +1027,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.114.a
 		trigger = { primary_culture = al_misr_arabic }
@@ -1147,7 +1036,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.115.a
 		trigger = { primary_culture = al_suryah_arabic }
@@ -1157,7 +1045,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.116.a
 		trigger = { primary_culture = al_iraqiya_arabic }
@@ -1167,7 +1054,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.117.a
 		trigger = { primary_culture = gulf_arabic }
@@ -1177,7 +1063,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.118.a
 		trigger = { primary_culture = bedouin_arabic }
@@ -1187,7 +1072,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.119.a
 		trigger = { primary_culture = mahri_culture }
@@ -1197,7 +1081,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.120.a
 		trigger = { primary_culture = hejazi_culture }
@@ -1207,7 +1090,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.121.a
 		trigger = { primary_culture = omani_culture }
@@ -1217,7 +1099,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.122.a
 		trigger = { primary_culture = yemani_culture }
@@ -1227,7 +1108,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.123.a
 		trigger = { primary_culture = moroccan }
@@ -1237,7 +1117,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.124.a
 		trigger = { primary_culture = tunisian }
@@ -1247,7 +1126,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.125.a
 		trigger = { primary_culture = algerian }
@@ -1257,7 +1135,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.126.a
 		trigger = { primary_culture = berber }
@@ -1267,7 +1144,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.127.a
 		trigger = { primary_culture = persian }
@@ -1277,7 +1153,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.128.a
 		trigger = { primary_culture = luri }
@@ -1287,7 +1162,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.129.a
 		trigger = { primary_culture = azerbaijani }
@@ -1297,7 +1171,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.130.a
 		trigger = { primary_culture = khorasani }
@@ -1307,7 +1180,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.131.a
 		trigger = { primary_culture = baluchi }
@@ -1317,7 +1189,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.132.a
 		trigger = { primary_culture = afghani }
@@ -1327,7 +1198,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.133.a
 		trigger = { primary_culture = kurdish }
@@ -1337,7 +1207,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.134.a
 		trigger = { primary_culture = mazandarani }
@@ -1347,7 +1216,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.135.a
 		trigger = { primary_culture = mongol }
@@ -1357,7 +1225,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.136.a
 		trigger = { primary_culture = chahar }
@@ -1367,7 +1234,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.137.a
 		trigger = { primary_culture = khalkha }
@@ -1377,7 +1243,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.138.a
 		trigger = { primary_culture = oirats }
@@ -1387,7 +1252,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.139.a
 		trigger = { primary_culture = uzbehk }
@@ -1397,7 +1261,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.140.a
 		trigger = { primary_culture = turkmeni }
@@ -1407,7 +1270,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.141.a
 		trigger = { primary_culture = uyghur }
@@ -1417,7 +1279,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.142.a
 		trigger = { primary_culture = khazak }
@@ -1427,7 +1288,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.143.a
 		trigger = { primary_culture = kirgiz }
@@ -1437,7 +1297,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.144.a
 		trigger = { primary_culture = aztek }
@@ -1447,7 +1306,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.145.a
 		trigger = { primary_culture = totonac }
@@ -1457,7 +1315,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.146.a
 		trigger = { primary_culture = purepecha }
@@ -1467,7 +1324,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.147.a
 		trigger = { primary_culture = matlatzinca }
@@ -1477,7 +1333,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.148.a
 		trigger = { primary_culture = tecos }
@@ -1487,7 +1342,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.149.a
 		trigger = { primary_culture = tepic }
@@ -1497,7 +1351,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.150.a
 		trigger = { primary_culture = chichimecan }
@@ -1507,7 +1360,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.151.a
 		trigger = { primary_culture = guamares }
@@ -1517,7 +1369,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.152.a
 		trigger = { primary_culture = otomi }
@@ -1527,7 +1378,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.153.a
 		trigger = { primary_culture = yaqui }
@@ -1537,7 +1387,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.154.a
 		trigger = { primary_culture = yucatec }
@@ -1547,7 +1396,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.155.a
 		trigger = { primary_culture = putun }
@@ -1557,7 +1405,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.156.a
 		trigger = { primary_culture = mayan }
@@ -1567,7 +1414,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.157.a
 		trigger = { primary_culture = highland_mayan }
@@ -1577,7 +1423,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.158.a
 		trigger = { primary_culture = lacandon }
@@ -1587,7 +1432,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.159.a
 		trigger = { primary_culture = wastek }
@@ -1597,7 +1441,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.160.a
 		trigger = { primary_culture = chontales }
@@ -1607,7 +1450,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.161.a
 		trigger = { primary_culture = zapotek }
@@ -1617,7 +1459,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.162.a
 		trigger = { primary_culture = mixtec }
@@ -1627,7 +1468,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.163.a
 		trigger = { primary_culture = tlapanec }
@@ -1637,7 +1477,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.164.a
 		trigger = { primary_culture = inca }
@@ -1647,7 +1486,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.165.a
 		trigger = { primary_culture = aimara }
@@ -1657,7 +1495,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.166.a
 		trigger = { primary_culture = diaguita }
@@ -1667,7 +1504,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.167.a
 		trigger = { primary_culture = chimuan }
@@ -1677,7 +1513,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.168.a
 		trigger = { primary_culture = tupinamba }
@@ -1687,7 +1522,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.169.a
 		trigger = { primary_culture = guarani }
@@ -1697,7 +1531,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.170.a
 		trigger = { primary_culture = charruan }
@@ -1707,7 +1540,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.171.a
 		trigger = { primary_culture = ge }
@@ -1717,7 +1549,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.172.a
 		trigger = { primary_culture = jivaro }
@@ -1727,7 +1558,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.173.a
 		trigger = { primary_culture = chachapoyan }
@@ -1737,7 +1567,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.174.a
 		trigger = { primary_culture = muisca }
@@ -1747,7 +1576,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.175.a
 		trigger = { primary_culture = cara }
@@ -1757,7 +1585,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.176.a
 		trigger = { primary_culture = miskito }
@@ -1767,7 +1594,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.177.a
 		trigger = { primary_culture = chacoan }
@@ -1777,7 +1603,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.178.a
 		trigger = { primary_culture = mapuche }
@@ -1787,7 +1612,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.179.a
 		trigger = { primary_culture = patagonian }
@@ -1797,7 +1621,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.180.a
 		trigger = { primary_culture = het }
@@ -1807,7 +1630,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.181.a
 		trigger = { primary_culture = huarpe }
@@ -1817,7 +1639,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.182.a
 		trigger = { primary_culture = arawak }
@@ -1827,7 +1648,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.183.a
 		trigger = { primary_culture = maipurean }
@@ -1837,7 +1657,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.184.a
 		trigger = { primary_culture = carib }
@@ -1847,7 +1666,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.185.a
 		trigger = { primary_culture = guajiro }
@@ -1857,7 +1675,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.186.a
 		trigger = { primary_culture = aleutian }
@@ -1867,7 +1684,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.187.a
 		trigger = { primary_culture = inuit }
@@ -1877,7 +1693,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.188.a
 		trigger = { primary_culture = shawnee }
@@ -1887,7 +1702,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.189.a
 		trigger = { primary_culture = illini }
@@ -1897,7 +1711,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.190.a
 		trigger = { primary_culture = miami }
@@ -1907,7 +1720,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.191.a
 		trigger = { primary_culture = anishinabe }
@@ -1917,7 +1729,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.192.a
 		trigger = { primary_culture = algonquin }
@@ -1927,7 +1738,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.193.a
 		trigger = { primary_culture = cree }
@@ -1937,7 +1747,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.194.a
 		trigger = { primary_culture = innu }
@@ -1947,7 +1756,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.195.a
 		trigger = { primary_culture = mesquakie }
@@ -1957,7 +1765,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.196.a
 		trigger = { primary_culture = cheyenne }
@@ -1967,7 +1774,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.197.a
 		trigger = { primary_culture = blackfoot }
@@ -1977,7 +1783,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.198.a
 		trigger = { primary_culture = arapaho }
@@ -1987,7 +1792,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.199.a
 		trigger = { primary_culture = plains_cree }
@@ -1997,7 +1801,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.200.a
 		trigger = { primary_culture = bungi }
@@ -2007,7 +1810,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.201.a
 		trigger = { primary_culture = delaware }
@@ -2017,7 +1819,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.202.a
 		trigger = { primary_culture = abenaki }
@@ -2027,7 +1828,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.203.a
 		trigger = { primary_culture = mikmaq }
@@ -2037,7 +1837,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.204.a
 		trigger = { primary_culture = maliseet }
@@ -2047,7 +1846,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.205.a
 		trigger = { primary_culture = mahican }
@@ -2057,7 +1855,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.206.a
 		trigger = { primary_culture = powhatan }
@@ -2067,7 +1864,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.207.a
 		trigger = { primary_culture = pequot }
@@ -2077,7 +1873,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.208.a
 		trigger = { primary_culture = massachusset }
@@ -2087,7 +1882,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.209.a
 		trigger = { primary_culture = iroquoian }
@@ -2097,7 +1891,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.210.a
 		trigger = { primary_culture = cherokee }
@@ -2107,7 +1900,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.211.a
 		trigger = { primary_culture = huron }
@@ -2117,7 +1909,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.212.a
 		trigger = { primary_culture = laurentian }
@@ -2127,7 +1918,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.213.a
 		trigger = { primary_culture = tionontate }
@@ -2137,7 +1927,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.214.a
 		trigger = { primary_culture = susquehannock }
@@ -2147,7 +1936,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.215.a
 		trigger = { primary_culture = dakota }
@@ -2157,7 +1945,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.216.a
 		trigger = { primary_culture = nakota }
@@ -2167,7 +1954,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.217.a
 		trigger = { primary_culture = chiwere }
@@ -2177,7 +1963,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.218.a
 		trigger = { primary_culture = osage }
@@ -2187,7 +1972,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.219.a
 		trigger = { primary_culture = wichita }
@@ -2197,7 +1981,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.220.a
 		trigger = { primary_culture = caddo }
@@ -2207,7 +1990,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.221.a
 		trigger = { primary_culture = pawnee }
@@ -2217,7 +1999,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.222.a
 		trigger = { primary_culture = creek }
@@ -2227,7 +2008,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.223.a
 		trigger = { primary_culture = choctaw }
@@ -2237,7 +2017,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.224.a
 		trigger = { primary_culture = chickasaw }
@@ -2247,7 +2026,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.225.a
 		trigger = { primary_culture = yuchi }
@@ -2257,7 +2035,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.226.a
 		trigger = { primary_culture = yoron }
@@ -2267,7 +2044,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.227.a
 		trigger = { primary_culture = catawba }
@@ -2277,7 +2053,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.228.a
 		trigger = { primary_culture = natchez }
@@ -2287,7 +2062,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.229.a
 		trigger = { primary_culture = yamasee }
@@ -2297,7 +2071,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.230.a
 		trigger = { primary_culture = pueblo }
@@ -2307,7 +2080,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.231.a
 		trigger = { primary_culture = piman }
@@ -2317,7 +2089,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.232.a
 		trigger = { primary_culture = shoshone }
@@ -2327,7 +2098,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.233.a
 		trigger = { primary_culture = kiowa }
@@ -2337,7 +2107,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.234.a
 		trigger = { primary_culture = apache }
@@ -2347,7 +2116,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.235.a
 		trigger = { primary_culture = mescalero }
@@ -2357,7 +2125,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.236.a
 		trigger = { primary_culture = lipan }
@@ -2367,7 +2134,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.237.a
 		trigger = { primary_culture = navajo }
@@ -2377,7 +2143,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.238.a
 		trigger = { primary_culture = chipewyan }
@@ -2387,7 +2152,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.239.a
 		trigger = { primary_culture = haida }
@@ -2397,7 +2161,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.240.a
 		trigger = { primary_culture = athabascan }
@@ -2407,7 +2170,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.241.a
 		trigger = { primary_culture = salish }
@@ -2417,7 +2179,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.242.a
 		trigger = { primary_culture = chinook }
@@ -2427,7 +2188,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.243.a
 		trigger = { primary_culture = yokuts }
@@ -2437,7 +2197,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.244.a
 		trigger = { primary_culture = vietnamese_new }
@@ -2447,7 +2206,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.245.a
 		trigger = { primary_culture = korean_new }
@@ -2457,7 +2215,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.246.a
 		trigger = { primary_culture = tibetan_new }
@@ -2467,7 +2224,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.247.a
 		trigger = { primary_culture = altaic_new }
@@ -2477,7 +2233,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.248.a
 		trigger = { primary_culture = zhuang_new }
@@ -2487,7 +2242,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.249.a
 		trigger = { primary_culture = manchu_new }
@@ -2497,7 +2251,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.250.a
 		trigger = { primary_culture = chihan }
@@ -2507,7 +2260,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.251.a
 		trigger = { primary_culture = cantonese }
@@ -2517,7 +2269,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.252.a
 		trigger = { primary_culture = jin }
@@ -2527,7 +2278,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.253.a
 		trigger = { primary_culture = wu }
@@ -2537,7 +2287,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.254.a
 		trigger = { primary_culture = chimin }
@@ -2547,7 +2296,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.255.a
 		trigger = { primary_culture = hakka }
@@ -2557,7 +2305,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.256.a
 		trigger = { primary_culture = gan }
@@ -2567,7 +2314,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.257.a
 		trigger = { primary_culture = xiang }
@@ -2577,7 +2323,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.258.a
 		trigger = { primary_culture = sichuanese }
@@ -2587,7 +2332,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.259.a
 		trigger = { primary_culture = jianghuai }
@@ -2597,7 +2341,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.260.a
 		trigger = { primary_culture = xibei }
@@ -2607,7 +2350,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.261.a
 		trigger = { primary_culture = hubei }
@@ -2617,7 +2359,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.262.a
 		trigger = { primary_culture = zhongyuan }
@@ -2627,7 +2368,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.263.a
 		trigger = { primary_culture = shandong_culture }
@@ -2637,7 +2377,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.264.a
 		trigger = { primary_culture = korean }
@@ -2647,7 +2386,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.265.a
 		trigger = { primary_culture = togoku }
@@ -2657,7 +2395,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.266.a
 		trigger = { primary_culture = japanese }
@@ -2667,7 +2404,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.267.a
 		trigger = { primary_culture = kyushuan }
@@ -2677,7 +2413,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.268.a
 		trigger = { primary_culture = tibetan }
@@ -2687,7 +2422,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.269.a
 		trigger = { primary_culture = yi }
@@ -2697,7 +2431,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.270.a
 		trigger = { primary_culture = bai }
@@ -2707,7 +2440,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.271.a
 		trigger = { primary_culture = miao }
@@ -2717,7 +2449,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.272.a
 		trigger = { primary_culture = malayan }
@@ -2727,7 +2458,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.273.a
 		trigger = { primary_culture = sumatran }
@@ -2737,7 +2467,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.274.a
 		trigger = { primary_culture = acehnese }
@@ -2747,7 +2476,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.275.a
 		trigger = { primary_culture = javanese }
@@ -2757,7 +2485,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.276.a
 		trigger = { primary_culture = sundanese }
@@ -2767,7 +2494,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.277.a
 		trigger = { primary_culture = filipino }
@@ -2777,7 +2503,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.278.a
 		trigger = { primary_culture = bornean }
@@ -2787,7 +2512,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.279.a
 		trigger = { primary_culture = madagascan }
@@ -2797,7 +2521,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.280.a
 		trigger = { primary_culture = sulawesi }
@@ -2807,7 +2530,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.281.a
 		trigger = { primary_culture = moluccan }
@@ -2817,7 +2539,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.282.a
 		trigger = { primary_culture = nusa_tenggara }
@@ -2827,7 +2548,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.283.a
 		trigger = { primary_culture = cham }
@@ -2837,7 +2557,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.284.a
 		trigger = { primary_culture = central_thai }
@@ -2847,7 +2566,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.285.a
 		trigger = { primary_culture = northern_thai }
@@ -2857,7 +2575,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.286.a
 		trigger = { primary_culture = lao }
@@ -2867,7 +2584,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.287.a
 		trigger = { primary_culture = shan }
@@ -2877,7 +2593,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.288.a
 		trigger = { primary_culture = zhuang }
@@ -2887,7 +2602,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.289.a
 		trigger = { primary_culture = khmer }
@@ -2897,7 +2611,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.290.a
 		trigger = { primary_culture = mon }
@@ -2907,7 +2620,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.291.a
 		trigger = { primary_culture = vietnamese }
@@ -2917,7 +2629,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.292.a
 		trigger = { primary_culture = burmese }
@@ -2927,7 +2638,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.293.a
 		trigger = { primary_culture = chin }
@@ -2937,7 +2647,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.294.a
 		trigger = { primary_culture = karen }
@@ -2947,7 +2656,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.295.a
 		trigger = { primary_culture = kachin }
@@ -2957,7 +2665,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.296.a
 		trigger = { primary_culture = arakanese }
@@ -2967,7 +2674,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.297.a
 		trigger = { primary_culture = papuan }
@@ -2977,7 +2683,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.298.a
 		trigger = { primary_culture = maori }
@@ -2987,7 +2692,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.299.a
 		trigger = { primary_culture = melanesian }
@@ -2997,7 +2701,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.300.a
 		trigger = { primary_culture = polynesian }
@@ -3007,7 +2710,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.301.a
 		trigger = { primary_culture = aboriginal }
@@ -3017,7 +2719,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.302.a
 		trigger = { primary_culture = yura }
@@ -3027,7 +2728,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.303.a
 		trigger = { primary_culture = paman }
@@ -3037,7 +2737,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.304.a
 		trigger = { primary_culture = gunwinyguan }
@@ -3047,7 +2746,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.305.a
 		trigger = { primary_culture = palawa }
@@ -3057,7 +2755,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.306.a
 		trigger = { primary_culture = kulin }
@@ -3067,7 +2764,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.307.a
 		trigger = { primary_culture = gamilaraay }
@@ -3077,7 +2773,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.308.a
 		trigger = { primary_culture = nyoongah }
@@ -3087,7 +2782,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.309.a
 		trigger = { primary_culture = assamese }
@@ -3097,7 +2791,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.310.a
 		trigger = { primary_culture = bengali }
@@ -3107,7 +2800,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.311.a
 		trigger = { primary_culture = kochi }
@@ -3117,7 +2809,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.312.a
 		trigger = { primary_culture = bihari }
@@ -3127,7 +2818,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.313.a
 		trigger = { primary_culture = pahari }
@@ -3137,7 +2827,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.314.a
 		trigger = { primary_culture = nepali }
@@ -3147,7 +2836,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.315.a
 		trigger = { primary_culture = oriya }
@@ -3157,7 +2845,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.316.a
 		trigger = { primary_culture = sinhala }
@@ -3167,7 +2854,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.317.a
 		trigger = { primary_culture = avadhi }
@@ -3177,7 +2863,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.318.a
 		trigger = { primary_culture = kanauji }
@@ -3187,7 +2872,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.319.a
 		trigger = { primary_culture = vindhyan }
@@ -3197,7 +2881,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.320.a
 		trigger = { primary_culture = panjabi }
@@ -3207,7 +2890,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.321.a
 		trigger = { primary_culture = kashmiri }
@@ -3217,7 +2899,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.322.a
 		trigger = { primary_culture = gujarati }
@@ -3227,7 +2908,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.323.a
 		trigger = { primary_culture = parsi }
@@ -3237,7 +2917,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.324.a
 		trigger = { primary_culture = saurashtri }
@@ -3247,7 +2926,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.325.a
 		trigger = { primary_culture = marathi }
@@ -3257,7 +2935,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.326.a
 		trigger = { primary_culture = sindhi }
@@ -3267,7 +2944,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.327.a
 		trigger = { primary_culture = rajput }
@@ -3277,7 +2953,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.328.a
 		trigger = { primary_culture = malvi }
@@ -3287,7 +2962,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.329.a
 		trigger = { primary_culture = kannada }
@@ -3297,7 +2971,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.330.a
 		trigger = { primary_culture = malayalam }
@@ -3307,7 +2980,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.331.a
 		trigger = { primary_culture = tamil }
@@ -3317,7 +2989,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.332.a
 		trigger = { primary_culture = telegu }
@@ -3327,7 +2998,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.333.a
 		trigger = { primary_culture = gondi }
@@ -3337,7 +3007,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.334.a
 		trigger = { primary_culture = garjati }
@@ -3347,7 +3016,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.335.a
 		trigger = { primary_culture = jharkhandi }
@@ -3357,7 +3025,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.336.a
 		trigger = { primary_culture = mali }
@@ -3367,7 +3034,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.337.a
 		trigger = { primary_culture = songhai }
@@ -3377,7 +3043,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.338.a
 		trigger = { primary_culture = soninke }
@@ -3387,7 +3052,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.339.a
 		trigger = { primary_culture = bambara }
@@ -3397,7 +3061,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.340.a
 		trigger = { primary_culture = bozo }
@@ -3407,7 +3070,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.341.a
 		trigger = { primary_culture = dyola }
@@ -3417,7 +3079,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.342.a
 		trigger = { primary_culture = hausa }
@@ -3427,7 +3088,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.343.a
 		trigger = { primary_culture = kanuri }
@@ -3437,7 +3097,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.344.a
 		trigger = { primary_culture = bilala }
@@ -3447,7 +3106,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.345.a
 		trigger = { primary_culture = tunjur }
@@ -3457,7 +3115,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.346.a
 		trigger = { primary_culture = tuareg }
@@ -3467,7 +3124,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.347.a
 		trigger = { primary_culture = senegambian }
@@ -3477,7 +3133,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.348.a
 		trigger = { primary_culture = fulani }
@@ -3487,7 +3142,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.349.a
 		trigger = { primary_culture = yorumba }
@@ -3497,7 +3151,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.350.a
 		trigger = { primary_culture = aka }
@@ -3507,7 +3160,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.351.a
 		trigger = { primary_culture = nupe }
@@ -3517,7 +3169,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.352.a
 		trigger = { primary_culture = fon }
@@ -3527,7 +3178,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.353.a
 		trigger = { primary_culture = mossi }
@@ -3537,7 +3187,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.354.a
 		trigger = { primary_culture = dagomba }
@@ -3547,7 +3196,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.355.a
 		trigger = { primary_culture = makua }
@@ -3557,7 +3205,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.356.a
 		trigger = { primary_culture = nguni }
@@ -3567,7 +3214,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.357.a
 		trigger = { primary_culture = bemba }
@@ -3577,7 +3223,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.358.a
 		trigger = { primary_culture = khoisan }
@@ -3587,7 +3232,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.359.a
 		trigger = { primary_culture = shona }
@@ -3597,7 +3241,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.360.a
 		trigger = { primary_culture = nyasa }
@@ -3607,7 +3250,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.361.a
 		trigger = { primary_culture = lunda }
@@ -3617,7 +3259,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.362.a
 		trigger = { primary_culture = luba }
@@ -3627,7 +3268,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.363.a
 		trigger = { primary_culture = kongolese }
@@ -3637,7 +3277,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.364.a
 		trigger = { primary_culture = yaka }
@@ -3647,7 +3286,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.365.a
 		trigger = { primary_culture = kuba }
@@ -3657,7 +3295,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.366.a
 		trigger = { primary_culture = mbundu }
@@ -3667,7 +3304,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.367.a
 		trigger = { primary_culture = chokwe }
@@ -3677,7 +3313,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.368.a
 		trigger = { primary_culture = mbangala }
@@ -3687,7 +3322,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.369.a
 		trigger = { primary_culture = jukun }
@@ -3697,7 +3331,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.370.a
 		trigger = { primary_culture = sawabantu }
@@ -3707,7 +3340,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.371.a
 		trigger = { primary_culture = rwandan }
@@ -3717,7 +3349,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.372.a
 		trigger = { primary_culture = ganda }
@@ -3727,7 +3358,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.373.a
 		trigger = { primary_culture = masaba }
@@ -3737,7 +3367,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.374.a
 		trigger = { primary_culture = madagasue }
@@ -3747,7 +3376,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.375.a
 		trigger = { primary_culture = takama }
@@ -3757,7 +3385,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.376.a
 		trigger = { primary_culture = bena }
@@ -3767,7 +3394,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.377.a
 		trigger = { primary_culture = bantu }
@@ -3777,7 +3403,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.378.a
 		trigger = { primary_culture = swahili }
@@ -3787,7 +3412,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.379.a
 		trigger = { primary_culture = somali }
@@ -3797,7 +3421,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.380.a
 		trigger = { primary_culture = harari }
@@ -3807,7 +3430,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.381.a
 		trigger = { primary_culture = afar }
@@ -3817,7 +3439,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.382.a
 		trigger = { primary_culture = oromo }
@@ -3827,7 +3448,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.383.a
 		trigger = { primary_culture = tigray }
@@ -3837,7 +3457,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.384.a
 		trigger = { primary_culture = sidamo }
@@ -3847,7 +3466,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.385.a
 		trigger = { primary_culture = amhara }
@@ -3857,7 +3475,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.386.a
 		trigger = { primary_culture = acholi }
@@ -3867,7 +3484,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.387.a
 		trigger = { primary_culture = nubian }
@@ -3877,7 +3493,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.388.a
 		trigger = { primary_culture = beja }
@@ -3887,7 +3502,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.389.a
 		trigger = { primary_culture = evenk }
@@ -3897,7 +3511,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.390.a
 		trigger = { primary_culture = yakut }
@@ -3907,7 +3520,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.391.a
 		trigger = { primary_culture = yukagyr }
@@ -3917,7 +3529,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.392.a
 		trigger = { primary_culture = buryat }
@@ -3927,7 +3538,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.393.a
 		trigger = { primary_culture = tungus }
@@ -3937,7 +3547,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.394.a
 		trigger = { primary_culture = manchu }
@@ -3947,7 +3556,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.395.a
 		trigger = { primary_culture = ainu }
@@ -3957,7 +3565,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.396.a
 		trigger = { primary_culture = kamchatkan }
@@ -3967,7 +3574,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.397.a
 		trigger = { primary_culture = nivkh }
@@ -3977,7 +3583,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.398.a
 		trigger = { primary_culture = astrakhani }
@@ -3987,7 +3592,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.399.a
 		trigger = { primary_culture = bashkir }
@@ -3997,7 +3601,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.400.a
 		trigger = { primary_culture = crimean }
@@ -4007,7 +3610,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.401.a
 		trigger = { primary_culture = kazani }
@@ -4017,7 +3619,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.402.a
 		trigger = { primary_culture = mishary }
@@ -4027,7 +3628,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.403.a
 		trigger = { primary_culture = nogaybak }
@@ -4037,7 +3637,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.404.a
 		trigger = { primary_culture = siberian }
@@ -4047,7 +3646,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.405.a
 		trigger = { primary_culture = atlantean }
@@ -4057,7 +3655,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.406.a
 		trigger = { primary_culture = spartan }
@@ -4067,7 +3664,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.407.a
 		trigger = { primary_culture = athenian }
@@ -4077,7 +3673,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.408.a
 		trigger = { primary_culture = old_egyptian }
@@ -4087,7 +3682,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.409.a
 		trigger = { primary_culture = roman }
@@ -4097,7 +3691,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.410.a
 		trigger = { primary_culture = jan_mayenese }
@@ -4107,7 +3700,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.411.a
 		trigger = { primary_culture = pruthenian }
@@ -4117,7 +3709,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.412.a
 		trigger = { primary_culture = phoenician }
@@ -4127,7 +3718,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.413.a
 		trigger = { primary_culture = scanian }
@@ -4137,7 +3727,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.414.a
 		trigger = { primary_culture = anglosaxon }
@@ -4147,7 +3736,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.415.a
 		trigger = { primary_culture = babylonian }
@@ -4157,7 +3745,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.416.a
 		trigger = { primary_culture = etrurian }
@@ -4167,7 +3754,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.417.a
 		trigger = { primary_culture = parthian }
@@ -4177,7 +3763,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.418.a
 		trigger = { primary_culture = aramaic }
@@ -4187,7 +3772,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.419.a
 		trigger = { primary_culture = hebrew }
@@ -4197,7 +3781,6 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.420.a
 		trigger = { primary_culture = scythian }
@@ -4207,13 +3790,813 @@ country_event = {
 			}
 		}
 	}
-
 	option = {
 		name = primary_changed.421.a
 		trigger = { primary_culture = livonian }
 		hidden_effect = {
 			every_owned_province = {
 				Change_Primary_livonian = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.422.a
+		trigger = { primary_culture = arpitan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_arpitan = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.423.a
+		trigger = { primary_culture = angevin }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_angevin = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.424.a
+		trigger = { primary_culture = poitevin }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_poitevin = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.425.a
+		trigger = { primary_culture = picard }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_picard = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.426.a
+		trigger = { primary_culture = lorrain }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_lorrain = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.427.a
+		trigger = { primary_culture = auvergnant }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_auvergnant = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.428.a
+		trigger = { primary_culture = limousin }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_limousin = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.429.a
+		trigger = { primary_culture = provencal }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_provencal = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.430.a
+		trigger = { primary_culture = languedocian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_languedocian = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.431.a
+		trigger = { primary_culture = margravian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_margravian = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.432.a
+		trigger = { primary_culture = german_silesian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_german_silesian = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.433.a
+		trigger = { primary_culture = transyvanian_saxon }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_transyvanian_saxon = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.434.a
+		trigger = { primary_culture = ingerlander }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ingerlander = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.435.a
+		trigger = { primary_culture = syriac }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_syriac = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.436.a
+		trigger = { primary_culture = assyrian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_assyrian = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.437.a
+		trigger = { primary_culture = mandaic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mandaic = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.438.a
+		trigger = { primary_culture = chaldean }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chaldean = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.439.a
+		trigger = { primary_culture = moldavian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_moldavian = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.440.a
+		trigger = { primary_culture = tuvan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tuvan = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.441.a
+		trigger = { primary_culture = yenisei_kyrgyz }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yenisei_kyrgyz = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.442.a
+		trigger = { primary_culture = altaj }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_altaj = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.443.a
+		trigger = { primary_culture = uygur }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_uygur = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.444.a
+		trigger = { primary_culture = naga }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_naga = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.445.a
+		trigger = { primary_culture = meitei }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_meitei = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.446.a
+		trigger = { primary_culture = tripuri }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tripuri = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.447.a
+		trigger = { primary_culture = kachari }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kachari = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.448.a
+		trigger = { primary_culture = gilaki }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_gilaki = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.449.a
+		trigger = { primary_culture = hazara }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hazara = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.450.a
+		trigger = { primary_culture = tajiki }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tajiki = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.451.a
+		trigger = { primary_culture = tat }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tat = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.452.a
+		trigger = { primary_culture = tati }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tati = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.453.a
+		trigger = { primary_culture = adhari }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_adhari = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.454.a
+		trigger = { primary_culture = talysh }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_talysh = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.455.a
+		trigger = { primary_culture = pamiri }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_pamiri = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.456.a
+		trigger = { primary_culture = ossetian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ossetian = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.457.a
+		trigger = { primary_culture = szekely }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_szekely = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.458.a
+		trigger = { primary_culture = cilician }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_cilician = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.459.a
+		trigger = { primary_culture = kabardin }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kabardin = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.460.a
+		trigger = { primary_culture = abkhaz }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_abkhaz = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.461.a
+		trigger = { primary_culture = pomorian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_pomorian = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.462.a
+		trigger = { primary_culture = polabian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_polabian = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.463.a
+		trigger = { primary_culture = cappadocian_greek }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_cappadocian_greek = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.464.a
+		trigger = { primary_culture = laki }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_laki = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.465.a
+		trigger = { primary_culture = avaric }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_avaric = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.466.a
+		trigger = { primary_culture = kutchi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kutchi = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.467.a
+		trigger = { primary_culture = siraiki }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_siraiki = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.468.a
+		trigger = { primary_culture = hindko }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hindko = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.469.a
+		trigger = { primary_culture = yogur }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yogur = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.470.a
+		trigger = { primary_culture = konkani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_konkani = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.471.a
+		trigger = { primary_culture = bhil }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bhil = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.472.a
+		trigger = { primary_culture = khandeshi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_khandeshi = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.473.a
+		trigger = { primary_culture = ladakhi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_ladakhi = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.474.a
+		trigger = { primary_culture = baltic_germanshina }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_baltic_germanshina = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.475.a
+		trigger = { primary_culture = khowar }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_khowar = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.476.a
+		trigger = { primary_culture = nuristani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nuristani = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.477.a
+		trigger = { primary_culture = avarian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_avarian = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.478.a
+		trigger = { primary_culture = chuvash }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_chuvash = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.479.a
+		trigger = { primary_culture = bulgar }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bulgar = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.480.a
+		trigger = { primary_culture = udmurt }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_udmurt = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.481.a
+		trigger = { primary_culture = sipsongtai }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_sipsongtai = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.482.a
+		trigger = { primary_culture = lue }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_lue = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.483.a
+		trigger = { primary_culture = pak_thai }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_pak_thai = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.484.a
+		trigger = { primary_culture = hlai }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hlai = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.485.a
+		trigger = { primary_culture = lawa }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_lawa = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.486.a
+		trigger = { primary_culture = waic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_waic = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.487.a
+		trigger = { primary_culture = oyic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_oyic = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.488.a
+		trigger = { primary_culture = katu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_katu = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.489.a
+		trigger = { primary_culture = mnong }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_mnong = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.490.a
+		trigger = { primary_culture = charau }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_charau = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.491.a
+		trigger = { primary_culture = bahnar }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_bahnar = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.492.a
+		trigger = { primary_culture = khmu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_khmu = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.493.a
+		trigger = { primary_culture = aslian }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_aslian = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.494.a
+		trigger = { primary_culture = kuy }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kuy = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.495.a
+		trigger = { primary_culture = pearic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_pearic = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.496.a
+		trigger = { primary_culture = nyah_kur }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nyah_kur = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.497.a
+		trigger = { primary_culture = nicobarese }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_nicobarese = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.498.a
+		trigger = { primary_culture = khasi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_khasi = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.499.a
+		trigger = { primary_culture = tulu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_tulu = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.500.a
+		trigger = { primary_culture = brahui }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_brahui = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.501.a
+		trigger = { primary_culture = kurukh }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kurukh = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.502.a
+		trigger = { primary_culture = gondi }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_gondi = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.503.a
+		trigger = { primary_culture = kui }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_kui = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.504.a
+		trigger = { primary_culture = hani }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_hani = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.505.a
+		trigger = { primary_culture = lisu }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_lisu = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.506.a
+		trigger = { primary_culture = yao }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_yao = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.507.a
+		trigger = { primary_culture = qaraqalpak }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_qaraqalpak = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.508.a
+		trigger = { primary_culture = munda }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_munda = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.509.a
+		trigger = { primary_culture = xinan }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_xinan = yes
+			}
+		}
+	}
+	option = {
+		name = primary_changed.510.a
+		trigger = { primary_culture = jaraic }
+		hidden_effect = {
+			every_owned_province = {
+				Change_Primary_jaraic = yes
 			}
 		}
 	}
